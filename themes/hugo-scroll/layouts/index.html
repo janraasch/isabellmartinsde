@@ -1,0 +1,32 @@
+{{ define "main" }}
+<header id="site-head" style="background-image: url(https://raw.githubusercontent.com/janraasch/ghost-on-heroku/files/2019/01/background_1430507946121-1431629532548.jpg)">
+    <div class="vertical">
+        <div id="site-head-content" class="inner">
+
+            
+            <h1 class="blog-title">Isabell Martins</h1>
+            <h2 class="blog-description">Individuelle und ganzheitliche Ernährungsberatung in Lübeck</h2>
+
+            <a class='btn leistungen'>Leistungen</a>
+            <a class='btn ueber_mich'>Über mich</a>
+            <a class='btn kontakt'>Kontakt</a><br>
+            <i id='header-arrow' class="fa fa-angle-down"></i>
+        </div>
+    </div>
+
+</header>
+<main class="content" role="main">
+
+    <div class='fixed-nav'>
+    </div>
+    {{ $sections := where .Site.Pages.ByWeight ".Type" "eq" "section" }}
+    {{ range $index_val, $elem_val := $sections }}
+        <div class='post-holder'>
+            <article class='post {{ if eq $index_val 0 }}first{{ else }}{{ if eq (add $index_val 1) (len $sections) }}last{{ end }}{{ end }}'>
+                {{ .Render "section" }}
+            </article>
+            <div class='post-after'></div>
+        </div>
+    {{ end }}
+</main>
+{{ end }}
