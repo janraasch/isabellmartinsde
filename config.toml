@@ -4,4 +4,4 @@ title = "Isabell Martins"
 theme = "hugo-scroll"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 [permalinks]
-    pages = "/:slug/"
+    page = "/:slug/"
