@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "Isabell Martins"
-# disableKinds = ["page", "home", "section", "taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
 theme = "hugo-scroll"
-disableKinds = ["taxonomy", "term", "RSS"]
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+[permalinks]
+    pages = "/:slug/"
