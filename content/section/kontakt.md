@@ -1,6 +1,5 @@
 ---
 title: 'Kontakt'
-type: 'section'
 weight: 4
 ---
 E-Mail: [beratung@isabellmartins.de](mailto:beratung@isabellmartins.de)

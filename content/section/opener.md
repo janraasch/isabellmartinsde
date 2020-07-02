@@ -1,6 +1,5 @@
 ---
 title: 'Ernährungsberatung Lübeck'
-type: 'section'
 weight: 1
 ---
 Individuell & ganzheitlich

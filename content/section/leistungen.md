@@ -1,6 +1,5 @@
 ---
 title: 'Leistungen'
-type: 'section'
 weight: 2
 ---
 Jeder Mensch ist einzigartig. So individuell wie die Ernährung und der Lebensstil, ist auch der Weg zu mehr Wohlbefinden und Gesundheit. Gemeinsam legen wir die ersten Pflastersteine, sodass Sie ihn dann eigenständig aufbauen können.
