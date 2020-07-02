@@ -4,7 +4,7 @@ slug: betriebliche-gesundheitsfoerderung
 ---
 Gesunde und motivierte Mitarbeiter **>>** erfolgreiche Firma
 
-![Fitte Mitarbeiter](https://raw.githubusercontent.com/janraasch/ghost-on-heroku/files/2019/01/Frau_Buero-1431966120240.jpg)
+![Fitte Mitarbeiter](/images/Frau_Buero-1431966120240.jpg)
 
 Mit der betrieblichen Gesundheitsförderung tun Sie nicht nur Ihren Mitarbeitern etwas Gutes, sondern auch Ihrem Unternehmen.
 

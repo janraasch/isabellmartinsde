@@ -4,7 +4,7 @@ weight: 2
 ---
 Jeder Mensch ist einzigartig. So individuell wie die Ernährung und der Lebensstil, ist auch der Weg zu mehr Wohlbefinden und Gesundheit. Gemeinsam legen wir die ersten Pflastersteine, sodass Sie ihn dann eigenständig aufbauen können.
 
-![Familie](https://raw.githubusercontent.com/janraasch/ghost-on-heroku/files/2019/01/Family-1431965974558.jpg)
+![Familie](/images/Family-1431965974558.jpg)
 
 Egal, ob Sie
 
@@ -59,7 +59,7 @@ In der Ernährungstherapie begleite ich die Behandlung von unter anderem folgend
 ---
 ### Betriebliche Gesundheitsförderung
 
-![Fitte Mitarbeiter](https://raw.githubusercontent.com/janraasch/ghost-on-heroku/files/2019/01/Frau_Buero-1431966120240.jpg)
+![Fitte Mitarbeiter](/images/Frau_Buero-1431966120240.jpg)
 
 Ich komme zu Ihnen in die Firma und coache Ihre Mitarbeiter einzeln oder in der Gruppe zum Thema Ernährung. Das Programm erstelle ich individuell anhand des Bedarfs Ihrer Belegschaft und Ihren Wünschen.
 

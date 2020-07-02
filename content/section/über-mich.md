@@ -2,7 +2,7 @@
 title: 'Über mich'
 weight: 3
 ---
-![Isabell Martins](https://raw.githubusercontent.com/janraasch/ghost-on-heroku/files/2019/01/P1030686-1439462908988.jpg)
+![Isabell Martins](/images/P1030686-1439462908988.jpg)
 
 ##### Mein Studium
 
