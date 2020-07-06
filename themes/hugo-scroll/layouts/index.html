@@ -1,5 +1,5 @@
 {{ define "main" }}
-<header id="site-head" {{ with .Params.header_image }}style="background-image: url({{ . }})"{{ end }}>
+<header id="site-head" {{ with .Params.header_image }}style="background-image: url({{ . | absURL }})"{{ end }}>
     <div class="vertical">
         <div id="site-head-content" class="inner">
 
