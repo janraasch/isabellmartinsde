@@ -9,3 +9,5 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
+[params]
+    description = "Individuelle und ganzheitliche Ernährungsberatung in Lübeck"

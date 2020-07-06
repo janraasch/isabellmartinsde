@@ -4,8 +4,8 @@
         <div id="site-head-content" class="inner">
 
             
-            <h1 class="blog-title">Isabell Martins</h1>
-            <h2 class="blog-description">Individuelle und ganzheitliche Ernährungsberatung in Lübeck</h2>
+            <h1 class="blog-title">{{ .Site.Title }}</h1>
+            {{ with .Site.Params.description }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
 
             <a class='btn leistungen'>Leistungen</a>
             <a class='btn ueber_mich'>Über mich</a>
