@@ -1,6 +1,8 @@
 <footer class="site-footer">
     <div class="inner">
-         <section class="impressum"><a href="{{ "/impressum/" | absURL }}" title="Impressum">Impressum</a></section>
-         <section>Made with ♥ by <a href="https://www.janraasch.com" title="Jan Raasch Webmaster">Jan Raasch</a></section>
+        <!-- TODO: Remove link to impressum before publishing the theme | Instead introduce and render Copyright here -->
+        <section class="impressum"><a href="{{ "/impressum/" | absURL }}" title="Impressum">Impressum</a></section>
+        <!-- TODO: Add link to theme and change the text to Theme made with heart by ... -->
+        {{if (not .Site.Params.hideTheLove) }}<section>Made with ♥ by <a href="https://www.janraasch.com" title="Jan Raasch Webmaster">Jan Raasch</a></section>{{ end }}
     </div>
 </footer>
