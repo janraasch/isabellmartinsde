@@ -18,6 +18,12 @@ var $sitehead = $('#site-head');
 			scrollTop: el.offset().top
 		}, 1000);
 	}
+	function srcToAnchor (str) {
+		var $el = $(str);
+		if ($el.length) {
+			srcTo($el);
+		}
+	}
 	$(document).ready(function(){
 
 		$postholder.each(function (e) {
@@ -34,14 +40,8 @@ var $sitehead = $('#site-head');
 			}
 		});
 
-		$('.btn.leistungen').click( function () {
-			srcTo($leistungen);
-		});
-		$('.btn.kontakt').click( function () {
-			srcTo($kontakt);
-		});
-		$('.btn.ueber_mich').click( function () {
-			srcTo($ueber_mich);
+		$('a.btn.site-menu').click(function (e) {
+			srcToAnchor($(e.target).data('anchor'));
 		});
 		$('#header-arrow').click(function () {
 			srcTo($first);
@@ -62,10 +62,6 @@ var $sitehead = $('#site-head');
 
 			});
 		});
-
-		var $leistungen = $('#leistungen');
-		var $kontakt = $('#kontakt');
-		var $ueber_mich = $('#über-mich');
 
 		$('.post.last').next('.post-after').hide();
 		if($sitehead.length) {

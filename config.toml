@@ -7,6 +7,19 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
+[menu]
+  [[menu.main]]
+    name = "Leistungen"
+    url = "#leistungen"
+    weight = 1
+  [[menu.main]]
+    name = "Über Mich"
+    url = "#über-mich"
+    weight = 2
+  [[menu.main]]
+    name = "Kontakt"
+    url = "#kontakt"
+    weight = 3
 [params]
     title = "Isabell Martins"
     description = "Individuelle und ganzheitliche Ernährungsberatung in Lübeck"

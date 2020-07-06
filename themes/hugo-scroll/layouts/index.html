@@ -7,9 +7,9 @@
             {{ with .Site.Title }}<h1 class="blog-title">{{ . }}</h1>{{ end }}
             {{ with .Site.Params.description }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
 
-            <a class='btn leistungen'>Leistungen</a>
-            <a class='btn ueber_mich'>Über mich</a>
-            <a class='btn kontakt'>Kontakt</a><br>
+            {{ range .Site.Menus.main.ByWeight }}
+            <a class='btn site-menu' data-anchor='{{ .URL }}'>{{.Name }}</a>
+            {{ end }}
             <i id='header-arrow' class="fa fa-angle-down"></i>
         </div>
     </div>
