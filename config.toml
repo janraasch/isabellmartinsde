@@ -3,8 +3,6 @@ defaultContentLanguage = "de"
 title = "Isabell Martins"
 theme = "hugo-scroll"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
-[permalinks]
-    page = "/:slug/"
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
@@ -16,3 +14,5 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     favicon = "favicon.png"
     [params.meta]
         keywords = "ganzheitlich, ernährung, ernährungsberatung, lübeck"
+[permalinks]
+    page = "/:slug/"
