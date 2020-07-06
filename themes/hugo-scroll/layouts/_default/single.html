@@ -2,10 +2,8 @@
 <main class="content page-template page-{{ .Slug }}" role="main">
     <article class="post page">
         <header class="post-header">
-            <!-- TODO: Use permalink to main page -->
-            <a id="blog-logo" href="https://www.isabellmartins.de">
-                <!-- TODO: Use Sitename / Title -->
-                Isabell Martins
+            <a id="blog-logo" href="{{ "/" | absURL }}">
+                {{ .Site.Title }}
             </a>
         </header>
         <h1 class="post-title">{{ .Title }}</h1>
