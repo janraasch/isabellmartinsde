@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "de-de"
+baseURL = "https://www.isabellmartins.de"
+defaultContentLanguage = "de"
 title = "Isabell Martins"
 theme = "hugo-scroll"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -10,4 +10,9 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
         [markup.goldmark.renderer]
             hardWraps = true
 [params]
+    title = "Isabell Martins"
     description = "Individuelle und ganzheitliche Ernährungsberatung in Lübeck"
+    images = ["/images/background_1430507946121-1431629532548.jpg"]
+    favicon = "favicon.png"
+    [params.meta]
+        keywords = "ganzheitlich, ernährung, ernährungsberatung, lübeck"
