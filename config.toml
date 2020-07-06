@@ -9,5 +9,3 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
-[params]
-    homepageHeaderImage = "/images/background_1430507946121-1431629532548.jpg"
