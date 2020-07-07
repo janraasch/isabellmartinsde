@@ -24,7 +24,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     title = "Isabell Martins"
     description = "Individuelle und ganzheitliche Ernährungsberatung in Lübeck"
     images = ["/images/background_1430507946121-1431629532548.jpg"]
-    favicon = "favicon.png"
+    favicon = "/images/favicon.png"
     [params.meta]
         keywords = "ganzheitlich, ernährung, ernährungsberatung, lübeck"
 [permalinks]
