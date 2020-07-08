@@ -86,13 +86,13 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'configuration'
     editor:
       preview: false
-    extension: 'md'
+    extension: 'html'
     format: 'yaml-frontmatter'
     label: 'Configuration' # Used in the UI, ie.: "New Page"
     files:
       - label: 'Homepage'
         name: "homepage"
-        file: 'content/_index.md'
+        file: 'content/_index.html'
         fields:
           - label: 'Header Image'
             name: 'header_image'
