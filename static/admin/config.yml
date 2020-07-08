@@ -9,6 +9,8 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'homepage' # Used in routes, ie.: /admin/collections/:slug/edit
     editor:
       preview: false
+    extension: 'md'
+    format: 'yaml-frontmatter'
     label: 'Homepage Section' # Used in the UI, ie.: "New Homepage Section"
     folder: 'content/section' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -16,3 +18,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", default: 'My New Homepage Section', hint: 'The "Title" will be rendered as a headline right at the top of your new homepage section.'}
       - {label: "Weight", name: "weight", widget: "number", default: 2, valueType: "int"}
       - {label: "Content", name: "body", widget: "markdown", default: 'Here goes the content... With **markdown**...'}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false, required: false}
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+    sortableFields: ['weight', 'commit_date', 'title']
