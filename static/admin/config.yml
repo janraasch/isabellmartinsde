@@ -83,3 +83,26 @@ collections: # A list of collections the CMS should be able to edit
         field: draft
         pattern: true
     sortableFields: ['commit_date', 'title']
+  - name: 'configuration'
+    editor:
+      preview: false
+    extension: 'md'
+    format: 'yaml-frontmatter'
+    label: 'Configuration' # Used in the UI, ie.: "New Page"
+    files:
+      - label: 'Homepage'
+        name: "homepage"
+        file: 'content/_index.md'
+        fields:
+          - label: 'Header Image'
+            name: 'header_image'
+            widget: 'image'
+            allow_multiple: false
+          - label: 'Header Headline'
+            name: 'header_headline'
+            widget: 'string'
+            default: 'Your Name'
+          - label: 'Header Subheadline'
+            name: 'header_subheadline'
+            widget: 'string'
+            default: 'Whatever it is you are doing 😛'
