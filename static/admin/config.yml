@@ -1,6 +1,7 @@
 # see https://www.netlifycms.org/docs/add-to-your-site/
 backend:
   name: git-gateway
+logo_url: https://www.isabellmartins.de/images/cms-admin-logo.png
 media_folder: 'static/images' # Media files will be stored in the repo under static/images/uploads
 public_folder: '/images' # The src attribute for uploaded media will begin with /images/uploads
 collections: # A list of collections the CMS should be able to edit
