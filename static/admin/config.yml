@@ -1,0 +1,14 @@
+# see https://www.netlifycms.org/docs/add-to-your-site/
+backend:
+  name: git-gateway
+media_folder: 'static/images' # Media files will be stored in the repo under static/images/uploads
+public_folder: '/images' # The src attribute for uploaded media will begin with /images/uploads
+collections: # A list of collections the CMS should be able to edit
+  - name: 'homepage' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Homepage Section' # Used in the UI, ie.: "New Homepage Section"
+    folder: 'content/section' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", default: 'My New Homepage Section', hint: 'The "Title" will be rendered as a headline right at the top of your new homepage section.'}
+      - {label: "Weight", name: "weight", widget: "number", default: 2, valueType: "int"}
+      - {label: "Content", name: "body", widget: "markdown", default: 'Here goes the content... With **markdown**...'}
