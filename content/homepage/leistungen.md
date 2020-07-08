@@ -1,4 +1,5 @@
 ---
+header_menu: true
 title: 'Leistungen'
 weight: 2
 ---
@@ -11,25 +12,25 @@ Egal, ob Sie
 * jung oder alt sind,
 * sich zu dick oder zu dünn fühlen,
 * schwanger sind oder stillen,
-* krank oder gesund sind, 
+* krank oder gesund sind,
 
-jeder hat die Möglichkeit, etwas zu ändern, wenn er es will. Da das für die meisten von uns jedoch alleine schwer im Alltag zu schaffen ist, möchte ich Sie unterstützen! 
+jeder hat die Möglichkeit, etwas zu ändern, wenn er es will. Da das für die meisten von uns jedoch alleine schwer im Alltag zu schaffen ist, möchte ich Sie unterstützen!
 
 ---
 Mein Angebot:
 
 ### Ernährungsberatung
 
-Die Ernährungsberatung ist für jeden etwas. Wir schauen uns Ihre Essgewohnheiten an und versuchen herauszufinden, wie es Ihnen damit geht und wie Sie mit ein paar Änderungen Ihr Wohlbefinden verbessern können. 
+Die Ernährungsberatung ist für jeden etwas. Wir schauen uns Ihre Essgewohnheiten an und versuchen herauszufinden, wie es Ihnen damit geht und wie Sie mit ein paar Änderungen Ihr Wohlbefinden verbessern können.
 
 Die Beratung kann unter anderem folgende Punkte beinhalten:
 
 * Grundlagen zu Kohlenhydraten, Fetten, Eiweißen, Vitaminen und Mineralstoffen
 * Analyse Ihres Essverhaltens
-* Unterstützung bei einer Ernährungsumstellung 
-* Gemeinsames Einkaufen 
+* Unterstützung bei einer Ernährungsumstellung
+* Gemeinsames Einkaufen
 * Gemeinsam Essen zubereiten
-* Prävention bei Risikogruppen  
+* Prävention bei Risikogruppen
 
 ---
 ### Ernährungstherapie
@@ -63,7 +64,7 @@ In der Ernährungstherapie begleite ich die Behandlung von unter anderem folgend
 
 Ich komme zu Ihnen in die Firma und coache Ihre Mitarbeiter einzeln oder in der Gruppe zum Thema Ernährung. Das Programm erstelle ich individuell anhand des Bedarfs Ihrer Belegschaft und Ihren Wünschen.
 
-Ziel ist es, das Wohlbefinden, die Motivation und die Leistungsfähigkeit in Ihrem Unternehmen dauerhaft zu stärken. 
+Ziel ist es, das Wohlbefinden, die Motivation und die Leistungsfähigkeit in Ihrem Unternehmen dauerhaft zu stärken.
 
 Weitere Informationen zur betrieblichen Gesundheitsförderung finden Sie [hier](/betriebliche-gesundheitsfoerderung).
 

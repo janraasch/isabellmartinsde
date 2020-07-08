@@ -11,16 +11,75 @@ collections: # A list of collections the CMS should be able to edit
       preview: false
     extension: 'md'
     format: 'yaml-frontmatter'
-    label: 'Homepage Section' # Used in the UI, ie.: "New Homepage Section"
-    folder: 'content/section' # The path to the folder where the documents are stored
+    label: 'Homepage Sections' # Used in the UI, ie.: "New Homepage Section"
+    label_singular: 'Homepage Section'
+    folder: 'content/homepage' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", default: 'My New Homepage Section', hint: 'The "Title" will be rendered as a headline right at the top of your new homepage section.'}
-      - {label: "Weight", name: "weight", widget: "number", default: 2, valueType: "int"}
-      - {label: "Content", name: "body", widget: "markdown", default: 'Here goes the content... With **markdown**...'}
-      - {label: "Draft", name: "draft", widget: "boolean", default: false, required: false}
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          default: 'My New Homepage Section',
+          hint: 'The "Title" will be rendered as a headline right at the top of your new homepage section.'
+        }
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 2,
+          valueType: "int",
+          hint: 'The "Weight" will determine where this section appears on the "Homepage". A bigger weight will place the content more towards the bottom of the page. It is like gravity 🤓.'
+        }
+      - label: "Header Menu"
+        name: "header_menu"
+        widget: "boolean"
+        default: false
+        required: false
+        hint: 'If "true", then a button linking to this section will be placed into the header menu at the top of the "Homepage".'
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        default: 'Here goes the content... With **markdown**...'
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: false
+        required: false
     view_filters:
       - label: Drafts
         field: draft
         pattern: true
+      - label: In Header Menu
+        field: header_menu
+        pattern: true
     sortableFields: ['weight', 'commit_date', 'title']
+  - name: 'page' # Used in routes, ie.: /admin/collections/:slug/edit
+    editor:
+      preview: false
+    extension: 'md'
+    format: 'yaml-frontmatter'
+    label: 'Pages' # Used in the UI, ie.: "New Page"
+    label_singular: 'Page'
+    folder: 'content' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        default: 'My New Page'
+        hint: 'The "Title" will be rendered as a headline right at the top of your new page.'
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        default: 'Here goes the content... With **markdown**...'
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: false
+        required: false
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+    sortableFields: ['commit_date', 'title']

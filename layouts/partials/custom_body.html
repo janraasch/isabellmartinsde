@@ -1,0 +1,12 @@
+<!-- See https://www.netlifycms.org/docs/add-to-your-site/ -->
+<script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', user => function () {
+            if (!user) {
+                window.netlifyIdentity.on('login', function () {
+                    document.location.href = '/admin';
+                });
+            }
+        });
+    }
+</script>

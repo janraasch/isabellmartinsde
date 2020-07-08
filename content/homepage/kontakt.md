@@ -1,4 +1,5 @@
 ---
+header_menu: true
 title: 'Kontakt'
 weight: 4
 ---

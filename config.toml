@@ -1,31 +1,43 @@
 baseURL = "https://www.isabellmartins.de"
-defaultContentLanguage = "de"
-title = "Isabell Martins"
-theme = "hugo-scroll"
+
+# This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "de"
+
+theme = "hugo-scroll"
+
+# The "title" of your website
+title = "Isabell Martins"
+
+[params]
+    # A "copyright"-line to be added at the bottom of the page.
+    copyright = "[Impressum](/impressum)"
+
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Individuelle und ganzheitliche Ernährungsberatung in Lübeck"
+
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    favicon = "/images/favicon.png"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and
+    # https://gohugo.io/templates/internal#open-graph.
+    images = ["/images/background_1430507946121-1431629532548.jpg"]
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "Isabell Martins - Individuelle und ganzheitliche Ernährungsberatung in Lübeck"
+
+    # This theme will, by default, inject a design-by-line at the bottom of the page.
+    # You can turn it off, but we would really appreciate if you don’t :-)
+    # hidedesignbyline = true
+    [params.meta]
+        keywords = "ganzheitlich, ernährung, ernährungsberatung, lübeck"
+
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
-[menu]
-  [[menu.main]]
-    name = "Leistungen"
-    url = "#leistungen"
-    weight = 1
-  [[menu.main]]
-    name = "Über Mich"
-    url = "#über-mich"
-    weight = 2
-  [[menu.main]]
-    name = "Kontakt"
-    url = "#kontakt"
-    weight = 3
-[params]
-    title = "Isabell Martins"
-    description = "Individuelle und ganzheitliche Ernährungsberatung in Lübeck"
-    images = ["/images/background_1430507946121-1431629532548.jpg"]
-    favicon = "/images/favicon.png"
-    [params.meta]
-        keywords = "ganzheitlich, ernährung, ernährungsberatung, lübeck"
-[permalinks]
-    page = "/:slug/"
