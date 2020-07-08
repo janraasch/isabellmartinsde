@@ -2,10 +2,13 @@
 backend:
   name: git-gateway
 logo_url: https://www.isabellmartins.de/images/cms-admin-logo.png
+display_url: https://www.isabellmartins.de
 media_folder: 'static/images' # Media files will be stored in the repo under static/images/uploads
 public_folder: '/images' # The src attribute for uploaded media will begin with /images/uploads
 collections: # A list of collections the CMS should be able to edit
   - name: 'homepage' # Used in routes, ie.: /admin/collections/:slug/edit
+    editor:
+      preview: false
     label: 'Homepage Section' # Used in the UI, ie.: "New Homepage Section"
     folder: 'content/section' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
