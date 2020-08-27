@@ -8,5 +8,3 @@ Ich freue mich, dass dich das Thema Ernährung beschäftigt und du darüber nach
 Ich gestalte meine Beratung ganzheitlich, denn oft spielt nicht nur die Ernährung allein eine wichtige Rolle. Auch weitere Einflüsse können dazu führen, dass es uns oder unserem Hund nicht gut geht und die Gesundheit beeinflussen.
 
 Für die Beratung treffen wir uns online, bei dir zu Hause oder draußen. Auch ein telefonisches Beratungsgespräch ist möglich. Wir schauen, womit du dich am wohlsten fühlst und was für dich am besten funktioniert.
-
-![](/images/img_4016.jpeg)
