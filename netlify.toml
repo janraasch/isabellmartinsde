@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify && hugo --gc --minify --source hunde --baseURL https://www.isabellmartins.de/hunde --destination ../public/hunde"
+command = "git submodule update --init --recursive && hugo --gc --minify && hugo --gc --minify --source hunde --baseURL https://www.isabellmartins.de/hunde --destination ../public/hunde"
 
 [context.production.environment]
 HUGO_VERSION = "0.73.0"
