@@ -116,12 +116,12 @@ collections: # A list of collections the CMS should be able to edit
         file: 'hunde/content/_index.md'
         fields:
           - label: 'Titel der Startseite - Oben im Browser'
-            title: 'title'
+            name: 'title'
             widget: 'string'
       - label: 'Kontakt'
         name: "kontakt"
         file: 'hunde/content/contact/_index.md'
         fields:
           - label: 'Titel der Startseite - Oben im Browser'
-            title: 'title'
+            name: 'title'
             widget: 'string'
