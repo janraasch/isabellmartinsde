@@ -266,7 +266,7 @@ collections: # A list of collections the CMS should be able to edit
             hint: 'Wird angezeigt, wenn beim Senden des Formulars ein Fehler auftritt'
       - label : 'Footer - Bereich'
         name: 'footer'
-        file: 'hunde/data/counter.yml'
+        file: 'hunde/data/footer.yml'
         fields:
           - label: 'Kontakt'
             name: 'contactInfo'
