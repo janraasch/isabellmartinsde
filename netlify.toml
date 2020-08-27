@@ -49,24 +49,30 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://hunde.isabellmartins.de/*"
-  to = "https://www.isabellmartins.de/hunde/:splat"
+  to = "/hunde/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "https://www.isabellmartins.de/hunde/*"
+  to = "https://hunde.isabellmartins.de/:splat"
   force = true
   status = 301
 
 [[redirects]]
   from = "http://hunde.isabellmartins.de/*"
-  to = "http://www.isabellmartins.de/hunde/:splat"
+  to = "https://hunde.isabellmartins.de/:splat"
   force = true
   status = 301
 
 [[redirects]]
   from = "https://hund.isabellmartins.de/*"
-  to = "https://www.isabellmartins.de/hunde/:splat"
+  to = "https://hunde.isabellmartins.de/:splat"
   force = true
   status = 301
 
 [[redirects]]
   from = "http://hund.isabellmartins.de/*"
-  to = "http://www.isabellmartins.de/hunde/:splat"
+  to = "https://hunde.isabellmartins.de/:splat"
   force = true
   status = 301
