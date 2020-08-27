@@ -109,6 +109,8 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'hunde'
     editor:
       preview: false
+    extension: 'md'
+    format: 'yaml-frontmatter'
     label: 'Hunde' # Used in the UI, ie.: "New Page"
     files:
       - label: 'Homepage'
