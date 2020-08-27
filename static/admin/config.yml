@@ -106,3 +106,22 @@ collections: # A list of collections the CMS should be able to edit
             name: 'header_subheadline'
             widget: 'string'
             default: 'Whatever it is you are doing 😛'
+  - name: 'hunde'
+    editor:
+      preview: false
+    label: 'Hunde' # Used in the UI, ie.: "New Page"
+    files:
+      - label: 'Homepage'
+        name: "homepage"
+        file: 'hunde/content/_index.md'
+        fields:
+          - label: 'Titel der Startseite - Oben im Browser'
+            title: 'title'
+            widget: 'string'
+      - label: 'Kontakt'
+        name: "kontakt"
+        file: 'hunde/content/contact/_index.md'
+        fields:
+          - label: 'Titel der Startseite - Oben im Browser'
+            title: 'title'
+            widget: 'string'
