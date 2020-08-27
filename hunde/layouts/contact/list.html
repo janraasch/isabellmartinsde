@@ -1,0 +1,52 @@
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ .Params.heading | safeHTML }}
+        </h1>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ .Params.form_heading }}</h4>
+          <form id="kontakt" name="Kontakt" netlify method="POST" netlify-honeypot="what-is-this">
+            <p style="display: none">
+              <label>Bitte nicht ausfüllen :-) wenn Sie ein Mensch sind: <input name="what-is-this" /></label>
+            </p>
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="Vorname" id="first-name" placeholder="{{ .Params.form_field_name_placeholder }}" {{ with .Params.form_field_name_required }}required{{ end }}>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="Nachname" id="last-name" placeholder="{{ .Params.form_field_lastname_placeholder }}" {{ with .Params.form_field_lastname_required }}required{{ end }}>
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="E-mail-Adresse" id="email" placeholder="{{ .Params.form_field_email_placeholder }}" {{ with .Params.form_field_email_required }}required{{ end }}>
+              </div>
+              <div class="col-lg-6">
+                <input type="tel" class="form-control" name="Telefon" id="tel" placeholder="{{ .Params.form_field_tel_placeholder }}" {{ with .Params.form_field_tel_required }}required{{ end }}>
+              </div>
+              <div class="col-12">
+                <textarea class="form-control" id="text" name="Text" rows="6" placeholder="{{ .Params.form_field_text_placeholder }}" {{ with .Params.form_field_text_required }}required{{ end }}></textarea>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn btn-primary" id="contact-form-button">
+                  <span class="btn-area">
+                    <span data-text="{{ .Params.form_submit_button_text }}">
+                      {{ .Params.form_submit_button_text }}
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <div class="col-12">
+                <p id="contact-form-status" data-success="{{ .Params.form_submit_success_text }}" data-error="{{ .Params.form_submit_error_text }}"></p>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

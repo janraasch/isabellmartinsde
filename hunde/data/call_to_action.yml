@@ -1,0 +1,5 @@
+enable: true
+background_image: "images/backgrounds/cta-background.jpg"
+title: "Stelle deine individuelle Anfrage"
+primary_button: "Kontakt aufnehmen"
+primary_button_url: "contact"

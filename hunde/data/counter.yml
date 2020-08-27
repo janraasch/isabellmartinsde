@@ -1,0 +1,11 @@
+enable: true
+heading: "Die Gesundheit liegt im Napf!"
+counter_item:
+  - title: "Mahlzeiten im Jahr"
+    number: "730 Stück"
+
+  - title: "Futtermenge pro 10kg Körpergewicht pro Jahr"
+    number: "200g"
+
+  - title: "Wunderbare Hunde im Leben"
+    number: Nie genug :-)

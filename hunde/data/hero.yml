@@ -1,0 +1,7 @@
+enable: true
+background_image: "images/backgrounds/hero-background.jpg"
+heading_line_1: "Ernährungsberatung"
+heading_line_2: "für Hunde"
+tagline: "professionell & unabhängig"
+button    : "Anfrage senden"
+button_url: "contact"

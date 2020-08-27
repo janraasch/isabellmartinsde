@@ -1,0 +1,126 @@
+baseURL       = "https://hunde.isabellmartins.de"
+languageCode  = "de"
+title         = "Isabell Martins - Ernährungsberatung für Hunde"
+theme         = "roxo-hugo"
+themesDir     = "../themes"
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["taxonomy", "term", "RSS"]
+
+defaultContentLanguage = "de"
+
+enableRobotsTXT = true
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  # [[menu.nav]]
+  #   name    = "Home"
+  #   url     = ""
+  #   weight  = 1
+  [[menu.nav]]
+    name    = "👷🏻‍♀️ Weitere Inhalte folgen in Kürze" # Team
+    url     = ""
+    weight  = 2
+  # [[menu.nav]]
+  #   name    = "Angebot & Preise"
+  #   url     = ""
+  #   weight  = 3
+  # [[menu.nav]]
+  #   name    = "Dokumente"
+  #   url     = ""
+  #   weight  = 4
+  # [[menu.nav]]
+  #   name    = "Leistungen"
+  #   url     = ""
+  #   weight  = 5
+  [[menu.nav]]
+    name    = "Termin vereinbaren"
+    url     = "contact"
+    weight  = 6
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Ernährungsberatung für Hunde - Professionell & unabhängig"
+  author = "Isabell Martins"
+
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  favicon = "images/favicon.png"
+
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  images = ["images/share-image.png"]
+
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  title = "Isabell Martins - Ernährungsberatung für Hunde"
+
+
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Termin vereinbaren"
+    url     = "contact"
+
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading_line_1        = "Ernährungsberatung"
+    heading_line_2        = "für Hunde"
+    tagline               = "professionell & unabhängig"
+    # primary_button        = "FÜR DICH"
+    # primary_button_url    = "portfolio"
+    secondary_button      = "Anfrage senden"
+    secondary_button_url  = "contact"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Kontakt"
+      address = "Percevalstr. 11, 23564 Lübeck"
+      phone   = "01579-2321-345"
+      email   = "beratung@isabellmartins.de"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Inhalte"
+        [[params.footer.sitemap.link]]
+          name = "Home"
+          url  = "/"
+        [[params.footer.sitemap.link]]
+          name = "Kontakt"
+          url  = "/contact"
+        [[params.footer.sitemap.link]]
+          name = "Weitere Inhalte folgen in Kürze"
+          url  = "/"
+        # [[params.footer.sitemap.link]]
+        #   name = "Team"
+        #   url  = "blog"
+        # [[params.footer.sitemap.link]]
+        #   name = "Angebote & Preise"
+        #   url  = "blog"
+        # [[params.footer.sitemap.link]]
+        #   name = "Dokumente"
+        #   url  = "contact"
+        # [[params.footer.sitemap.link]]
+        #   name = "Leistungen"
+        #   url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Rechtliches"
+        [[params.footer.social.link]]
+          name = "Impressum"
+          url  = "https://www.isabellmartins.de/impressum/"
+        [[params.footer.social.link]]
+          name = "Datenschutz"
+          url  = "https://www.isabellmartins.de/impressum/"
+        # [[params.footer.social.link]]
+        #   name = "AGB"
+        #   url  = "https://www.isabellmartins.de/impressum/"
