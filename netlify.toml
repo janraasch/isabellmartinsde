@@ -35,13 +35,13 @@ HUGO_ENABLEGITINFO = "true"
 # PER-DEPLOY.
 
 [[redirects]]
-  from = "http://dreamy-einstein-14578e.netlify.app/*"
+  from = "http://agitated-euclid-60fa30.netlify.app/*"
   to = "http://www.isabellmartins.de/:splat"
   force = true
   status = 301
 
 [[redirects]]
-  from = "https://dreamy-einstein-14578e.netlify.app/*"
+  from = "https://agitated-euclid-60fa30.netlify.app/*"
   to = "https://www.isabellmartins.de/:splat"
   force = true
   status = 301
