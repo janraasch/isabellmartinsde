@@ -111,7 +111,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: false
     label: 'Hunde' # Used in the UI, ie.: "New Page"
     files:
-      - label: 'Homepage'
+      - label: 'Home - Seite'
         name: "homepage"
         file: 'hunde/content/_index.md'
         fields:
@@ -123,7 +123,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "body"
             widget: "markdown"
             default: 'Here goes the content... With **markdown**...'
-      - label: 'Hero'
+      - label: 'Hero - Bereich'
         name: 'hero'
         file: 'hunde/data/hero.yml'
         fields:
@@ -152,7 +152,7 @@ collections: # A list of collections the CMS should be able to edit
       # - label: 'Call To Action Banner'
       #   name: 'cta'
       #   file: 'hunde/data/call_to_action.yml'
-      - label: 'Zahlen for Fun :-)'
+      - label: 'Zahlen for Fun :-) - Bereich'
         name: 'counter'
         file: 'hunde/data/counter.yml'
         fields:
@@ -172,7 +172,7 @@ collections: # A list of collections the CMS should be able to edit
               - label: 'Anzahl'
                 name: 'number'
                 widget: 'string'
-      - label: 'Kontakt'
+      - label: 'Kontakt Formular - Seite'
         name: "kontakt"
         file: 'hunde/content/contact/_index.md'
         fields:
