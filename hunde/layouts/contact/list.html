@@ -10,7 +10,7 @@
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
-          <form id="kontakt" name="Kontakt" netlify method="POST" netlify-honeypot="what-is-this">
+          <form id="kontakt" name="{{ .Params.form_name }}" netlify method="POST" netlify-honeypot="what-is-this">
             <p style="display: none">
               <label>Bitte nicht ausfüllen :-) wenn Sie ein Mensch sind: <input name="what-is-this" /></label>
             </p>

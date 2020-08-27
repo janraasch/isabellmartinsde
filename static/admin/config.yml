@@ -109,21 +109,97 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'hunde'
     editor:
       preview: false
-    extension: 'md'
-    format: 'yaml-frontmatter'
     label: 'Hunde' # Used in the UI, ie.: "New Page"
     files:
       - label: 'Homepage'
         name: "homepage"
         file: 'hunde/content/_index.md'
         fields:
-          - label: 'Titel der Startseite - Oben im Browser'
+          - label: 'Titel'
             name: 'title'
             widget: 'string'
+            hint: 'Der Titel oben in der Tableiste des Browsers'
+      - label: 'Hero'
+        name: 'hero'
+        file: 'hunde/data/hero.yml'
+      - label: 'Call To Action Banner'
+        name: 'cta'
+        file: 'hunde/data/call_to_action.yml'
+      - label: 'Zahlen for Fun :-)'
+        name: 'counter'
+        file: 'hunde/data/counter.yml'
       - label: 'Kontakt'
         name: "kontakt"
         file: 'hunde/content/contact/_index.md'
         fields:
-          - label: 'Titel der Startseite - Oben im Browser'
+          - label: 'Titel'
             name: 'title'
             widget: 'string'
+            hint: 'Der Titel oben in der Tableiste des Browsers'
+          - label: 'Große Überschrift'
+            name: 'heading'
+            widget: 'string'
+            required: true
+          - label: 'Kleine Überschrift'
+            name: 'form_heading'
+            widget: 'string'
+            required: true
+          - label: 'Name des Formulars'
+            name: 'form_name'
+            widget: 'string'
+            hint: 'Für die Anzeige in Netlify >> Forms'
+            required: true
+          - label: 'Formular: E-Mail-Adresse Platzhalter'
+            name: 'form_field_email_placeholder'
+            widget: 'string'
+            required: true
+          - label: 'Formular: E-Mail-Adresse Notwendig?'
+            name: 'form_field_email_required'
+            widget: 'boolean'
+            required: true
+          - label: 'Formular: Nachname Platzhalter'
+            name: 'form_field_lastname_placeholder'
+            widget: 'string'
+            required: true
+          - label: 'Formular: Nachname Notwendig?'
+            name: 'form_field_lastname_required'
+            widget: 'boolean'
+            required: true
+          - label: 'Formular: Vorname Platzhalter'
+            name: 'form_field_name_placeholder'
+            widget: 'string'
+            required: true
+          - label: 'Formular: Vorname Notwendig?'
+            name: 'form_field_name_required'
+            widget: 'boolean'
+            required: true
+          - label: 'Formular: Telefon Platzhalter'
+            name: 'form_field_tel_placeholder'
+            widget: 'string'
+            required: true
+          - label: 'Formular: Telefon Notwendig?'
+            name: 'form_field_tel_required'
+            widget: 'boolean'
+            required: true
+          - label: 'Formular: Text Platzhalter'
+            name: 'form_field_text_placeholder'
+            widget: 'string'
+            required: true
+          - label: 'Formular: Text Notwendig?'
+            name: 'form_field_text_required'
+            widget: 'boolean'
+            required: true
+          - label: 'Formular: Button'
+            name: 'form_submit_button_text'
+            widget: 'string'
+            required: true
+          - label: 'Formular: Success-Message'
+            name: 'form_submit_success_text'
+            widget: 'string'
+            required: true
+            hint: 'Wird angezeigt nach erfolgreichem Abschicken des Formulars'
+          - label: 'Formular: Error-Message'
+            name: 'form_submit_error_text'
+            widget: 'string'
+            required: true
+            hint: 'Wird angezeigt, wenn beim Senden des Formulars ein Fehler auftritt'

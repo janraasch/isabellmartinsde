@@ -1,0 +1,22 @@
+contactInfo:
+  title: "Kontakt"
+  address: "Percevalstr. 11, 23564 Lübeck"
+  phone : "01579-2321-345"
+  email: "beratung@isabellmartins.de"
+sitemap:
+  title: "Inhalte"
+  link:
+    - name: "Home"
+      url: "/"
+    - name: "Kontakt"
+      url: "/contact"
+    - name: "Weitere Inhalte folgen in Kürze"
+      url: "/"
+legal:
+  title: "Rechtliches"
+  link:
+    - name: "Impressum"
+      url: "https://www.isabellmartins.de/impressum/"
+    - name: "Datenschutz"
+      url: "https://www.isabellmartins.de/impressum/"
+back_to_top_button_text: 'Nach<br/>oben'

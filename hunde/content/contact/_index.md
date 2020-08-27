@@ -12,6 +12,7 @@ form_field_tel_required: false
 form_field_text_placeholder: "Über Deinen Hund"
 form_field_text_required: false
 form_heading: "ERZÄHL MIR VON DEINEM HUND"
+form_name: "Kontakt"
 form_submit_button_text: "Anfrage senden"
 form_submit_error_text: "Ups! Es ist ein Fehler aufgetreten. Bitte versuche es später noch einmal."
 form_submit_success_text: "Vielen Dank für Deine Anfrage!"
