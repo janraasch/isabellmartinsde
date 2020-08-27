@@ -119,6 +119,10 @@ collections: # A list of collections the CMS should be able to edit
             name: 'title'
             widget: 'string'
             hint: 'Der Titel oben in der Tableiste des Browsers'
+          - label: "Content"
+            name: "body"
+            widget: "markdown"
+            default: 'Here goes the content... With **markdown**...'
       # - label: 'Hero'
       #   name: 'hero'
       #   file: 'hunde/data/hero.yml'
