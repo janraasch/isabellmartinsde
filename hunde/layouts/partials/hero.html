@@ -7,9 +7,9 @@
           <div class="site-hero-content text-center">
             <h6>{{ .tagline }}</h6>
             <h1>
-              {{ .heading_line_1 }}
+              {{ .heading_line_1 | safeHTML }}
               <br>
-              {{ .heading_line_2 }}
+              {{ .heading_line_2 | safeHTML }}
             </h1>
             <ul class="site-hero-content-buttons">
               <li>
