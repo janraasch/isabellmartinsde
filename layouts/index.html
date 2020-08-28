@@ -12,7 +12,9 @@
                  <a class='btn site-menu' data-title='{{ .Title }}'>{{ .Title }}</a>
             {{ end }}
             {{ with .Params.header_menu_special_link }}
+            <div>
                 <a class="btn site-menu-special" href="{{ .url }}">{{ .name }}</a>
+            </div>
             {{ end }}
             <i id='header-arrow' class="fa fa-angle-down"></i>
         </div>
