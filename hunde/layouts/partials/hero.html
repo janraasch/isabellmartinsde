@@ -1,7 +1,7 @@
 {{ with .Site.Data.hero }}
   {{ if .enable }}
   <section class="site-hero" style="background-image: url('{{ .background_image }}');">
-    <div class="container">
+    <div class="container" style="max-width: inherit;">
       <div class="row">
         <div class="col-lg-10 mx-auto">
           <div class="site-hero-content text-center">
