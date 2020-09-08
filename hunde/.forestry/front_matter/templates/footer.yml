@@ -4,51 +4,52 @@ hide_body: true
 fields:
 - type: field_group
   name: contactInfo
-  label: contactInfo
+  label: Kontakt
   fields:
   - type: text
     name: title
-    label: title
+    label: Titel
   - type: text
     name: phone
-    label: phone
+    label: Telefon
   - type: text
     name: email
-    label: email
+    label: Email
 - type: field_group
   name: sitemap
-  label: sitemap
+  label: Sitemap
   fields:
   - type: text
     name: title
-    label: title
+    label: Titel
   - type: field_group_list
     name: link
-    label: link
+    label: Links
     fields:
     - type: text
       name: name
-      label: name
+      label: Name
     - type: text
       name: url
-      label: url
+      label: URL
 - type: field_group
   name: legal
-  label: legal
+  label: Rechtliches
   fields:
   - type: text
     name: title
-    label: title
+    label: Titel
   - type: field_group_list
     name: link
-    label: link
+    label: Links
     fields:
     - type: text
       name: name
-      label: name
+      label: Name
     - type: text
       name: url
-      label: url
+      label: URL
 - type: text
   name: back_to_top_button_text
-  label: back_to_top_button_text
+  label: Zurück nach oben - Text
+  description: Darf HTML (z.B. &lt;br&gt;) enthalten
