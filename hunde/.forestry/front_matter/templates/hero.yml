@@ -23,3 +23,5 @@ fields:
 - type: text
   name: button_url
   label: Button Link
+pages:
+- hunde/data/hero.yml
