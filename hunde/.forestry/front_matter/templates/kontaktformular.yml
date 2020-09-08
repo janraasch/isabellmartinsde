@@ -80,3 +80,5 @@ fields:
   config:
     required: true
   description: Wird angezeigt, wenn beim Senden des Formulars ein Fehler auftritt
+pages:
+- hunde/content/contact/_index.md
