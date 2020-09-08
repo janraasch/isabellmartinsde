@@ -53,3 +53,5 @@ fields:
   name: back_to_top_button_text
   label: Zurück nach oben - Text
   description: Darf HTML (z.B. &lt;br&gt;) enthalten
+pages:
+- hunde/data/footer.yml
