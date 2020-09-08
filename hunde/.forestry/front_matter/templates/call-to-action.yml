@@ -4,16 +4,16 @@ hide_body: true
 fields:
 - type: boolean
   name: enable
-  label: enable
+  label: "»Call To Action« Bereich anzeigen?"
 - type: file
   name: background_image
-  label: background_image
+  label: Hintergrund Bild
 - type: text
   name: title
-  label: title
+  label: Überschrift
 - type: text
   name: primary_button
-  label: primary_button
+  label: Button Text
 - type: text
   name: primary_button_url
-  label: primary_button_url
+  label: Button Link
