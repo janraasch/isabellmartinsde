@@ -7,9 +7,8 @@ sections:
 - type: document
   path: hunde/content/_index.md
   label: Homepage
-  match: "**/*"
-upload_dir: hunde//static/uploads
-public_path: "/uploads"
+upload_dir: hunde/static/images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
