@@ -4,22 +4,22 @@ hide_body: true
 fields:
 - type: boolean
   name: enable
-  label: enable
+  label: Hero Anzeigen?
 - type: file
   name: background_image
-  label: background_image
+  label: Hintergrund Bild
 - type: text
   name: heading_line_1
-  label: heading_line_1
+  label: Erste Zeile der Überschrift
 - type: text
   name: heading_line_2
-  label: heading_line_2
+  label: Zweite Zeile der Überschrift
 - type: text
   name: tagline
-  label: tagline
+  label: Tagline
 - type: text
   name: button
-  label: button
+  label: Button Text
 - type: text
   name: button_url
-  label: button_url
+  label: Button Link
