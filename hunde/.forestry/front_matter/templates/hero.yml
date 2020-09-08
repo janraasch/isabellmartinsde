@@ -1,0 +1,25 @@
+---
+label: Hero
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: file
+  name: background_image
+  label: background_image
+- type: text
+  name: heading_line_1
+  label: heading_line_1
+- type: text
+  name: heading_line_2
+  label: heading_line_2
+- type: text
+  name: tagline
+  label: tagline
+- type: text
+  name: button
+  label: button
+- type: text
+  name: button_url
+  label: button_url
