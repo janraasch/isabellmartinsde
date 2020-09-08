@@ -17,3 +17,5 @@ fields:
 - type: text
   name: primary_button_url
   label: Button Link
+pages:
+- hunde/data/call_to_action.yml
