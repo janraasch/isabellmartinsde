@@ -4,9 +4,29 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Homepage
 - type: document
   path: hunde/content/_index.md
-  label: Homepage
+  label: Willkommen
+- type: document
+  path: hunde/data/counter.yml
+  label: Zahlen for Fun
+  match: "**/*"
+- type: document
+  path: hunde/data/call_to_action.yml
+  label: Call To Action
+  match: "**/*"
+- type: document
+  path: hunde/data/hero.yml
+  label: Hero
+  match: "**/*"
+- type: heading
+  label: Kontakt
+- type: document
+  path: hunde/content/contact/_index.md
+  label: Kontaktformular
+  match: "**/*"
 upload_dir: hunde/static/images
 public_path: "/images"
 front_matter_path: ''
