@@ -1,0 +1,54 @@
+---
+label: Footer
+hide_body: true
+fields:
+- type: field_group
+  name: contactInfo
+  label: contactInfo
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: phone
+    label: phone
+  - type: text
+    name: email
+    label: email
+- type: field_group
+  name: sitemap
+  label: sitemap
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: link
+    label: link
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: url
+      label: url
+- type: field_group
+  name: legal
+  label: legal
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: link
+    label: link
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: url
+      label: url
+- type: text
+  name: back_to_top_button_text
+  label: back_to_top_button_text
