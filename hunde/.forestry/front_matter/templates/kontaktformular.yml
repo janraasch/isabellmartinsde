@@ -1,0 +1,55 @@
+---
+label: Kontaktformular
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: heading
+  label: heading
+- type: text
+  name: form_heading
+  label: form_heading
+- type: text
+  name: form_name
+  label: form_name
+- type: text
+  name: form_field_email_placeholder
+  label: form_field_email_placeholder
+- type: boolean
+  name: form_field_email_required
+  label: form_field_email_required
+- type: text
+  name: form_field_lastname_placeholder
+  label: form_field_lastname_placeholder
+- type: boolean
+  name: form_field_lastname_required
+  label: form_field_lastname_required
+- type: text
+  name: form_field_name_placeholder
+  label: form_field_name_placeholder
+- type: boolean
+  name: form_field_name_required
+  label: form_field_name_required
+- type: text
+  name: form_field_tel_placeholder
+  label: form_field_tel_placeholder
+- type: boolean
+  name: form_field_tel_required
+  label: form_field_tel_required
+- type: text
+  name: form_field_text_placeholder
+  label: form_field_text_placeholder
+- type: boolean
+  name: form_field_text_required
+  label: form_field_text_required
+- type: text
+  name: form_submit_button_text
+  label: form_submit_button_text
+- type: text
+  name: form_submit_success_text
+  label: form_submit_success_text
+- type: text
+  name: form_submit_error_text
+  label: form_submit_error_text
