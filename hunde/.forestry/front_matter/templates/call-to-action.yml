@@ -1,0 +1,19 @@
+---
+label: Call To Action
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: file
+  name: background_image
+  label: background_image
+- type: text
+  name: title
+  label: title
+- type: text
+  name: primary_button
+  label: primary_button
+- type: text
+  name: primary_button_url
+  label: primary_button_url
