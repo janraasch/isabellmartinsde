@@ -18,3 +18,5 @@ fields:
   - type: text
     name: number
     label: Anzahl
+pages:
+- hunde/data/counter.yml
