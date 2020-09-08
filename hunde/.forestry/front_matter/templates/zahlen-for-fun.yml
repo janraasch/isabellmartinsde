@@ -1,0 +1,20 @@
+---
+label: Zahlen For Fun
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: field_group_list
+  name: counter_item
+  label: counter_item
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: number
+    label: number
