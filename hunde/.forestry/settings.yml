@@ -23,6 +23,12 @@ sections:
 - type: document
   path: hunde/content/contact/_index.md
   label: Kontaktformular
+- type: heading
+  label: Allgemein
+- type: document
+  path: hunde/data/footer.yml
+  label: Footer
+  match: "**/*"
 upload_dir: hunde/static/images
 public_path: "/images"
 front_matter_path: ''
