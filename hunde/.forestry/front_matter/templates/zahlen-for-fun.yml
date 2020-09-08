@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: boolean
   name: enable
-  label: Zahlen for Fun anzeigen?'
+  label: Zahlen for Fun anzeigen?
 - type: text
   name: heading
   label: Überschrift
