@@ -4,4 +4,5 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel
+  description: Der Titel oben in der Tableiste des Browsers
