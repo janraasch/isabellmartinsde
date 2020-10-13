@@ -6,3 +6,5 @@ fields:
   name: title
   label: Titel
   description: Der Titel oben in der Tableiste des Browsers
+pages:
+- hunde/content/team/_index.md
