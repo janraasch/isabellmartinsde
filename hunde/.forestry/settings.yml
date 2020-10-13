@@ -24,6 +24,12 @@ sections:
   path: hunde/content/team/_index.md
   label: Teambereich
 - type: heading
+  label: Qualifikationen
+- type: document
+  path: hunde/content/qualifikationen/_index.md
+  label: Qualifikationen
+  match: "**/*"
+- type: heading
   label: Kontakt
 - type: document
   path: hunde/content/contact/_index.md
