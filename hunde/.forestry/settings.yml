@@ -19,6 +19,13 @@ sections:
   path: hunde/data/hero.yml
   label: Hero
 - type: heading
+  label: Team
+- type: document
+  path: hunde/content/team/_index.md
+  label: Teambereich
+  match: "**/*"
+  read_only: false
+- type: heading
   label: Kontakt
 - type: document
   path: hunde/content/contact/_index.md
