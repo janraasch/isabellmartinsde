@@ -14,7 +14,9 @@ Mit der Ernährungsberatung für Hunde vereine ich meine berufliche Leidenschaft
 Meine Abschlüsse:
 
 * seit September 2020 – zertifizierte Ernährungsberaterin für Hunde nach Clean Feeding
-* seit Mai 2020 – zertifizierte Ernährungsberaterin für Hunde
+* seit Mai 2020 – zertifizierte Ernährungsberaterin für Hunde (bei der Rolf-Schneider-Akademie)
+* seit 2016 – zertifizierte Ernährungsberaterin/DGE (Deutsche Gesellschaft für Ernährung e. V.)
+* 
 
 #### – Über Jule –
 
