@@ -22,6 +22,6 @@ Meine Abschlüsse:
 
 ![Jule](/images/img_4016.jpeg)
 
-Ich gestalte meine Beratung ganzheitlich, denn oft spielt nicht nur die Ernährung eine wichtige Rolle. Auch weitere Einflüsse können dazu führen, dass es unserem Hund nicht gut geht und beeinflussen die Gesundheit.
+Unsere Hündin Jule lebt seit 2019 bei meinem Lebenspartner und mir. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern. 
 
-Für die Beratung treffen wir uns online, telefonisch, bei dir zu Hause oder draußen an einem passenden Ort – je nachdem, was für dich am besten funktioniert.
+Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter eine vegetarische Mahlzeit erhält
