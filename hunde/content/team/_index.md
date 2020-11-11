@@ -5,9 +5,7 @@ draft: true
 ---
 ## Das Team
 
-#### 
-
-![](/images/jule-isi-strand-ruhig-2.png)
+![](/images/jule-isi-strand-ruhig-2.jpg)
 
 #### Über mich
 
