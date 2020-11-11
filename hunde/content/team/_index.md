@@ -7,7 +7,7 @@ draft: true
 
 #### – Über mich –
 
-![](/images/jule-isi-strand-ruhig-2.jpg)
+![Jule](/images/jule-isi-strand-ruhig-2.jpg)
 
 Ich gestalte meine Beratung ganzheitlich, denn oft spielt nicht nur die Ernährung eine wichtige Rolle. Auch weitere Einflüsse können dazu führen, dass es unserem Hund nicht gut geht und beeinflussen die Gesundheit.
 
