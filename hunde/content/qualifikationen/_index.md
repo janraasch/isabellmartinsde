@@ -9,10 +9,11 @@ qualifications:
   image: "/images/diplom-fsu.jpg"
   text: '2008-2014: Studium der Ernährungswissenschaften, naturwissenschaftlich-medizinischer
     Schwerpunkt'
-- institute: Universität Leibnitz
-  title: Peace Breaker
-  image: "/images/img_4016.jpeg"
-  text: Das war das zweit aller beste! Du bist so gut!
+- institute: Deutsche Gesellschaft für Ernährung e. V.
+  title: Ernährungsberaterin/DGE
+  image: "/images/dge-zertifikat.jpg"
+  text: '2015-2016: Weiterbildung für die praktische, zertifizierte Tätigkeit als
+    Ernährungsberaterin'
 draft: true
 
 ---
