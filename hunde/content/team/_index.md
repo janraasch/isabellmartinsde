@@ -9,7 +9,7 @@ draft: true
 
 ![Jule](/images/jule-isi-strand-ruhig-2.jpg)
 
-Mit der Ernährungsberatung für Hunde vereine ich meine berufliche Leidenschaft der Ernährungswissenschaft mit meiner großen Freude am Lebewesen Hund. Ich abeite hauptberuflich bereits seit 2015 als freiberufliche Ernährungsberaterin (für Menschen). Im Jahr 2020 ist nach zwei zusätzlichen Abschlüssen im Bereich der Hundeernährungsberatung dies mein zweiter Arbeitsbereich. 
+Mit der Ernährungsberatung für Hunde vereine ich meine berufliche Leidenschaft der Ernährungswissenschaft mit meiner großen Freude am Lebewesen Hund. Ich abeite hauptberuflich bereits seit 2015 als freiberufliche Ernährungsberaterin (für Menschen). Im Jahr 2020 ist nach zwei zusätzlichen Abschlüssen im Bereich der Hundeernährungsberatung dies mein zweiter Arbeitsbereich.
 
 Meine Abschlüsse:
 
@@ -22,6 +22,6 @@ Meine Abschlüsse:
 
 ![Jule](/images/img_4016.jpeg)
 
-Unsere Hündin Jule lebt seit 2019 bei meinem Lebenspartner und mir. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern. 
+Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern.
 
 Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter eine vegetarische Mahlzeit erhält.
