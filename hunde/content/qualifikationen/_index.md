@@ -4,6 +4,11 @@ heading: "<span>Lernen</span> ist das halbe Leben. <span>Ernährung</span> ist m
   als die zweite Hälfte."
 scroll_down_button_text: Qualifikationen
 qualifications:
+- institute: Clean Feeding Akademie
+  title: Ernährungsberaterin für Hunde nach Clean Feeding
+  image: "/images/clean-feeding-zertifikat-ebh.jpg"
+  text: '2020 (9 Monate): Meine zweite Ausbildung zur Hundeernährungsberaterin mit
+    dem Schwerpunkt auf Nachhaltigkeit'
 - institute: Rolf-Schneider-Akademie
   title: Ernährungsberaterin für Hunde
   image: ''
