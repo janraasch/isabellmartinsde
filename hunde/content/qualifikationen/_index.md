@@ -6,7 +6,7 @@ scroll_down_button_text: Qualifikationen
 qualifications:
 - institute: Friedrich-Schiller-Universität Jena
   title: Diplom-Ernährungswissenschaftlerin
-  image: "/images/img_4016.jpeg"
+  image: "/images/diplom-fsu.jpg"
   text: '2008-2014: Studium der Ernährungswissenschaften, naturwissenschaftlich-medizinischer
     Schwerpunkt'
 - institute: Universität Leibnitz
