@@ -28,3 +28,5 @@ fields:
     name: text
     label: text
     default: ''
+pages:
+- hunde/content/qualifikationen/_index.md
