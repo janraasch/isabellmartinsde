@@ -31,3 +31,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+pages:
+- hunde/data/team.yml
