@@ -11,7 +11,7 @@ qualifications:
     dem Schwerpunkt auf Nachhaltigkeit'
 - institute: Rolf-Schneider-Akademie
   title: Ernährungsberaterin für Hunde
-  image: ''
+  image: "/images/ernahungsberaterhund-rsa-05-20.jpg"
   text: |-
     2019-2020 (9 Monate): Fernstudiengang Ernährungsberatung für Hunde
 
