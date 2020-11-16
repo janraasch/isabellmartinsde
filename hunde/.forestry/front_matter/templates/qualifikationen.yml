@@ -27,3 +27,4 @@ fields:
   - type: textarea
     name: text
     label: text
+    default: ''
