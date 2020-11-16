@@ -21,7 +21,7 @@ sections:
 - type: heading
   label: Team
 - type: document
-  path: hunde/content/team/_index.md
+  path: hunde/data/team.yml
   label: Teambereich
 - type: heading
   label: Qualifikationen
