@@ -1,10 +1,36 @@
 ---
 label: Teambereich
-hide_body: false
+hide_body: true
 fields:
+fields:
+- type: boolean
+  name: enable
+  label: Team anzeigen?
 - type: text
-  name: title
-  label: Titel
-  description: Der Titel oben in der Tableiste des Browsers
+  name: heading
+  label: Überschrift
+- type: text
+  name: tagline
+  label: Tagline Paragraph
+- type: field_group_list
+  name: team_member
+  label: Teammitglied
+  fields:
+  - type: text
+    name: title
+    label: Titel
+    required: false
+  - type: file
+    name: image
+    label: Bild
+    required: true
+  - type: textarea
+    name: text
+    label: Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 pages:
-- hunde/content/team/_index.md
+- hunde/data/team.yml

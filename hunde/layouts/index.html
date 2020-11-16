@@ -5,20 +5,18 @@
 {{ partial "counter.html" . }}
 
 <section class="site-project" id="project">
-    <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <div class="section-title">
-            {{ .Content }}
-          </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          {{ .Content }}
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
-{{ with .Site.GetPage "/team" }}
-  {{ partial "team.html" . }}
-{{ end }}
+{{ partial "team.html" . }}
 
 {{ partial "call-to-action.html" . }}
 
