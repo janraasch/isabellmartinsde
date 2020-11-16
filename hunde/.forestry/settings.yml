@@ -7,22 +7,20 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: hunde/content/_index.md
-  label: Willkommen
+  path: hunde/data/hero.yml
+  label: Hero
 - type: document
   path: hunde/data/counter.yml
   label: Zahlen for Fun
 - type: document
-  path: hunde/data/call_to_action.yml
-  label: Call To Action
-- type: document
-  path: hunde/data/hero.yml
-  label: Hero
-- type: heading
-  label: Team
+  path: hunde/content/_index.md
+  label: Willkommen
 - type: document
   path: hunde/data/team.yml
-  label: Teambereich
+  label: Team
+- type: document
+  path: hunde/data/call_to_action.yml
+  label: Call To Action
 - type: heading
   label: Qualifikationen
 - type: document
