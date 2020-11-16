@@ -28,5 +28,9 @@ fields:
     name: text
     label: text
     default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 pages:
 - hunde/content/qualifikationen/_index.md
