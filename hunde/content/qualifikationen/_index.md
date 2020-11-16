@@ -14,12 +14,12 @@ qualifications:
   image: "/images/ernahungsberaterhund-rsa-05-20.jpg"
   text: '2019-2020 (9 Monate): Fernstudiengang Ernährungsberatung für Hunde'
 - institute: Deutsche Gesellschaft für Ernährung e. V.
-  title: Ernährungsberaterin/DGE
+  title: Ernährungs&shy;beraterin/DGE
   image: "/images/dge-zertifikat.jpg"
   text: '2015-2016: Weiterbildung für die praktische, zertifizierte Tätigkeit als
     Ernährungsberaterin'
 - institute: Friedrich-Schiller-Universität Jena
-  title: Diplom-Ernährungswissenschaftlerin
+  title: Diplom-Ernährungs&shy;wissenschaftlerin
   image: "/images/diplom-fsu.jpg"
   text: '2008-2014: Studium der Ernährungswissenschaften, naturwissenschaftlich-medizinischer
     Schwerpunkt'
