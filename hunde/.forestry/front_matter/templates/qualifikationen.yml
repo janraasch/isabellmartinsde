@@ -29,7 +29,7 @@ fields:
     label: text
     default: ''
     config:
-      wysiwyg: true
+      wysiwyg: false
       schema:
         format: markdown
 pages:
