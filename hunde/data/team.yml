@@ -1,7 +1,7 @@
 ---
 enable: true
 heading: TEAM
-tagline: Ein Hund - Ein Mensch - Ein Team.
+tagline: Ein Hund + Ein Mensch = Ein Team
 team_member:
 - title: Isabell Martins
   image: "/images/jule-isi-strand-ruhig-2-hochkant-min.jpg"
