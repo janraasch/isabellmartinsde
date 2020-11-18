@@ -14,8 +14,6 @@ sitemap:
     url: https://hunde.isabellmartins.de/qualifikationen
   - name: Kontakt
     url: "/contact"
-  - name: Weitere Inhalte folgen in Kürze
-    url: "/"
 legal:
   title: Rechtliches
   link:
