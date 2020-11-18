@@ -8,6 +8,8 @@ sitemap:
   link:
   - name: Home
     url: "/"
+  - name: Leistungen
+    url: https://hunde.isabellmartins.de/leistungen
   - name: Qualifikationen
     url: https://hunde.isabellmartins.de/qualifikationen
   - name: Kontakt
