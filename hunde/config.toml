@@ -8,11 +8,11 @@ themesDir = "../themes"
 title = "Isabell Martins - Ernährungsberatung für Hunde"
 [[menu.nav]]
 name = "Leistungen & Preise"
-weight = 2
+weight = 3
 [[menu.nav]]
 name = "Termin vereinbaren"
 url = "contact"
-weight = 4
+weight = 5
 [[menu.nav]]
 name = "👷🏻‍♀️ Weitere Inhalte folgen in Kürze"
 weight = 1
