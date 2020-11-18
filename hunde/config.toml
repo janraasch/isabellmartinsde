@@ -7,6 +7,10 @@ theme = "roxo-hugo"
 themesDir = "../themes"
 title = "Isabell Martins - Ernährungsberatung für Hunde"
 [[menu.nav]]
+name = "Team"
+url = "https://hunde.isabellmartins.de/#team"
+weight = 1
+[[menu.nav]]
 name = "Leistungen & Preise"
 weight = 2
 [[menu.nav]]
