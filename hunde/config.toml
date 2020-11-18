@@ -12,7 +12,7 @@ weight = 2
 [[menu.nav]]
 name = "Termin vereinbaren"
 url = "contact"
-weight = 3
+weight = 4
 [params]
 author = "Isabell Martins"
 dateFormat = "26 FEB 1994"

@@ -23,5 +23,8 @@ qualifications:
   image: "/images/diplom-fsu.jpg"
   text: '2008-2014: Studium der Ernährungswissenschaften, naturwissenschaftlich-medizinischer
     Schwerpunkt'
+menu:
+  nav:
+    weight: 3
 
 ---
