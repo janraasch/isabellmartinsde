@@ -1,9 +1,5 @@
 ---
 title: Isabell Martins - Ernährungsberatung für Hunde
-menu:
-  nav:
-    name: Home
-    weight: 1
 
 ---
 ## Willkommen
