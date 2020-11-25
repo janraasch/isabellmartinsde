@@ -4,6 +4,10 @@ heading: Unsere <span>Nahrung</span> sollte unsere <span>Medizin</span> sein und
   <span>Medizin</span> sollte unser <span>Essen</span> sein.
 scroll_down_button_text: Leistungen & Preise
 leistungen:
+- title: Hallo
+  heading: Jojojo
+  image: ''
+  text: ''
 - title: Titel (optional)
   heading: Große Überschrift (optional)
   image: "../images/jule-isi-strand-ruhig-2-hochkant-min.jpg"
