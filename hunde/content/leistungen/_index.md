@@ -38,9 +38,9 @@ draft: true
 ---
 ## Willkommen, Isi 😁
 
-Check it out! 
+Check it out!
 
-ℹ️ Diese Seite ist unter /leistungen erreichbar 🥸.
+ℹ️ Diese Seite ist unter /leistungen erreichbar.
 
 Ich freue mich, dass du dich mit der Ernährung deines Hundes beschäftigst und ich dich dabei unterstützen kann. Neben der Vielzahl an Informationen, die heutzutage im Internet herumwirren, ist es nicht einfach herauszufinden, was für deinen Hund wirklich gut und das Richtige ist. Dabei möchte ich dir gerne helfen!
 
