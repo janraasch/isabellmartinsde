@@ -32,3 +32,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+pages:
+- hunde/content/leistungen/_index.md
