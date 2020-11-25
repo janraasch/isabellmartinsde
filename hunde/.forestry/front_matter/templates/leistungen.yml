@@ -4,26 +4,31 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel
+  description: Der Titel oben in der Tableiste des Browsers
 - type: textarea
   name: heading
-  label: heading
+  label: Grosse Überschrift
 - type: text
   name: scroll_down_button_text
-  label: scroll_down_button_text
+  label: "»Scroll Down«-Button Text"
 - type: field_group_list
   name: leistungen
-  label: leistungen
+  label: Leistung
   fields:
   - type: text
     name: title
-    label: title
+    label: Titel
   - type: text
     name: heading
-    label: heading
+    label: Überschrift
   - type: file
     name: image
-    label: image
+    label: Bild
   - type: textarea
     name: text
-    label: text
+    label: Text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
