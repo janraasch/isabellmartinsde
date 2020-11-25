@@ -22,6 +22,12 @@ sections:
   path: hunde/data/call_to_action.yml
   label: Call To Action
 - type: heading
+  label: Leistungen
+- type: document
+  path: hunde/content/leistungen/_index.md
+  label: Leistungen
+  match: "**/*"
+- type: heading
   label: Qualifikationen
 - type: document
   path: hunde/content/qualifikationen/_index.md
