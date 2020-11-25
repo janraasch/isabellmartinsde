@@ -37,6 +37,12 @@ sections:
   path: hunde/content/contact/_index.md
   label: Kontaktformular
 - type: heading
+  label: Anamnesebogen
+- type: document
+  path: hunde/content/anamnesebogen/_index.md
+  label: Anamnesebogen
+  match: "**/*"
+- type: heading
   label: Allgemein
 - type: document
   path: hunde/data/footer.yml
