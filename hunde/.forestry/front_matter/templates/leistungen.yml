@@ -1,0 +1,29 @@
+---
+label: Leistungen
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: heading
+  label: heading
+- type: text
+  name: scroll_down_button_text
+  label: scroll_down_button_text
+- type: field_group_list
+  name: leistungen
+  label: leistungen
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: heading
+    label: heading
+  - type: file
+    name: image
+    label: image
+  - type: textarea
+    name: text
+    label: text
