@@ -10,7 +10,5 @@ title: Preise
   Folgegespräch: 50 € für 30 Minuten Gesprächszeit (inklusive Vor- und Nachbereitung)
 
     
-* Auswertung eines Ernährungstagebuchs für 3 Tage (inkl. Kalorien, Kohlenhydrate, Eiweiß, Fett, Mineralstoffe, Vitamine): 100 € 
-* Telefonische Beratung: 70 € pro 60 Minuten (mit vorheriger Absprache)
 
 Individuelle Angebote bitte per E-Mail an [beratung@isabellmartins.de](mailto:beratung@isabellmartins.de) erfragen.
