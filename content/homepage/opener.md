@@ -1,5 +1,5 @@
 ---
-title: Ernährungsberatung in Lübeck, online & telefonisch
+title: Ernährungsberatung in Lübeck vor Ort, online & telefonisch
 weight: 1
 ---
 Individuell & ganzheitlich
