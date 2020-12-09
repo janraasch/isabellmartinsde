@@ -41,7 +41,6 @@ sections:
 - type: document
   path: hunde/content/anamnesebogen/_index.md
   label: Anamnesebogen
-  match: "**/*"
 - type: heading
   label: Allgemein
 - type: document
