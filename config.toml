@@ -12,7 +12,7 @@ title = "Isabell Martins"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
-    copyright = "[Impressum](/impressum)"
+    copyright = "Tel: [01579 - 23 51 484](tel:015792351484) | E-Mail: [beratung@isabellmartins.de](mailto:beratung@isabellmartins.de) | Rechtliches: [Impressum](/impressum)"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Individuelle und ganzheitliche Ernährungsberatung in Lübeck"
@@ -33,7 +33,7 @@ title = "Isabell Martins"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
-    # hidedesignbyline = true
+    hidedesignbyline = true
     [params.meta]
         keywords = "ganzheitlich, ernährung, ernährungsberatung, lübeck"
 

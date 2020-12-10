@@ -37,6 +37,16 @@ collections: # A list of collections the CMS should be able to edit
         default: false
         required: false
         hint: 'If "true", then a button linking to this section will be placed into the header menu at the top of the "Homepage".'
+      - label: "Header Menu Title"
+        name: "header_menu_title"
+        widget: "string"
+        required: false
+        hint: 'The text on the button on top of the "Homepage" linking to this section. By default the "Title" is used if "header_menu" is "true".'
+      - label: "Side Menu Title"
+        name: "side_menu_title"
+        widget: "string"
+        required: false
+        hint: 'The text on the link on the navigation menu (at the left edge of the hompage on desktop/top of the page on mobile) linking to this section. By default the "Title"-parameter is used.'
       - label: "Content"
         name: "body"
         widget: "markdown"
