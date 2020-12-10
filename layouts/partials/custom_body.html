@@ -32,7 +32,7 @@
         form.addEventListener("submit", function(event) {
             button.style = "display: none";
             event.preventDefault();
-            $.post($form.attr("action"), $form.serialize()).done(error).fail(error);
+            $.post($form.attr("action"), $form.serialize()).done(success).fail(error);
         });
     });
 </script>
