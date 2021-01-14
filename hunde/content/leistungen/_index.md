@@ -14,9 +14,9 @@ leistungen:
     2. Junghund (6.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
     3. Welpe & Junghund (2.-12. Monat): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
     4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellen Anamnesebogen – 150 Euro
-- title: Titel (optional)
-  heading: Große Überschrift (optional)
-  image: "../images/jule-isi-strand-ruhig-2-hochkant-min.jpg"
+- title: Prävention
+  heading: Dein gesunder Hund optimal versorgt
+  image: "/images/oscar-sutton-unsplash-hund-im-wasser3.jpeg"
   text: |-
     Das Bild ist auch **optional**.
 
