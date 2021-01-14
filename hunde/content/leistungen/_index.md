@@ -40,7 +40,7 @@ menu:
 draft: true
 
 ---
-## Willkommen, Isi 😁
+## Leistungen & Preise
 
 Check it out!
 
