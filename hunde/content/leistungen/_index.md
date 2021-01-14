@@ -48,7 +48,7 @@ Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund �
 
 Optimal ist es, wenn du deinen Hund bereits mit einer gesunden Ernährung versorgst, wenn er gesund ist. So beugst zu vielen Krankheiten vor und unterstützt ihn bei einem langen, gesunden und fitten Leben.
 
-Oft rüttelt uns aber eine Erkrankung erst wach, sodass wir uns dann so richtig um die normalerweise selbstverständlichen Themen, die für die Gesundheit wichtig sind, kümmern. 
+Oft rüttelt uns aber eine Erkrankung erst wach, sodass wir uns dann so richtig um die normalerweise selbstverständlichen Themen, die für die Gesundheit wichtig sind, kümmern. Deshalb ist kein Zeitpunkt der falsche – lieber spät als nie!
 
 "_Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte._" (John Ruskin)
 
