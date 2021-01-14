@@ -10,9 +10,10 @@ leistungen:
   text: |-
     Du kannst auswählen zwischen:
 
-    1. Welpe (2.-5. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mailbetreuung, Dauer: 3 Monate
-    2. Junghund (6.-12. Monat)
-    3. Welpe & Junghund (2.-12. Monat)
+    1. Welpe (2.-5. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    2. Junghund (6.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    3. Welpe & Junghund (2.-12. Monat): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
+    4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage – 150 Euro
 - title: Titel (optional)
   heading: Große Überschrift (optional)
   image: "../images/jule-isi-strand-ruhig-2-hochkant-min.jpg"
