@@ -1,7 +1,9 @@
 ---
 title: Leistungen & Preise
 heading: Ein <span>Zyniker</span> ist ein <span>Mensch</span>, der von jedem Ding
-  den <span>Preis</span> und von keinem den <span>Wert</span> kennt. (Oscar Wilde)
+  den <span>Preis</span> und von keinem den <span>Wert</span> kennt. (Oscar Wilde);
+  Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter
+  machen und etwas billiger verkaufen könnte. (John Ruskin)
 scroll_down_button_text: Leistungen & Preise
 leistungen:
 - title: Hallo
