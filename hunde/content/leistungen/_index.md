@@ -10,7 +10,7 @@ leistungen:
   text: |-
     Du kannst auswählen zwischen:
 
-    1. Welpe (2.-5. Monat)
+    1. Welpe (2.-5. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mailbetreuung, Dauer: 3 Monate
     2. Junghund (6.-12. Monat)
     3. Welpe & Junghund (2.-12. Monat)
 - title: Titel (optional)
