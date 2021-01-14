@@ -1,7 +1,7 @@
 ---
 title: Leistungen & Preise
-heading: Unsere <span>Nahrung</span> sollte unsere <span>Medizin</span> sein und unsere
-  <span>Medizin</span> sollte unser <span>Essen</span> sein.
+heading: Ein <span>Zyniker</span> ist ein <span>Mensch</span>, der von jedem Ding
+  den <span>Preis</span> und von keinem den <span>Wert</span> kennt. (Oscar Wilde)
 scroll_down_button_text: Leistungen & Preise
 leistungen:
 - title: Hallo
