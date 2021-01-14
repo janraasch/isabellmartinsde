@@ -4,6 +4,10 @@ heading: '"Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure
   (Hippokrates) '
 scroll_down_button_text: Leistungen & Preise
 leistungen:
+- title: Senior
+  heading: Fit & gesund bis ins hohe Alter
+  image: ''
+  text: ''
 - title: Trächtigkeit & Laktation
   heading: Eine gesunde Hundemama
   image: ''
@@ -37,6 +41,29 @@ leistungen:
     Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern.
 
     Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter eine vegetarische Mahlzeit erhält. Ab und zu (z. B. im Urlaub, unterwegs oder bei Zeitmangel) gibt es auch aufgepptes Fertigfutter.
+- title: Krankheiten
+  heading: Wenn die Ernährung besonders wichtig ist
+  image: ''
+  text: |-
+    Bei diesen Krankheiten und Symptomen spielt die Ernährung eine besonders wichtige Rolle:
+
+    * chronische Niereninsuffizienz
+    * Gastritis
+    * chronisch entzündliche Darmerkrankungen (IBD)
+    * Reizdarmsyndrom
+    * Reflux (Sodbrennen)
+    * Lebererkrankungen
+    * Pankreasinsuffizienz
+    * Diabetes
+    * Erbrechen
+    * Durchfall
+    * Verstopfung
+    * Blähungen
+    * Colitis
+    * Dybiose
+    * häufiger Parasitenbefall
+    * Übergewicht
+    * Untergewicht
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
   image: ''
