@@ -17,22 +17,13 @@ leistungen:
 - title: Prävention
   heading: Dein gesunder Hund optimal versorgt
   image: "/images/oscar-sutton-unsplash-hund-im-wasser3.jpeg"
-  text: |-
-    Das Bild ist auch **optional**.
-
-    Mit der Ernährungsberatung für Hunde vereine ich meine berufliche Leidenschaft der Ernährungswissenschaft mit meiner großen Freude am Lebewesen Hund. Ich abeite hauptberuflich bereits seit 2015 als freiberufliche Ernährungsberaterin (für Menschen). Im Jahr 2020 ist nach zwei Abschlüssen im Bereich der Hundeernährungsberatung dies mein zweiter Arbeitsbereich.
-
-    Meine Abschlüsse:
-
-    Seit September 2020 – zertifizierte Ernährungsberaterin für Hunde nach Clean Feeding.
-
-    Seit Mai 2020 – zertifizierte Ernährungsberaterin für Hunde (bei der Rolf-Schneider-Akademie).
-
-    Seit 2016 – zertifizierte Ernährungsberaterin/DGE (Deutsche Gesellschaft für Ernährung e. V.).
-
-    Seit 2014 – Diplom-Ernährungswissenschaftlerin (Friedrich-Schiller-Universität Jena).
-
-    Meine Zertifikate findest zu [hier](https://hunde.isabellmartins.de/qualifikationen "Qualifikationen").
+  text: "Deine Optionen:\n\n1. Ernährungsumstellung: Wenn du z. B. von Fertigfutter
+    auf selbst zubereitete Rationen umstellen möchtest, begleite ich dich dabei. Erstgespräch
+    + 2 Folgegespräche + individueller Futterplan – 250 Euro\n2. Optimierung der Fütterung:
+    Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines Hundes. \n\n
+    \  a) Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 200 Euro  \n   b)
+    Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung) – 100
+    Euro"
 - title: Jule (Jule ist nicht optional ;-))
   heading: Große Überschrift (optional)
   image: "/images/img_4447.jpeg"
