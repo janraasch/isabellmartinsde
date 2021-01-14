@@ -50,6 +50,8 @@ Optimal ist es, wenn du deinen Hund bereits mit einer gesunden Ernährung versor
 
 Oft rüttelt uns aber eine Erkrankung erst wach, sodass wir uns dann so richtig um die normalerweise selbstverständlichen Themen, die für die Gesundheit wichtig sind, kümmern. Deshalb ist kein Zeitpunkt der falsche – lieber spät als nie!
 
+***
+
 "_Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte._" (John Ruskin)
 
 Meine Preise beinhalten eine intensive und individuelle Vorbereitung und Nachbereitung für jede Beratung.
