@@ -4,32 +4,6 @@ heading: '"Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure
   (Hippokrates) '
 scroll_down_button_text: Leistungen & Preise
 leistungen:
-- title: Verhaltensauffälligkeiten
-  heading: Hyperaktiv oder lethargisch
-  image: ''
-  text: ''
-- title: Sport & Arbeit
-  heading: Unterstützung bei hohen Ansprüchen
-  image: ''
-  text: ''
-- title: Senior
-  heading: Fit & gesund bis ins hohe Alter
-  image: ''
-  text: ''
-- title: Trächtigkeit & Laktation
-  heading: Eine gesunde Hundemama
-  image: ''
-  text: ''
-- title: Welpen & Junghunde
-  heading: Der beste Start ins Leben
-  image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
-  text: |-
-    Du kannst auswählen zwischen:
-
-    1. Welpe (2.-5. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
-    2. Junghund (6.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
-    3. Welpe & Junghund (2.-12. Monat): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
-    4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellen Anamnesebogen – 150 Euro
 - title: Prävention
   heading: Dein gesunder Hund optimal versorgt
   image: "/images/oscar-sutton-unsplash-hund-im-wasser3.jpeg"
@@ -49,6 +23,36 @@ leistungen:
     Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern.
 
     Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter eine vegetarische Mahlzeit erhält. Ab und zu (z. B. im Urlaub, unterwegs oder bei Zeitmangel) gibt es auch aufgepptes Fertigfutter.
+- title: Allergie oder Unverträglichkeit
+  heading: Optimal versorgt trotz Einschränkung
+  image: ''
+  text: ''
+- title: Verhaltensauffälligkeiten
+  heading: Hyperaktiv oder lethargisch
+  image: ''
+  text: ''
+- title: Sport & Arbeit
+  heading: Unterstützung bei hohen Ansprüchen
+  image: ''
+  text: ''
+- title: Welpen & Junghunde
+  heading: Der beste Start ins Leben
+  image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
+  text: |-
+    Du kannst auswählen zwischen:
+
+    1. Welpe (2.-5. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    2. Junghund (6.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    3. Welpe & Junghund (2.-12. Monat): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
+    4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellen Anamnesebogen – 150 Euro
+- title: Trächtigkeit & Laktation
+  heading: Eine gesunde Hundemama
+  image: ''
+  text: ''
+- title: Senior
+  heading: Fit & gesund bis ins hohe Alter
+  image: ''
+  text: ''
 - title: Krankheiten
   heading: Wenn die Ernährung besonders wichtig ist
   image: ''
@@ -68,14 +72,12 @@ leistungen:
     * Verstopfung
     * Blähungen
     * Colitis
-    * Dybiose
+    * Dysbiose
     * häufiger Parasitenbefall
     * Übergewicht
     * Untergewicht
-- title: Allergie oder Unverträglichkeit
-  heading: Optimal versorgt trotz Einschränkung
-  image: ''
-  text: ''
+
+    Ist dein Hund krank und du bist nicht sicher, ob die Ernährung darauf Einfluss haben kann, melde dich gerne – ich versuche, dir eine realistische Einschätzung zu eurer individuellen Siatuation zu geben.
 menu:
   nav:
     weight: 3
