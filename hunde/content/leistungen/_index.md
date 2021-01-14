@@ -67,4 +67,4 @@ Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszei
 
 Unten findest du verschiedene **Pakete**, die für eine längere Betreuung sind und insgesamt als Pauschalpreis günstiger sind.
 
-[Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder ein anderes Anliegen hast 😉
+[Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder du nicht das Richtige gefunden hast 😉
