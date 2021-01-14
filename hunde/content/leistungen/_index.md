@@ -23,7 +23,9 @@ leistungen:
     Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines Hundes. \n\n
     \  a) Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 200 Euro  \n   b)
     Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung) – 100
-    Euro"
+    Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch + individueller
+    Futterplan – 220 Euro  \n   b) Auswertung Anamnesebogen + angepasster Futterplan
+    (nur E-Mail-Beratung) – 120 Euro"
 - title: Jule (Jule ist nicht optional ;-))
   heading: Große Überschrift (optional)
   image: "/images/img_4447.jpeg"
