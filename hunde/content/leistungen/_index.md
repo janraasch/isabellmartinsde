@@ -26,8 +26,8 @@ leistungen:
     Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch + individueller
     Futterplan – 220 Euro  \n   b) Auswertung Anamnesebogen + angepasster Futterplan
     (nur E-Mail-Beratung) – 120 Euro"
-- title: Jule (Jule ist nicht optional ;-))
-  heading: Große Überschrift (optional)
+- title: Ernährungstherapie
+  heading: Begleitend zur ärztlichen Versorgung
   image: "/images/img_4447.jpeg"
   text: |-
     Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern.
