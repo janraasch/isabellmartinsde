@@ -4,9 +4,9 @@ heading: '"Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure
   (Hippokrates) '
 scroll_down_button_text: Leistungen & Preise
 leistungen:
-- title: Hallo
-  heading: Jojojo
-  image: ''
+- title: Welpen & Junghunde
+  heading: Der beste Start ins Leben
+  image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
   text: ''
 - title: Titel (optional)
   heading: Große Überschrift (optional)
