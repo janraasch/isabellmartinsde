@@ -4,6 +4,10 @@ heading: '"Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure
   (Hippokrates) '
 scroll_down_button_text: Leistungen & Preise
 leistungen:
+- title: Trächtigkeit & Laktation
+  heading: Eine gesunde Hundemama
+  image: ''
+  text: ''
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
