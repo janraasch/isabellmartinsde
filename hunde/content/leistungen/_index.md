@@ -33,6 +33,10 @@ leistungen:
     Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern.
 
     Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter eine vegetarische Mahlzeit erhält. Ab und zu (z. B. im Urlaub, unterwegs oder bei Zeitmangel) gibt es auch aufgepptes Fertigfutter.
+- title: Allergie oder Unverträglichkeit
+  heading: Optimal versorgt trotz Einschränkung
+  image: ''
+  text: ''
 menu:
   nav:
     weight: 3
