@@ -28,7 +28,7 @@ leistungen:
     (nur E-Mail-Beratung) – 120 Euro"
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
-  image: "/images/img_4447.jpeg"
+  image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
   text: |-
     Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern.
 
