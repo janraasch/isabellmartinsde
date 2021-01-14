@@ -1,10 +1,7 @@
 ---
 title: Leistungen & Preise
-heading: '"Eure Nahrung sei eure Medizin, und eure Medizin sei eure Nahrung" (Hippokrates);
-  Ein <span>Zyniker</span> ist ein <span>Mensch</span>, der von jedem Ding den <span>Preis</span>
-  und von keinem den <span>Wert</span> kennt. (Oscar Wilde); Es gibt kaum etwas auf
-  dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger
-  verkaufen könnte. (John Ruskin)'
+heading: '"Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure <span>Nahrung</span>"
+  (Hippokrates) '
 scroll_down_button_text: Leistungen & Preise
 leistungen:
 - title: Hallo
@@ -47,8 +44,10 @@ draft: true
 
 ℹ️ Diese Seite ist unter /leistungen erreichbar.
 
-Ich berate dich gerne zu allen gesundheitlichen Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden
+Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar. 
 
 Ich gestalte meine Beratung **ganzheitlich**, denn oft spielt nicht nur die Ernährung eine wichtige Rolle. Auch weitere Einflüsse können dazu führen, dass es unserem Hund nicht gut geht und beeinflussen die Gesundheit.
 
 Für die Beratung treffen wir uns online, telefonisch, bei dir zu Hause oder draußen an einem passenden Ort – je nachdem, was für dich am besten funktioniert. Damit möchte ich dir und mir ermöglichen, **ortsungebunden** und **zeitlich flexibel** eine professionelle Ernährungsberatung anzubieten.
+
+"_Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte._" (John Ruskin)
