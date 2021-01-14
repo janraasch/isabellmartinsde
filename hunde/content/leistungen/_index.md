@@ -46,7 +46,7 @@ draft: true
 
 Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar – die Ernährung spielt jedoch begleitend therapeutisch eine wichtige Rolle. Schließlich sind es die **Nahrungsmittel**, die  das enthalten, was der **Körper** gibt, was er benötigt, um gesund zu werden und gesund zu bleiben.
 
-Ich gestalte meine Beratung **ganzheitlich**, denn oft spielt nicht nur die Ernährung eine wichtige Rolle. Auch weitere Einflüsse können dazu führen, dass es unserem Hund nicht gut geht und beeinflussen die Gesundheit.
+Optimal ist es, wenn du deinen Hund bereits mit einer gesunden Ernährung versorgst, wenn er gesund ist. So beugst zu vielen Krankheiten vor und unterstützt ihn bei einem langen, gesunden und fitten Leben.
 
 Für die Beratung treffen wir uns online, telefonisch, bei dir zu Hause oder draußen an einem passenden Ort – je nachdem, was für dich am besten funktioniert. Damit möchte ich dir und mir ermöglichen, **ortsungebunden** und **zeitlich flexibel** eine professionelle Ernährungsberatung anzubieten.
 
