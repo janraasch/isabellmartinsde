@@ -54,4 +54,4 @@ Oft rüttelt uns aber eine Erkrankung erst wach, sodass wir uns dann so richtig 
 
 "_Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte._" (John Ruskin)
 
-Meine Preise beinhalten eine intensive und individuelle Vorbereitung und Nachbereitung für jede Beratung.
+Es ist mir sehr wichtig, für jeden Hund  die individuell optimale Ernährung zusammenzustellen – zusätzlich angepasst auf deine Vorlieben und Möglichkeiten. Meine Preise beinhalten eine intensive und individuelle Vorbereitung und Nachbereitung für jede Beratung.
