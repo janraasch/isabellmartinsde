@@ -4,6 +4,10 @@ heading: '"Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure
   (Hippokrates) '
 scroll_down_button_text: Leistungen & Preise
 leistungen:
+- title: Verhaltensauffälligkeiten
+  heading: Hyperaktiv oder lethargisch
+  image: ''
+  text: ''
 - title: Sport & Arbeit
   heading: Unterstützung bei hohen Ansprüchen
   image: ''
