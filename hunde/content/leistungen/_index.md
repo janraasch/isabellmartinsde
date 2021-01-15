@@ -28,8 +28,8 @@ leistungen:
   image: "/images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg"
   text: ''
 - title: Verhaltensauffälligkeiten
-  heading: Hyperaktiv oder lethargisch
-  image: ''
+  heading: Hyperaktiv, lethargisch oder leicht reizbar?
+  image: "/images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg"
   text: ''
 - title: Sport & Arbeit
   heading: Unterstützung bei hohen Ansprüchen
