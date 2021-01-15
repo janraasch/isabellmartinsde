@@ -25,7 +25,7 @@ leistungen:
     Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter eine vegetarische Mahlzeit erhält. Ab und zu (z. B. im Urlaub, unterwegs oder bei Zeitmangel) gibt es auch aufgepptes Fertigfutter.
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
-  image: ''
+  image: "/images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg"
   text: ''
 - title: Verhaltensauffälligkeiten
   heading: Hyperaktiv oder lethargisch
