@@ -33,7 +33,7 @@ leistungen:
   text: ''
 - title: Sport & Arbeit
   heading: Unterstützung bei hohen Ansprüchen
-  image: ''
+  image: "/images/596d5d0c-562d-4431-828a-0e6a9b5363a1_1_105_c.jpeg"
   text: ''
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
