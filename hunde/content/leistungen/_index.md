@@ -78,9 +78,6 @@ leistungen:
     * Untergewicht
 
     Ist dein Hund krank und du bist nicht sicher, ob die Ernährung darauf Einfluss haben kann, melde dich gerne – ich versuche, dir eine realistische Einschätzung zu eurer individuellen Siatuation zu geben.
-menu:
-  nav:
-    weight: 2
 draft: true
 
 ---
