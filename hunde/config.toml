@@ -11,9 +11,6 @@ name = "Team"
 url = "https://hunde.isabellmartins.de/#team"
 weight = 1
 [[menu.nav]]
-name = "Leistungen & Preise"
-weight = 2
-[[menu.nav]]
 name = "Termin vereinbaren"
 url = "contact"
 weight = 4
