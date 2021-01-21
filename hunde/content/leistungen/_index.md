@@ -38,18 +38,18 @@ leistungen:
   text: |-
     Du kannst auswählen zwischen:
 
-    1. Welpe (2.-5. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
-    2. Junghund (6.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    1. Welpe (2.-4. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    2. Junghund (5.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
     3. Welpe & Junghund (2.-12. Monat): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
-    4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellen Anamnesebogen – 150 Euro
+    4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellem Anamnesebogen – 150 Euro
 - title: Trächtigkeit & Laktation
   heading: Eine gesunde Hundemama
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
-  text: ''
+  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
   image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
-  text: ''
+  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
 - title: Krankheiten
   heading: Wenn die Ernährung besonders wichtig ist
   image: ''
