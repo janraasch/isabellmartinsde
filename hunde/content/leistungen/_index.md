@@ -117,6 +117,10 @@ leistungen:
     gestellten Ansprühen.  \n    a) Erstgespräch + 1 Folgegespräch + individueller
     Futterplan bei erhöhtem Anspruch – 260 Euro  \n    b) Auswertung Anamnesebogen
     + individueller Futterplan bei erhöhtem Anspruch (nur E-Mail-Beratung) – 150 Euro\n\n "
+- title: Wie gut ist mein Futter?
+  heading: Futterbewertung (von Trocken- und Feuchtfutter)
+  image: ''
+  text: ''
 draft: true
 
 ---
