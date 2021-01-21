@@ -10,11 +10,11 @@ leistungen:
   text: "Deine Optionen:\n\n1. Ernährungsumstellung: Wenn du z. B. von Fertigfutter
     auf selbst zubereitete Rationen umstellen möchtest, begleite ich dich dabei. Erstgespräch
     + 2 Folgegespräche + individueller Futterplan – 250 Euro\n2. Optimierung der Fütterung:
-    Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines Hundes. \n\n
+    Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines Hundes.\n\n
     \  a) Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 200 Euro  \n   b)
     Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung) – 100
     Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch + individueller
-    Futterplan – 220 Euro  \n   b) Auswertung Anamnesebogen + angepasster Futterplan
+    Futterplan – 220 Euro  \n   b) Auswertung Anamnesebogen + individueller Futterplan
     (nur E-Mail-Beratung) – 120 Euro"
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
