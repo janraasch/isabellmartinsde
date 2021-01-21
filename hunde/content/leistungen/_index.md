@@ -37,7 +37,19 @@ leistungen:
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
   image: "/images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg"
-  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
+  text: "In der Beratung zu Allergien und Unverträglichkeiten gibt es unterschiedliche
+    Bausteine – je nachdem, ob das auslösende Lebensmittel bekannt ist oder nicht.\n\n1.
+    Ausschlussdiät bei unbekanntem Auslöser,  anschließendem Futteraufbau und langfristige
+    Fütterung:  \n   Erstgespräch + 4 Folgegespräche + individuelle Futterpläne, Dauer:
+    6 Monate – 490 Euro\n2. Optimierung der Fütterung:  \n   Wir nehmen Anpassungen,
+    die für die Erkrankung bedeutend sind, vor.\n\n   a) Erstgespräch + 1 Folgegespräch
+    + angepasster Futterplan bei einer Erkrankung – 230 Euro  \n   b) Auswertung Anamnesebogen
+    + angepasster Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung)
+    – 120 Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch +
+    individueller Futterplan bei einer Erkrankung – 260 Euro  \n   b) Auswertung Anamnesebogen
+    + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung, ohne Schulung)
+    – 150 Euro\n4. Nur Schulung (Theorie und Praxis) ohne Futterplan:  \n   1 Erstgespräch
+    + 2 Folgegespräche – 170 Euro"
 - title: Verhaltensauffälligkeiten
   heading: Hyperaktiv, lethargisch oder leicht reizbar?
   image: "/images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg"
