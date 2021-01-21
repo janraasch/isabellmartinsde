@@ -16,6 +16,24 @@ leistungen:
     Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch + individueller
     Futterplan – 220 Euro  \n   b) Auswertung Anamnesebogen + individueller Futterplan
     (nur E-Mail-Beratung) – 120 Euro"
+- title: Trächtigkeit & Laktation
+  heading: Eine gesunde Hundemama
+  image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
+  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
+- title: Welpen & Junghunde
+  heading: Der beste Start ins Leben
+  image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
+  text: |-
+    Du kannst auswählen zwischen:
+
+    1. Welpe (2.-4. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    2. Junghund (5.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
+    3. Welpe & Junghund (2.-12. Monat): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
+    4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellem Anamnesebogen – 150 Euro
+- title: Senior
+  heading: Fit & gesund bis ins hohe Alter
+  image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
+  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
   image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
@@ -34,6 +52,31 @@ leistungen:
     – 260 Euro  \n   b) Auswertung Anamnesebogen + individueller Futterplan bei einer
     Erkranung (nur E-Mail-Beratung, ohne Schulung) – 150 Euro\n4. Nur Schulung (Theorie
     und Praxis) ohne Futterplan:  \n   1 Erstgespräch + 2 Folgegespräche – 170 Euro"
+- title: Krankheiten
+  heading: Wenn die Ernährung besonders wichtig ist
+  image: ''
+  text: |-
+    Bei diesen Krankheiten und Symptomen spielt die Ernährung eine besonders wichtige Rolle:
+
+    * chronische Niereninsuffizienz
+    * Gastritis
+    * chronisch entzündliche Darmerkrankungen (IBD)
+    * Reizdarmsyndrom
+    * Reflux (Sodbrennen)
+    * Lebererkrankungen
+    * Pankreasinsuffizienz
+    * Diabetes
+    * Erbrechen
+    * Durchfall
+    * Verstopfung
+    * Blähungen
+    * Colitis
+    * Dysbiose
+    * häufiger Parasitenbefall
+    * Übergewicht
+    * Untergewicht
+
+    Ist dein Hund krank und du bist nicht sicher, ob die Ernährung darauf Einfluss haben kann, melde dich gerne – ich versuche, dir eine realistische Einschätzung zu eurer individuellen Siatuation zu geben.
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
   image: "/images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg"
@@ -74,49 +117,6 @@ leistungen:
     gestellten Ansprühen.  \n    a) Erstgespräch + 1 Folgegespräch + individueller
     Futterplan bei erhöhtem Anspruch – 260 Euro  \n    b) Auswertung Anamnesebogen
     + individueller Futterplan bei erhöhtem Anspruch (nur E-Mail-Beratung) – 150 Euro\n\n "
-- title: Welpen & Junghunde
-  heading: Der beste Start ins Leben
-  image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
-  text: |-
-    Du kannst auswählen zwischen:
-
-    1. Welpe (2.-4. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
-    2. Junghund (5.-12. Monat): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
-    3. Welpe & Junghund (2.-12. Monat): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
-    4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellem Anamnesebogen – 150 Euro
-- title: Trächtigkeit & Laktation
-  heading: Eine gesunde Hundemama
-  image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
-  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
-- title: Senior
-  heading: Fit & gesund bis ins hohe Alter
-  image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
-  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
-- title: Krankheiten
-  heading: Wenn die Ernährung besonders wichtig ist
-  image: ''
-  text: |-
-    Bei diesen Krankheiten und Symptomen spielt die Ernährung eine besonders wichtige Rolle:
-
-    * chronische Niereninsuffizienz
-    * Gastritis
-    * chronisch entzündliche Darmerkrankungen (IBD)
-    * Reizdarmsyndrom
-    * Reflux (Sodbrennen)
-    * Lebererkrankungen
-    * Pankreasinsuffizienz
-    * Diabetes
-    * Erbrechen
-    * Durchfall
-    * Verstopfung
-    * Blähungen
-    * Colitis
-    * Dysbiose
-    * häufiger Parasitenbefall
-    * Übergewicht
-    * Untergewicht
-
-    Ist dein Hund krank und du bist nicht sicher, ob die Ernährung darauf Einfluss haben kann, melde dich gerne – ich versuche, dir eine realistische Einschätzung zu eurer individuellen Siatuation zu geben.
 draft: true
 
 ---
