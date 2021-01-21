@@ -27,10 +27,11 @@ leistungen:
     Erstgespräch + 3 Folgegespräche + individueller Futterplan, Dauer: 3 Monate –
     350 Euro\n2. Optimierung der Fütterung: Wir nehmen Anpassungen, die für die Erkrankung
     bedeutend sind, vor.\n\n   a) Erstgespräch + 1 Folgegespräch + angepasster Futterplan
-    – 230 Euro  \n   b) Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung)
-    – 120 Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch +
-    individueller Futterplan bei einer Erkrankung – 250 Euro  \n   b) Auswertung Anamnesebogen
-    + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung) – 150 Euro"
+    bei einer Erkrankung – 230 Euro  \n   b) Auswertung Anamnesebogen + angepasster
+    Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung) – 120 Euro\n3.
+    Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch + individueller
+    Futterplan bei einer Erkrankung – 250 Euro  \n   b) Auswertung Anamnesebogen +
+    individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung) – 150 Euro"
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
   image: "/images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg"
