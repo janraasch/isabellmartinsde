@@ -19,7 +19,18 @@ leistungen:
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
   image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
-  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
+  text: "In einer Ernährungstherapie möchte ich dich bezüglich der Krankheit deines
+    Hundes schulen, damit du weißt, was hinsichtlich der Ernährung und des Lebensstils
+    wichtig ist, zu beachten. Neben der Theorie thematisieren wir natürlich auch die
+    praktische Umsetzung in eurem Alltag. \n\n1. Ernährungsumstellung: Wenn du auf
+    eine Fütterung, die für die Situation deines Hundes optimal ist, umstellen möchtest.
+    Erstgespräch + 3 Folgegespräche + individueller Futterplan, Dauer: 3 Monate –
+    350 Euro\n2. Optimierung der Fütterung: Wir nehmen Anpassungen, die für die Erkrankung
+    bedeutend sind, vor.\n\n   a) Erstgespräch + 1 Folgegespräch + angepasster Futterplan
+    – 230 Euro  \n   b) Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung)
+    – 120 Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch +
+    individueller Futterplan bei einer Erkrankung – 250 Euro  \n   b) Auswertung Anamnesebogen
+    + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung) – 150 Euro"
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
   image: "/images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg"
