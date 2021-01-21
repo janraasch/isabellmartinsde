@@ -67,8 +67,8 @@ leistungen:
   text: "Wir optimieren die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
     aufgrund erhöhter physischer und psychischer Ansprüche.\n\nOptimierung der Fütterung:
     Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines Hundes.  \na)
-    Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 200 Euro  \n b) Auswertung
-    Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung) – 100 Euro\n\n "
+    Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 230 Euro  \n b) Auswertung
+    Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung) – 120 Euro\n\n "
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
