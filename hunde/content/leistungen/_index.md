@@ -119,7 +119,7 @@ leistungen:
     + individueller Futterplan bei erhöhtem Anspruch (nur E-Mail-Beratung) – 150 Euro\n\n "
 - title: Wie gut ist mein Futter?
   heading: Futterbewertung (von Trocken- und Feuchtfutter)
-  image: ''
+  image: "/images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg"
   text: ''
 draft: true
 
