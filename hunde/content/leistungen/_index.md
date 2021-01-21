@@ -24,14 +24,14 @@ leistungen:
     wichtig ist, zu beachten. Neben der Theorie thematisieren wir natürlich auch die
     praktische Umsetzung in eurem Alltag. \n\n1. Ernährungsumstellung: Wenn du auf
     eine Fütterung, die für die Situation deines Hundes optimal ist, umstellen möchtest.
-    Erstgespräch + 3 Folgegespräche + individueller Futterplan, Dauer: 3 Monate –
-    350 Euro\n2. Optimierung der Fütterung: Wir nehmen Anpassungen, die für die Erkrankung
-    bedeutend sind, vor.\n\n   a) Erstgespräch + 1 Folgegespräch + angepasster Futterplan
-    bei einer Erkrankung – 230 Euro  \n   b) Auswertung Anamnesebogen + angepasster
-    Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung) – 120 Euro\n3.
-    Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch + individueller
-    Futterplan bei einer Erkrankung – 260 Euro  \n   b) Auswertung Anamnesebogen +
-    individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung, ohne Schulung)
+    Erstgespräch + 3 Folgegespräche + individueller Futterplan bei einer Erkrankung,
+    Dauer: 3 Monate – 350 Euro\n2. Optimierung der Fütterung: Wir nehmen Anpassungen,
+    die für die Erkrankung bedeutend sind, vor.\n\n   a) Erstgespräch + 1 Folgegespräch
+    + angepasster Futterplan bei einer Erkrankung – 230 Euro  \n   b) Auswertung Anamnesebogen
+    + angepasster Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung)
+    – 120 Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch +
+    individueller Futterplan bei einer Erkrankung – 260 Euro  \n   b) Auswertung Anamnesebogen
+    + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung, ohne Schulung)
     – 150 Euro"
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
