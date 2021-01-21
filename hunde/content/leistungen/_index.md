@@ -55,7 +55,9 @@ leistungen:
 - title: Verhaltensauffälligkeiten
   heading: Hyperaktiv, lethargisch oder leicht reizbar?
   image: "/images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg"
-  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
+  text: Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob einzelne
+    Bestandteile oder die Zusammensetzung das Verhalten deines Hundes ungünstig beeinflussen
+    kann.
 - title: Sport & Arbeit
   heading: Unterstützung bei hohen Ansprüchen
   image: "/images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg"
