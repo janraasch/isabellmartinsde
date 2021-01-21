@@ -30,7 +30,7 @@ leistungen:
     bei einer Erkrankung – 230 Euro  \n   b) Auswertung Anamnesebogen + angepasster
     Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung) – 120 Euro\n3.
     Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch + individueller
-    Futterplan bei einer Erkrankung – 250 Euro  \n   b) Auswertung Anamnesebogen +
+    Futterplan bei einer Erkrankung – 260 Euro  \n   b) Auswertung Anamnesebogen +
     individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung, ohne Schulung)
     – 150 Euro"
 - title: Allergie oder Unverträglichkeit
