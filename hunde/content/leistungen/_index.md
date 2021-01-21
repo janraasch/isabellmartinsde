@@ -64,7 +64,8 @@ leistungen:
 - title: Sport & Arbeit
   heading: Unterstützung bei hohen Ansprüchen
   image: "/images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg"
-  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
+  text: "Wir optimieren die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
+    aufgrund erhöhter physischer und psychischer Ansprüche.\n\n "
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
