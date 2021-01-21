@@ -41,11 +41,12 @@ leistungen:
     Bausteine – je nachdem, ob das auslösende Lebensmittel bekannt ist oder nicht.\n\n1.
     Ausschlussdiät bei unbekanntem Auslöser,  anschließendem Futteraufbau und langfristige
     Fütterung:  \n   Erstgespräch + 4 Folgegespräche + individuelle Futterpläne, Dauer:
-    6 Monate – 490 Euro\n2. Optimierung der Fütterung:  \n   Wir nehmen Anpassungen,
-    die für die Erkrankung bedeutend sind, vor.\n\n   a) Erstgespräch + 1 Folgegespräch
-    + angepasster Futterplan bei einer Erkrankung – 230 Euro  \n   b) Auswertung Anamnesebogen
-    + angepasster Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung)
-    – 120 Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch +
+    6 Monate – 490 Euro\n2. Optimierung der Fütterung: Der Auslöser ist bekannt. Du
+    brauchst Alternativen zu dem zu meidendem Lebensmittel und möchtest die Darmgesundheit
+    deines Hundes stärken.  \n   a) Erstgespräch + 1 Folgegespräch + angepasster Futterplan
+    bei vorliegender Allergie/Unverträglichkeit – 260 Euro  \n   b) Auswertung Anamnesebogen
+    + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung, ohne Schulung)
+    – 150 Euro\n3. Futterplan erstellen:  \n   a) Erstgespräch + 1 Folgegespräch +
     individueller Futterplan bei einer Erkrankung – 260 Euro  \n   b) Auswertung Anamnesebogen
     + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung, ohne Schulung)
     – 150 Euro\n4. Nur Schulung (Theorie und Praxis) ohne Futterplan:  \n   1 Erstgespräch
