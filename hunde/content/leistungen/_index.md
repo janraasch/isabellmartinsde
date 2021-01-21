@@ -47,7 +47,7 @@ leistungen:
     4. Futterplan für das aktuelle Alter und Gewicht für 7 Tage gemäß individuellen Anamnesebogen – 150 Euro
 - title: Trächtigkeit & Laktation
   heading: Eine gesunde Hundemama
-  image: "/images/f57cab94-a866-48b3-8cd7-baa6d1339e33_1_105_c.jpeg"
+  image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
   text: ''
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
