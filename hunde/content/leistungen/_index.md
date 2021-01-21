@@ -96,7 +96,7 @@ _"Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlecht
 
 Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
 
-Ein **Erstgespräch** kostet 80,00 Euro und beinhaltet 45 Minuten Gesprächszeit. 
+Ein **Erstgespräch** kostet 80,00 Euro und beinhaltet 45 Minuten Gesprächszeit (Inhalte: Anamnese, Auswertung eines zuvor ausgefüllten Fragebogens zum Hund, Abklärung des Ziels der Ernährungsberatung, erste Empfehlungen).
 
 Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
 
