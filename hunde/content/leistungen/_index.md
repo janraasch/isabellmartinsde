@@ -51,7 +51,7 @@ leistungen:
   text: ''
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
-  image: "/images/f2aadcae-b2cc-4ac3-a64d-a6a9ac7d8091_1_105_c.jpeg"
+  image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
   text: ''
 - title: Krankheiten
   heading: Wenn die Ernährung besonders wichtig ist
