@@ -65,7 +65,10 @@ leistungen:
   heading: Unterstützung bei hohen Ansprüchen
   image: "/images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg"
   text: "Wir optimieren die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
-    aufgrund erhöhter physischer und psychischer Ansprüche.\n\n "
+    aufgrund erhöhter physischer und psychischer Ansprüche.\n\nOptimierung der Fütterung:
+    Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines Hundes.  \na)
+    Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 200 Euro  \n b) Auswertung
+    Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung) – 100 Euro\n\n "
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
