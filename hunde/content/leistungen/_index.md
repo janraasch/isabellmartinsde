@@ -127,9 +127,7 @@ leistungen:
 draft: true
 
 ---
-## Leistungen & Preise
-
-**– LEISTUNGEN –**
+## Leistungen
 
 Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar – die Ernährung spielt jedoch **begleitend** therapeutisch eine wichtige Rolle. Schließlich sind es die **Nahrungsmittel**, die  das enthalten, was der **Körper** benötigt, um gesund zu werden und gesund zu bleiben.
 
@@ -139,7 +137,7 @@ Oft rüttelt uns aber eine **Erkrankung** erst wach, sodass wir uns dann so rich
 
 ***
 
-**– PREISE –**
+## Preise
 
 _"Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte."_ (John Ruskin)
 
