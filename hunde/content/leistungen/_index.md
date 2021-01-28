@@ -153,7 +153,7 @@ Unten findest du verschiedene **Pakete**, die für eine längere Betreuung sind 
 
 ***
 
-### Wie läuft eine Beratung ab? (Abschnitt extra) 
+### Wie läuft eine Beratung ab? 🤔 (Abschnitt extra) 
 
 Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch gerne auf die Mailbox sprechen und ich rufe dich zurück. 
 
