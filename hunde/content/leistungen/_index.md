@@ -127,7 +127,7 @@ leistungen:
 draft: true
 
 ---
-## Leistungen
+### Leistungen
 
 Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar – die Ernährung spielt jedoch **begleitend** therapeutisch eine wichtige Rolle. Schließlich sind es die **Nahrungsmittel**, die  das enthalten, was der **Körper** benötigt, um gesund zu werden und gesund zu bleiben.
 
@@ -137,7 +137,7 @@ Oft rüttelt uns aber eine **Erkrankung** erst wach, sodass wir uns dann so rich
 
 ***
 
-## Preise
+### Preise
 
 _"Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte."_ (John Ruskin)
 
@@ -153,4 +153,10 @@ Unten findest du verschiedene **Pakete**, die für eine längere Betreuung sind 
 
 ***
 
-## Wie läuft eine Beratung ab? (Abschnitt extra) 
+### Wie läuft eine Beratung ab? (Abschnitt extra) 
+
+Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch gerne auf die Mailbox sprechen, wenn dir das lieber ist und ich rufe dich zurück. 
+
+Wenn du telefonieren möchtest, weil du unsicher bist, wie ich dir helfen kann, teile mir bitte mit, wann du gut erreichbar bist.
+
+Nach unser gemeinsamen Vereinbarung erhältst du die dazugehörige Rechnung und einen Fragebogen zu deinem Hund. Sobald die Zahlung bei mir eingegangen ist, mache ich mich an die Arbeit und wir vereinbaren ggf. einen Termin für ein Gespräch. Innerhalb von etwa 1 Woche nach dem Zahlungseingang erhältst du deine Leistung.
