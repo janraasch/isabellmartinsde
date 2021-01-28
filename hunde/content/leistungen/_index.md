@@ -52,11 +52,11 @@ leistungen:
     sind, vor.\n\n  **a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan
     bei einer Erkrankung – 230 Euro  \n    \n  **b)** Auswertung Anamnesebogen + angepasster
     Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung) – 120 Euro
-    \ \n    \n* **Futterplan erstellen**:  \n  a) Erstgespräch + 1 Folgegespräch +
-    individueller Futterplan bei einer Erkrankung – 260 Euro  \n  b) Auswertung Anamnesebogen
-    + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung, ohne Schulung)
-    – 150 Euro\n* Nur Schulung (Theorie und Praxis) ohne Futterplan:  \n  1 Erstgespräch
-    + 2 Folgegespräche – 170 Euro"
+    \ \n    \n* **Futterplan erstellen**:  \n  **a)** Erstgespräch + 1 Folgegespräch
+    + individueller Futterplan bei einer Erkrankung – 260 Euro  \n      \n  **b)**
+    Auswertung Anamnesebogen + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung,
+    ohne Schulung) – 150 Euro  \n   \n* Nur **Schulung** (Theorie und Umsetzung) ohne
+    Futterplan:  \n  1 Erstgespräch + 2 Folgegespräche – 170 Euro"
 - title: Krankheiten
   heading: Wenn die Ernährung ganz besonders wichtig ist
   image: "/images/ccf052cb-a328-4ef3-8879-6d63038f92d0_1_105_c.jpeg"
