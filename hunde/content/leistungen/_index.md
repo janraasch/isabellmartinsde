@@ -120,11 +120,10 @@ leistungen:
 - title: Wie gut ist mein Futter?
   heading: Futterbewertung (von Trocken- und Feuchtfutter)
   image: "/images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg"
-  text: "Du schickst mir die Namen (und Links) von 3 Futtersorten (z. B. ein Trockenfutter,
-    ein Feuchtfutter und eine Sorte Leckerlies), die du aktuell fütterst oder füttern
-    möchtest. Diese nehme ich unter die Lupe und beurteile sie. Du erfährst, was daran
-    günstig ist und was nicht so günstig und ob du sie durch kleine, einfache Ergänzungen
-    aufwerten kannst.\n\n1. E-Mail-Beratung mit Beurteilung von 3 Futtersorten –\n2. "
+  text: |-
+    Du schickst mir die Namen (und ggf. Links) von 3 Futtersorten (z. B. ein Trockenfutter, ein Feuchtfutter und eine Sorte Leckerlies), die du aktuell fütterst oder füttern möchtest. Diese nehme ich unter die Lupe und beurteile sie. Du erfährst, was daran günstig ist und was nicht so günstig und ob du sie durch kleine, einfache Ergänzungen aufwerten kannst.
+
+    E-Mail-Beratung mit Beurteilung von 3 Futtersorten – 35 Euro
 draft: true
 
 ---
