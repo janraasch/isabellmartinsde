@@ -155,8 +155,8 @@ Unten findest du verschiedene **Pakete**, die für eine längere Betreuung sind 
 
 ### Wie läuft eine Beratung ab? (Abschnitt extra) 
 
-Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch gerne auf die Mailbox sprechen, wenn dir das lieber ist und ich rufe dich zurück. 
+Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch gerne auf die Mailbox sprechen und ich rufe dich zurück. 
 
-Wenn du telefonieren möchtest, weil du unsicher bist, wie ich dir helfen kann, teile mir bitte mit, wann du gut erreichbar bist.
+Wir können gerne einmal telefonieren, damit du mich kennenlernen kannst und wir besprechen, wie ich dir helfen kann. Solltest du mich nicht erreichen, teile mir bitte mit, wann du gut erreichbar bist und ich melde mich zeitnah bei dir.
 
-Nach unser gemeinsamen Vereinbarung erhältst du die dazugehörige Rechnung und einen Fragebogen zu deinem Hund. Sobald die Zahlung und der ausgefüllte Fragebogen bei mir eingegangen ist, mache ich mich an die Arbeit und wir vereinbaren ggf. einen Termin für ein Gespräch. Innerhalb von etwa 1 Woche nach dem Zahlungseingang erhältst du deine Leistung.
+Nach unser gemeinsamen Vereinbarung erhältst du die dazugehörige Rechnung und einen Fragebogen zu deinem Hund. Sobald die Zahlung und der ausgefüllte Fragebogen bei mir eingegangen sind, mache ich mich an die Arbeit und wir vereinbaren ggf. einen Termin für ein Gespräch. Innerhalb von etwa 1 Woche nach dem Zahlungseingang erhältst du deine Leistung.
