@@ -25,13 +25,15 @@ leistungen:
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
-  text: |-
-    Du kannst auswählen zwischen:
-
-    * Welpe (**2.-4. Monat**): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
-    * Junghund (**5.-12. Monat**): Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro
-    * Welpe & Junghund (**2.-12. Monat**): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro
-    * Futterplan für das **aktuelle Alter und Gewicht** für 7 Tage gemäß individuellem Anamnesebogen – 150 Euro
+  text: "Du kannst auswählen zwischen:\n\n* Welpe (**2.-4. Monat**): Erstgespräch
+    + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf
+    deines Hundes, Dauer: 3 Monate – 380 Euro  \n    \n* Junghund (**5.-12. Monat**):
+    Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne
+    gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro  \n    \n* Welpe &
+    Junghund (**2.-12. Monat**): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung
+    + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro  \n    \n*
+    Futterplan für das **aktuelle Alter und Gewicht** für 7 Tage gemäß individuellem
+    Anamnesebogen – 150 Euro"
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
   image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
