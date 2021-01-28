@@ -159,4 +159,4 @@ Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch 
 
 Wenn du telefonieren möchtest, weil du unsicher bist, wie ich dir helfen kann, teile mir bitte mit, wann du gut erreichbar bist.
 
-Nach unser gemeinsamen Vereinbarung erhältst du die dazugehörige Rechnung und einen Fragebogen zu deinem Hund. Sobald die Zahlung bei mir eingegangen ist, mache ich mich an die Arbeit und wir vereinbaren ggf. einen Termin für ein Gespräch. Innerhalb von etwa 1 Woche nach dem Zahlungseingang erhältst du deine Leistung.
+Nach unser gemeinsamen Vereinbarung erhältst du die dazugehörige Rechnung und einen Fragebogen zu deinem Hund. Sobald die Zahlung und der ausgefüllte Fragebogen bei mir eingegangen ist, mache ich mich an die Arbeit und wir vereinbaren ggf. einen Termin für ein Gespräch. Innerhalb von etwa 1 Woche nach dem Zahlungseingang erhältst du deine Leistung.
