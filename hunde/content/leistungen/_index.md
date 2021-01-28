@@ -53,8 +53,8 @@ leistungen:
     Erkranung (nur E-Mail-Beratung, ohne Schulung) – 150 Euro\n4. Nur Schulung (Theorie
     und Praxis) ohne Futterplan:  \n   1 Erstgespräch + 2 Folgegespräche – 170 Euro"
 - title: Krankheiten
-  heading: Wenn die Ernährung besonders wichtig ist
-  image: ''
+  heading: Wenn die Ernährung ganz besonders wichtig ist
+  image: "/images/ccf052cb-a328-4ef3-8879-6d63038f92d0_1_105_c.jpeg"
   text: |-
     Bei diesen Krankheiten und Symptomen spielt die Ernährung eine besonders wichtige Rolle:
 
