@@ -178,4 +178,6 @@ Nachfolgend findest du eine Auswahl an Möglichkeiten, wie ich dich bei der Füt
 
 * Dein Hund ist gesund: [Prävention]() (z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen)
 * Deine Hündin ist oder wird trächtig oder hat bereits Welpen: [Trächtigkeit & Laktation]()
-* 
+* Du bekommst einen Welpen oder hast einen Welpen oder Junghund: [Welpen & Junghunde]()
+* Dein Hund ist schon älter und du möchtest über die Fütterung unterstützen, dass er lange gesund und fit bleibt: [Senior]()
+* Dein Hund ist krank – du musst deswegen bei der Fütterung auf bestimmte Dinge achten oder möchtest den Körper beim Gesundwerden unterstützen bzw. ermöglichen, dass die chronische Erkrankung mild verläuft oder möglichst langsam voranschreitet: [Ernährungstherapie]()
