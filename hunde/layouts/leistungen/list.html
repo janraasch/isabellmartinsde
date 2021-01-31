@@ -36,7 +36,7 @@
     <div class="container">
         <div class="row">
         {{ range .Params.leistungen }}
-        <div class="col-lg-6 col-md-10 mx-auto">
+        <div class="col-lg-6 col-md-10 mx-auto" {{ with .title }}id="{{ anchorize . }}"{{ end }}>
             <div class="site-team-item">
             <div class="site-team-item-thumb">
                 <img src="{{ .image }}" alt="{{ .heading }} - {{ .title }}">

@@ -144,7 +144,7 @@ leistungen:
 draft: true
 
 ---
-### Leistungen
+## Leistungen
 
 Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar – die Ernährung spielt jedoch **begleitend** therapeutisch eine wichtige Rolle. Schließlich sind es die **Nahrungsmittel**, die  das enthalten, was der **Körper** benötigt, um gesund zu werden und gesund zu bleiben.
 
@@ -152,9 +152,7 @@ Optimal ist es, wenn du deinen Hund bereits mit einer **gesunden Ernährung** ve
 
 Oft rüttelt uns aber eine **Erkrankung** erst wach, sodass wir uns dann so richtig um die normalerweise selbstverständlichen Themen, die für die Gesundheit wichtig sind, kümmern. Deshalb ist kein Zeitpunkt der falsche – **lieber spät als nie**!
 
-***
-
-### Preise
+## Preise
 
 _"Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte."_ (John Ruskin)
 
@@ -164,40 +162,28 @@ Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung*
 
 Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
 
-Unten findest du verschiedene **Pakete**, die für eine längere Betreuung sind und insgesamt als Pauschalpreis günstiger sind.
+Hier findest du verschiedene **Pakete**, die für eine längere Betreuung sind und insgesamt als Pauschalpreis günstiger sind.
 
-[Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder du nicht das Richtige gefunden hast 😉
+► [Prävention](#prävention): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, Überprüfung von selbst zubereiteten Rationen
+
+► [Trächtigkeit & Laktation](#trächtigkeit--laktation): Deine Hündin ist oder wird trächtig oder hat bereits Welpen.
+
+► [Welpen & Junghunde](#welpen--junghunde)
+
+► [Senior](#senior): Dein Hund ist schon älter und du möchtest über die Fütterung unterstützen, dass er lange gesund und fit bleibt.
+
+► [Ernährungstherapie](#ernährungstherapie): Dein Hund ist krank – du musst deswegen bei der Fütterung auf bestimmte Dinge achten oder möchtest den Körper beim Gesundwerden unterstützen bzw. ermöglichen, dass die chronische Erkrankung mild verläuft oder möglichst langsam voranschreitet.
+
+► [Allergie oder Unverträglichkeit](#allergie-oder-unverträglichkeit): Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit.
+
+► [Verhaltensauffälligkeiten](#verhaltensauffälligkeiten): Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil, lethargisch.
+
+► [Sport & Arbeit](#sport--arbeit): Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport. 
+
+► [Futterbewertung](#futterbewertung) (von Trocken- und Feuchtfutter)
 
 ***
 
-### Wie läuft eine Beratung ab❓ (Abschnitt extra)
+[Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder du nicht das Richtige gefunden hast 😉. 
 
-Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch gerne auf die Mailbox sprechen und ich rufe dich zurück.
-
-Wir können gerne einmal telefonieren, damit du mich kennenlernen kannst und wir besprechen, wie ich dir helfen kann. Solltest du mich nicht erreichen, teile mir bitte mit, wann du gut erreichbar bist und ich melde mich zeitnah bei dir.
-
-Nach unser gemeinsamen Vereinbarung erhältst du die dazugehörige Rechnung und einen Fragebogen zu deinem Hund. Sobald die Zahlung und der ausgefüllte Fragebogen bei mir eingegangen sind, mache ich mich an die Arbeit und wir vereinbaren ggf. einen Termin für ein Gespräch. Innerhalb von etwa 1 Woche nach dem Zahlungseingang erhältst du deine Leistung.
-
-***
-
-Text für Verlinkung der einzelnen Leistungen/Möglichkeiten:
-
-Nachfolgend findest du eine Auswahl an Möglichkeiten, wie ich dich bei der Fütterung deines Hundes unterstützen kann.
-
-► [Prävention](): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, Überprüfung von selbst zubereiteten Rationen
-
-► [Trächtigkeit & Laktation](): Deine Hündin ist oder wird trächtig oder hat bereits Welpen.
-
-► [Welpen & Junghunde]()
-
-► [Senior](): Dein Hund ist schon älter und du möchtest über die Fütterung unterstützen, dass er lange gesund und fit bleibt.
-
-► [Ernährungstherapie](): Dein Hund ist krank – du musst deswegen bei der Fütterung auf bestimmte Dinge achten oder möchtest den Körper beim Gesundwerden unterstützen bzw. ermöglichen, dass die chronische Erkrankung mild verläuft oder möglichst langsam voranschreitet.
-
-► [Allergie oder Unverträglichkeit](): Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit.
-
-► [Verhaltensauffälligkeiten](): Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil, lethargisch.
-
-► [Sport & Arbeit](): Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport. 
-
-► [Futterbewertung]() (von Trocken- und Feuchtfutter)
+Weiter unten findest du [Details zum Ablauf einer Beratung ⬇️](#beratungsablauf).
