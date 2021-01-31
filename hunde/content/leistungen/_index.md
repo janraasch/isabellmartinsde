@@ -185,3 +185,5 @@ Nachfolgend findest du eine Auswahl an Möglichkeiten, wie ich dich bei der Füt
 * Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit: [Allergie oder Unverträglichkeit]()
 
 1. Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil, lethargisch: [Verhaltensauffälligkeiten]()
+2. Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport: [Sport & Arbeit]()
+3. Du fragst dich, ob das Futter, das dein Hund regelmäßig bekommt, gut für ihn ist: [Futterbewertung (von Trocken- und Feuchtfutter)]()
