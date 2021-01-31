@@ -25,6 +25,6 @@ qualifications:
     Schwerpunkt'
 menu:
   nav:
-    weight: 2
+    weight: 3
 
 ---

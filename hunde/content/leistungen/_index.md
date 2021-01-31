@@ -1,7 +1,8 @@
 ---
 title: Leistungen & Preise
 heading: "<div style='display: inline-block; width: 50px;'> <img src='../images/quotes.svg'
-  width='35' alt='Zitat'/></div>Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure <span>Nahrung</span>."
+  width='35' alt='Zitat'/></div>Eure Nahrung sei eure <span>Medizin</span>, und eure
+  Medizin sei eure <span>Nahrung</span>."
 scroll_down_button_text: Leistungen & Preise
 beratungsablauf: |-
   ## Wie läuft eine Beratung ab?
@@ -141,6 +142,10 @@ leistungen:
     Du erfährst, was daran günstig ist und was nicht so günstig und ob du sie durch
     kleine, einfache Ergänzungen aufwerten kannst.\n\nE-Mail-Beratung mit Beurteilung
     von 3 Futtersorten   \n– 35 Euro"
+menu:
+  nav:
+    name: Leistungen
+    weight: 2
 draft: true
 
 ---
