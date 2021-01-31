@@ -124,8 +124,8 @@ leistungen:
     + individueller Futterplan bei erhöhtem Anspruch – 260 Euro  \n     \n  **b)**
     Auswertung Anamnesebogen + individueller Futterplan bei erhöhtem Anspruch (nur
     E-Mail-Beratung) – 150 Euro"
-- title: Wie gut ist mein Futter?
-  heading: Futterbewertung (von Trocken- und Feuchtfutter)
+- title: Futterbewertung (von Trocken- und Feuchtfutter)
+  heading: 'Wie gut ist das Futter für meinen Hund? '
   image: "/images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg"
   text: "Du schickst mir die Namen (und ggf. Links) von **3 Futtersorten** (z. B.
     ein Trockenfutter, ein Feuchtfutter und eine Sorte Leckerlies), die du aktuell
