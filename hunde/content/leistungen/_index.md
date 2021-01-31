@@ -176,20 +176,19 @@ Text für Verlinkung der einzelnen Leistungen/Möglichkeiten:
 
 Nachfolgend findest du eine Auswahl an Möglichkeiten, wie ich dich bei der Fütterung deines Hundes unterstützen kann.
 
-➤ Dein Hund ist gesund: [Prävention]() (z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen)
+➤ [Prävention](): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen
 
-➤ Deine Hündin ist oder wird trächtig oder hat bereits Welpen: [Trächtigkeit & Laktation]()
+➤ [Trächtigkeit & Laktation](): Deine Hündin ist oder wird trächtig oder hat bereits Welpen.
 
-➤ Du bekommst einen Welpen oder hast einen Welpen oder Junghund: [Welpen & Junghunde]()
+➤ [Welpen & Junghunde]()
 
-➤ Dein Hund ist schon älter und du möchtest über die Fütterung unterstützen, dass er lange gesund und fit bleibt: [Senior]()
+➤ [Senior](): Dein Hund ist schon älter und du möchtest über die Fütterung unterstützen, dass er lange gesund und fit bleibt.
 
-➤ Dein Hund ist krank – du musst deswegen bei der Fütterung auf bestimmte Dinge achten oder möchtest den Körper beim Gesundwerden unterstützen bzw. ermöglichen, dass die chronische Erkrankung mild verläuft oder möglichst langsam voranschreitet: [Ernährungstherapie]()  
-→ Bei diesen [Krankheiten]() spielt das Futter eine ganz besonder wichtige Rolle.
+➤ [Ernährungstherapie](): Dein Hund ist krank – du musst deswegen bei der Fütterung auf bestimmte Dinge achten oder möchtest den Körper beim Gesundwerden unterstützen bzw. ermöglichen, dass die chronische Erkrankung mild verläuft oder möglichst langsam voranschreitet.
 
-➤ Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit: [Allergie oder Unverträglichkeit]()
+➤ [Allergie oder Unverträglichkeit](): Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit.
 
-➤ Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil, lethargisch: [Verhaltensauffälligkeiten]()
+➤ [Verhaltensauffälligkeiten](). Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil: lethargisch.
 
 ➤ Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport: [Sport & Arbeit]()
 
