@@ -9,13 +9,13 @@ leistungen:
   image: "/images/oscar-sutton-unsplash-hund-im-wasser3.jpeg"
   text: "Deine Optionen:\n\n* **Ernährungsumstellung**: Wenn du z. B. von Fertigfutter
     auf selbst zubereitete Rationen umstellen möchtest, begleite ich dich dabei. Erstgespräch
-    + 2 Folgegespräche + individueller Futterplan – 250 Euro\n\n\n* **Optimierung
-    der Fütterung**: Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines
+    + 2 Folgegespräche + individueller Futterplan – 250 Euro\n* **Optimierung der
+    Fütterung**: Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines
     Hundes.\n\n  **a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan –
-    200 Euro  \n    \n  **b)** Auswertung Anamnesebogen + angepasster Futterplan (nur
-    E-Mail-Beratung) – 100 Euro\n* **Futterplan erstellen**:  \n  **a)** Erstgespräch
-    + 1 Folgegespräch + individueller Futterplan – 220 Euro  \n    \n  **b)** Auswertung
-    Anamnesebogen + individueller Futterplan (nur E-Mail-Beratung) – 120 Euro"
+    200 Euro\n\n  **b)** Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung)
+    – 100 Euro\n* **Futterplan erstellen**:  \n  **a)** Erstgespräch + 1 Folgegespräch
+    + individueller Futterplan – 220 Euro\n\n  **b)** Auswertung Anamnesebogen + individueller
+    Futterplan (nur E-Mail-Beratung) – 120 Euro"
 - title: Trächtigkeit & Laktation
   heading: Eine gesunde Hundemama
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
@@ -162,10 +162,20 @@ Unten findest du verschiedene **Pakete**, die für eine längere Betreuung sind 
 
 ***
 
-### Wie läuft eine Beratung ab❓ (Abschnitt extra) 
+### Wie läuft eine Beratung ab❓ (Abschnitt extra)
 
-Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch gerne auf die Mailbox sprechen und ich rufe dich zurück. 
+Am besten erreichst du mich per E-Mail/Kontaktformular. Du kannst mir aber auch gerne auf die Mailbox sprechen und ich rufe dich zurück.
 
 Wir können gerne einmal telefonieren, damit du mich kennenlernen kannst und wir besprechen, wie ich dir helfen kann. Solltest du mich nicht erreichen, teile mir bitte mit, wann du gut erreichbar bist und ich melde mich zeitnah bei dir.
 
 Nach unser gemeinsamen Vereinbarung erhältst du die dazugehörige Rechnung und einen Fragebogen zu deinem Hund. Sobald die Zahlung und der ausgefüllte Fragebogen bei mir eingegangen sind, mache ich mich an die Arbeit und wir vereinbaren ggf. einen Termin für ein Gespräch. Innerhalb von etwa 1 Woche nach dem Zahlungseingang erhältst du deine Leistung.
+
+***
+
+Text für Verlinkung der einzelnen Leistungen/Möglichkeiten:
+
+Nachfolgend findest du eine Auswahl an Möglichkeiten, wie ich dich bei der Fütterung deines Hundes unterstützen kann.
+
+* Dein Hund ist gesund: [Prävention]() (z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen)
+* Deine Hündin ist oder wird trächtig oder hat bereits Welpen: [Trächtigkeit & Laktation]()
+* 
