@@ -1,7 +1,7 @@
 ---
 title: Leistungen & Preise
-heading: '"Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure <span>Nahrung</span>"
-  (Hippokrates) '
+heading: "<div style='display: inline-block; width: 50px;'> <img src='../images/quotes.svg'
+  width='35' alt='Zitat'/></div>Eure Nahrung sei eure <span>Medizin</span>, und eure Medizin sei eure <span>Nahrung</span>."
 scroll_down_button_text: Leistungen & Preise
 leistungen:
 - title: Prävention
