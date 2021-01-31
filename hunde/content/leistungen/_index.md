@@ -176,7 +176,8 @@ Text für Verlinkung der einzelnen Leistungen/Möglichkeiten:
 
 Nachfolgend findest du eine Auswahl an Möglichkeiten, wie ich dich bei der Fütterung deines Hundes unterstützen kann.
 
-* Dein Hund ist gesund: [Prävention]() (z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen)
+➤ Dein Hund ist gesund: [Prävention]() (z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen)
+
 * Deine Hündin ist oder wird trächtig oder hat bereits Welpen: [Trächtigkeit & Laktation]()
 * Du bekommst einen Welpen oder hast einen Welpen oder Junghund: [Welpen & Junghunde]()
 * Dein Hund ist schon älter und du möchtest über die Fütterung unterstützen, dass er lange gesund und fit bleibt: [Senior]()
