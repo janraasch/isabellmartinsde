@@ -176,7 +176,7 @@ Text für Verlinkung der einzelnen Leistungen/Möglichkeiten:
 
 Nachfolgend findest du eine Auswahl an Möglichkeiten, wie ich dich bei der Fütterung deines Hundes unterstützen kann.
 
-▶︎ [Prävention](): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen
+► [Prävention](): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, vegetarische Fütterung, Überprüfung von selbst zubereiteten Rationen
 
 ► [Trächtigkeit & Laktation](): Deine Hündin ist oder wird trächtig oder hat bereits Welpen.
 
