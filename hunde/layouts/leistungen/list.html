@@ -52,6 +52,20 @@
         </div>
     </div>
 </section>
+
+{{ with .Params.beratungsablauf }}
+<section class="site-project" id="beratungsablauf">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          {{ . | markdownify }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
   
 {{ partial "call-to-action.html" . }}
 
