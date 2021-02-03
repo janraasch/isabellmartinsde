@@ -165,7 +165,7 @@ leistungen:
 menu:
   nav:
     name: Leistungen
-    weight: 2
+    weight: 3
 
 ---
 ## Leistungen
