@@ -62,9 +62,7 @@ leistungen:
     bedeutend sind, vor.\n\n**a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan
     – 220 Euro\n\n**b)** Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung,
     ohne Schulung) – 110 Euro\n\n***\n\n**Futterplan erstellen**:  \nAuswertung Anamnesebogen
-    + individueller Futterplan (nur E-Mail-Beratung) – 140 Euro\n\n***\n\nNur **Schulung**
-    (Theorie und Umsetzung) ohne Futterplan: 1 Erstgespräch + 2 Folgegespräche   \n–
-    170 Euro"
+    + individueller Futterplan (nur E-Mail-Beratung) – 140 Euro"
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
   image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
