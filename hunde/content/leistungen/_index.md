@@ -30,7 +30,7 @@ leistungen:
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
   text: "Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr Bedarf
     an Kalorien und Nährstoffen sehr unterschiedlich und teilweise deutlich erhöht
-    ist.\n\nMöglichkeiten der Beratung:\n\n**Komplett-Betreuung** während der Trächtigkeit
+    ist.\n\n**Deine Möglichkeiten:**\n\n**Komplett-Betreuung** während der Trächtigkeit
     und Laktation: Optimierung der Fütterung vor dem Belegen, Anpassungen gemäß dem
     Bedarf während Trächtigkeit und Laktation bis zum Absetzen der Welpen, über ca.
     4 Monate  \nErstgespräch + 3 Folgegespräche + Fütterungspläne für die jeweiligen
