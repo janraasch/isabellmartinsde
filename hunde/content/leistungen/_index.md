@@ -136,11 +136,11 @@ leistungen:
   heading: Hyperaktiv, lethargisch oder leicht reizbar?
   image: "/images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg"
   text: |-
-    Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob einzelne Bestandteile oder die Zusammensetzung das Verhalten deines Hundes ungünstig beeinflussen kann.
+    Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob **einzelne Bestandteile oder die Zusammensetzung** das Verhalten deines Hundes ungünstig beeinflussen kann.
 
-    Wir testen alternatives Futter, das individuell geeigneter ist, aus und beobachten, ob es sich günstig auf das Verhalten deines Hundes auswirkt. Auch Ergänzungen können helfen.
+    Wir testen **alternatives Futter**, das **individuell geeigneter** ist, aus und beobachten, ob es sich günstig auf das Verhalten deines Hundes auswirkt. Auch Ergänzungen können helfen.
 
-    * Erstgespräch + 3 Folgegespräche + individueller Futterplan bei Verhaltensauffälligkeiten – 350 Euro
+    Erstgespräch + 3 Folgegespräche + individueller Futterplan bei Verhaltensauffälligkeiten – 350 Euro
 - title: Sport & Arbeit
   heading: Unterstützung bei hohen Ansprüchen
   image: "/images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg"
