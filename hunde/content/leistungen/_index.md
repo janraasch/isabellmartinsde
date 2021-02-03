@@ -28,9 +28,9 @@ leistungen:
 - title: Trächtigkeit & Laktation
   heading: Eine gesunde Hundemama
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
-  text: 'Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr Bedarf
+  text: "Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr Bedarf
     an Kalorien und Nährstoffen sehr unterschiedlich und teilweise deutlich erhöht
-    ist. '
+    ist.\n\nDie Optionen sind in Arbeit \U0001F469\U0001F3FC‍\U0001F527"
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
