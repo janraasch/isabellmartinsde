@@ -41,15 +41,14 @@ leistungen:
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
-  text: "Du kannst auswählen zwischen:\n\n* Welpe (**2.-4. Monat**): Erstgespräch
-    + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf
-    deines Hundes, Dauer: 3 Monate – 380 Euro  \n    \n* Junghund (**5.-12. Monat**):
-    Erstgespräch + 2 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne
-    gemäß dem Bedarf deines Hundes, Dauer: 3 Monate – 380 Euro  \n    \n* Welpe &
-    Junghund (**2.-12. Monat**): Erstgespräch + 3 Folgegespräche + wöchentliche E-Mail-Betreuung
-    + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 6 Monate – 650 Euro  \n    \n*
-    Futterplan für das **aktuelle Alter und Gewicht** für 7 Tage gemäß individuellem
-    Anamnesebogen – 150 Euro"
+  text: "***\n\nWelpe (**2.-4. Monat**): \n\nErstgespräch + 2 Folgegespräche + wöchentliche
+    E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate
+    – 380 Euro\n\n***\n\nJunghund (**5.-12. Monat**): \n\nErstgespräch + 2 Folgegespräche
+    + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes,
+    Dauer: 3 Monate – 380 Euro\n\n***\n\nWelpe & Junghund (**2.-12. Monat**): \n\nErstgespräch
+    + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf
+    deines Hundes, Dauer: 6 Monate – 650 Euro\n\n***\n\nFutterplan für das **aktuelle
+    Alter und Gewicht** für 7 Tage gemäß individuellem Anamnesebogen – 150 Euro"
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
   image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
