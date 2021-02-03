@@ -70,11 +70,11 @@ leistungen:
   text: "In einer Ernährungstherapie möchte ich dich bezüglich der Krankheit deines
     Hundes schulen, damit du weißt, was hinsichtlich der Ernährung und des Lebensstils
     wichtig ist, zu beachten. Neben der Theorie thematisieren wir natürlich auch die
-    praktische Umsetzung in eurem Alltag.\n\n***\n\n**Ernährungsumstellung**:Wenn
-    du auf eine Fütterung, die für die Situation deines Hundes optimal ist, umstellen
-    möchtest.  \nErstgespräch + 3 Folgegespräche + individueller Futterplan bei einer
-    Erkrankung, Dauer: 3 Monate – 350 Euro\n\n***\n\n**Optimierung der Fütterung**:Wir
-    nehmen Anpassungen, die für die Erkrankung bedeutend sind, vor.\n\n**a)** Erstgespräch
+    praktische Umsetzung in eurem Alltag.\n\n**Ernährungsumstellung**: Wenn du auf
+    eine Fütterung, die für die Situation deines Hundes optimal ist, umstellen möchtest.
+    \ \nErstgespräch + 3 Folgegespräche + individueller Futterplan bei einer Erkrankung,
+    Dauer: 3 Monate – 350 Euro\n\n***\n\n**Optimierung der Fütterung**:Wir nehmen
+    Anpassungen, die für die Erkrankung bedeutend sind, vor.\n\n**a)** Erstgespräch
     + 1 Folgegespräch + angepasster Futterplan bei einer Erkrankung – 230 Euro\n\n**b)**
     Auswertung Anamnesebogen + angepasster Futterplan bei einer Erkrankung (nur E-Mail-Beratung,
     ohne Schulung) – 120 Euro\n\n***\n\n**Futterplan erstellen**:  \n**a)** Erstgespräch
