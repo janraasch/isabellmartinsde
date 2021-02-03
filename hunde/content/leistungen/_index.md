@@ -56,8 +56,19 @@ leistungen:
   image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
   text: "Hunde durchlaufen im Alter (je nach Größe ab 6-10 Jahren) körperliche Veränderungen.
     Damit dein Hund den körperlichen Alterungsprozess möglichst langsam durchläuft
-    und lange gesund und fit bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.\n\nDie
-    Optionen und Preise sind in Arbeit \U0001F469\U0001F3FC‍\U0001F527"
+    und lange gesund und fit bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.\n\n**Deine
+    Möglichkeiten:**\n\n***\n\n**Ernährungsumstellung**: Wenn du auf eine andere Fütterung
+    umstellen möchtest.  \nErstgespräch + 2 Folgegespräche + individueller Futterplan
+    gemäß dem Alter und der Veranlagung,  – 290 Euro\n\n***\n\n**Optimierung der Fütterung**:
+    \ \nWir nehmen Anpassungen, die für das Alter deines Hundes und seine Veranlagung
+    bedeutend sind, vor.\n\n* **a)** Erstgespräch + 1 Folgegespräch + angepasster
+    Futterplan bei einer Erkrankung – 230 Euro\n\n  **b)** Auswertung Anamnesebogen
+    + angepasster Futterplan bei einer Erkrankung (nur E-Mail-Beratung, ohne Schulung)
+    – 120 Euro\n* **Futterplan erstellen**:  \n  **a)** Erstgespräch + 1 Folgegespräch
+    + individueller Futterplan bei einer Erkrankung – 260 Euro\n\n  **b)** Auswertung
+    Anamnesebogen + individueller Futterplan (nur E-Mail-Beratung, ohne Schulung)
+    – 140 Euro\n* Nur **Schulung** (Theorie und Umsetzung) ohne Futterplan:  \n  1
+    Erstgespräch + 2 Folgegespräche – 170 Euro"
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
   image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
