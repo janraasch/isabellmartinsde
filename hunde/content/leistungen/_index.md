@@ -60,14 +60,13 @@ leistungen:
     Möglichkeiten:**\n\n***\n\n**Ernährungsumstellung**: Wenn du auf eine andere Fütterung
     umstellen möchtest.  \nErstgespräch + 2 Folgegespräche + individueller Futterplan
     gemäß dem Alter und der Veranlagung,  – 290 Euro\n\n***\n\n**Optimierung der Fütterung**:
-    \ \nWir nehmen Anpassungen, die für das Alter deines Hundes und seine Veranlagung
+    Wir nehmen Anpassungen, die für das Alter deines Hundes und seine Veranlagung
     bedeutend sind, vor.\n\n* Erstgespräch + 1 Folgegespräch + angepasster Futterplan
     – 220 Euro\n* Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung,
-    ohne Schulung) – 110 Euro\n* **Futterplan erstellen**:  \n  **a)** Erstgespräch
-    + 1 Folgegespräch + individueller Futterplan bei einer Erkrankung – 260 Euro\n\n
-    \ **b)** Auswertung Anamnesebogen + individueller Futterplan (nur E-Mail-Beratung,
-    ohne Schulung) – 140 Euro\n* Nur **Schulung** (Theorie und Umsetzung) ohne Futterplan:
-    \ \n  1 Erstgespräch + 2 Folgegespräche – 170 Euro"
+    ohne Schulung) – 110 Euro\n\n***\n\n**Futterplan erstellen**:  \nAuswertung Anamnesebogen
+    + individueller Futterplan (nur E-Mail-Beratung) – 140 Euro\n\n***\n\nNur **Schulung**
+    (Theorie und Umsetzung) ohne Futterplan:  \n1 Erstgespräch + 2 Folgegespräche
+    – 170 Euro"
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
   image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
