@@ -156,7 +156,7 @@ draft: true
 
 Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar – die Ernährung spielt jedoch **begleitend** therapeutisch eine wichtige Rolle. Schließlich sind es die **Nahrungsmittel**, die  das enthalten, was der **Körper** benötigt, um gesund zu werden und gesund zu bleiben.
 
-Optimal ist es, wenn du deinen Hund bereits mit einer **gesunden Ernährung** versorgst, wenn er gesund ist. So beugst zu vielen Krankheiten vor und unterstützt ihn bei einem **langen, gesunden und fitten Leben**.
+Optimal ist es, wenn du deinen Hund bereits mit einer **gesunden Ernährung** versorgst, wenn er gesund ist. So beugst zu vielen Krankheiten vor und unterstützt ihn bei einem **langen, gesunden und fitten Leben** (Prävention).
 
 Oft rüttelt uns aber eine **Erkrankung** erst wach, sodass wir uns dann so richtig um die normalerweise selbstverständlichen Themen, die für die Gesundheit wichtig sind, kümmern. Deshalb ist kein Zeitpunkt der falsche – **lieber spät als nie**!
 
@@ -186,12 +186,12 @@ Hier findest du verschiedene **Pakete**, die für eine längere Betreuung sind u
 
 ► [Verhaltensauffälligkeiten](#verhaltensauffälligkeiten): Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil, lethargisch.
 
-► [Sport & Arbeit](#sport--arbeit): Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport. 
+► [Sport & Arbeit](#sport--arbeit): Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport.
 
 ► [Futterbewertung](#futterbewertung) (von Trocken- und Feuchtfutter)
 
 ***
 
-[Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder du nicht das Richtige gefunden hast 😉. 
+[Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder du nicht das Richtige gefunden hast 😉.
 
 Weiter unten findest du [Details zum Ablauf einer Beratung ⬇️](#beratungsablauf).
