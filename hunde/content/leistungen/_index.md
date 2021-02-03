@@ -54,7 +54,7 @@ leistungen:
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
   image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
-  text: "Hunde durchlaufen im Alter (je nach Größe ab 8-10 Jahren) körperliche Veränderungen.
+  text: "Hunde durchlaufen im Alter (je nach Größe ab 6-10 Jahren) körperliche Veränderungen.
     Damit dein Hund den körperlichen Alterungsprozess möglichst langsam durchläuft
     und lange gesund und fit bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.\n\nDie
     Optionen und Preise sind in Arbeit \U0001F469\U0001F3FC‍\U0001F527"
