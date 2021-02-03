@@ -152,7 +152,7 @@ leistungen:
 
     **b)** Auswertung Anamnesebogen + individueller Futterplan bei erhöhtem Anspruch (nur E-Mail-Beratung) – 150 Euro
 - title: Verhaltensauffälligkeiten
-  heading: Hyperaktiv, lethargisch oder leicht reizbar?
+  heading: Hyperaktiv, leicht reizbar oder lethargisch?
   image: "/images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg"
   text: "Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob **einzelne
     Bestandteile oder die Zusammensetzung** das Verhalten deines Hundes ungünstig
