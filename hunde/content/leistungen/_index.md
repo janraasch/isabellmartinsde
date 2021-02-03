@@ -30,7 +30,11 @@ leistungen:
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
   text: "Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr Bedarf
     an Kalorien und Nährstoffen sehr unterschiedlich und teilweise deutlich erhöht
-    ist.\n\nDie Optionen und Preise sind in Arbeit \U0001F469\U0001F3FC‍\U0001F527"
+    ist.\n\nMöglichkeiten der Beratung:\n\n* **Komplett-Betreuung** während der Trächtigkeit
+    und Laktation:   \n  Optimierung der Fütterung vor dem Belegen, Anpassungen gemäß
+    dem Bedarf während Trächtigkeit und Laktation bis zum Absetzen der Welpen, über
+    ca. 4 Monate   \n  Erstgespräch + 3 Folgegespräche + Fütterungspläne für die jeweiligen
+    Phasen + E-Mail-Betreuung – 490 Euro\n* "
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
