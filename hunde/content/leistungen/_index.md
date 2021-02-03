@@ -41,11 +41,11 @@ leistungen:
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
-  text: "***\n\nWelpe (**2.-4. Monat**):\n\nErstgespräch + 2 Folgegespräche + wöchentliche
+  text: "***\n\n**Welpe** (2.-4. Monat):\n\nErstgespräch + 2 Folgegespräche + wöchentliche
     E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes, Dauer: 3 Monate
-    \  \n– 380 Euro\n\n***\n\nJunghund (**5.-12. Monat**):\n\nErstgespräch + 2 Folgegespräche
+    \  \n– 380 Euro\n\n***\n\n**Junghund** (5.-12. Monat):\n\nErstgespräch + 2 Folgegespräche
     + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf deines Hundes,
-    Dauer: 3 Monate   \n– 380 Euro\n\n***\n\nWelpe & Junghund (**2.-12. Monat**):\n\nErstgespräch
+    Dauer: 3 Monate   \n– 380 Euro\n\n***\n\n**Welpe & Junghund** (2.-12. Monat):\n\nErstgespräch
     + 3 Folgegespräche + wöchentliche E-Mail-Betreuung + Futterpläne gemäß dem Bedarf
     deines Hundes, Dauer: 6 Monate   \n– 650 Euro\n\n***\n\nFutterplan für das **aktuelle
     Alter und Gewicht** für 7 Tage gemäß individuellem Anamnesebogen – 150 Euro"
