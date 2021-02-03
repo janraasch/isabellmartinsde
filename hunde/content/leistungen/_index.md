@@ -168,7 +168,7 @@ leistungen:
     fütterst oder füttern möchtest. Diese nehme ich unter die Lupe und beurteile sie.
     Du erfährst, was daran günstig ist und was nicht so günstig und ob du sie durch
     kleine, einfache Ergänzungen aufwerten kannst.\n\nE-Mail-Beratung mit Beurteilung
-    von 3 Futtersorten   \n– 35 Euro"
+    von   \n3 Futtersorten – 35 Euro"
 menu:
   nav:
     name: Leistungen
