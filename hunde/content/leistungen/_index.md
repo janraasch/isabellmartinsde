@@ -30,7 +30,7 @@ leistungen:
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
   text: "Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr Bedarf
     an Kalorien und Nährstoffen sehr unterschiedlich und teilweise deutlich erhöht
-    ist.\n\nDie Optionen sind in Arbeit \U0001F469\U0001F3FC‍\U0001F527"
+    ist.\n\nDie Optionen und Preise sind in Arbeit \U0001F469\U0001F3FC‍\U0001F527"
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
@@ -46,7 +46,7 @@ leistungen:
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
   image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
-  text: "Optionen und Preise folgen \U0001F469\U0001F3FC‍\U0001F527"
+  text: "Die Optionen und Preise sind in Arbeit \U0001F469\U0001F3FC‍\U0001F527"
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
   image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
