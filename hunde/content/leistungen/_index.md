@@ -36,8 +36,9 @@ leistungen:
     4 Monate  \nErstgespräch + 3 Folgegespräche + Fütterungspläne für die jeweiligen
     Phasen + E-Mail-Betreuung – 490 Euro\n\n***\n\n**individueller Futterplan** (7-Tage-Übersicht)
     für eine bestimmte Phase – 150 Euro\n\n***\n\nÜberprüfung und **Optimierung**
-    der aktuellen Fütterung bzw. für eine bestimmte Phase (E-Mail-Beratung) – 120
-    Euro"
+    der aktuellen Fütterung bzw. für eine bestimmte Phase \n\nnur E-Mail-Betreuung
+    mit angepasstem Fütterungsplan – 120 Euro\n\n\\+ Erstgespräch + 1 Folgegespräch
+    – 230 Euro"
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
