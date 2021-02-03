@@ -30,15 +30,15 @@ leistungen:
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
   text: "Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr Bedarf
     an Kalorien und Nährstoffen sehr unterschiedlich und teilweise deutlich erhöht
-    ist.\n\n**Deine Möglichkeiten:**\n\n**Komplett-Betreuung** während der Trächtigkeit
-    und Laktation: Optimierung der Fütterung vor dem Belegen, Anpassungen gemäß dem
-    Bedarf während Trächtigkeit und Laktation bis zum Absetzen der Welpen, über ca.
-    4 Monate  \nErstgespräch + 3 Folgegespräche + Fütterungspläne für die jeweiligen
-    Phasen + E-Mail-Betreuung – 490 Euro\n\n***\n\n**individueller Futterplan** (7-Tage-Übersicht)
-    für eine bestimmte Phase – 150 Euro\n\n***\n\nÜberprüfung und **Optimierung**
-    der aktuellen Fütterung bzw. für eine bestimmte Phase \n\nnur E-Mail-Betreuung
-    mit angepasstem Fütterungsplan – 120 Euro\n\n\\+ Erstgespräch + 1 Folgegespräch
-    – 230 Euro"
+    ist.\n\n**Deine Möglichkeiten:**\n\n***\n\n**Komplett-Betreuung** während der
+    Trächtigkeit und Laktation: Optimierung der Fütterung vor dem Belegen, Anpassungen
+    gemäß dem Bedarf während Trächtigkeit und Laktation bis zum Absetzen der Welpen,
+    über ca. 4 Monate  \nErstgespräch + 3 Folgegespräche + Fütterungspläne für die
+    jeweiligen Phasen + E-Mail-Betreuung – 490 Euro\n\n***\n\n**individueller Futterplan**
+    (7-Tage-Übersicht) für eine bestimmte Phase – 150 Euro\n\n***\n\nÜberprüfung und
+    **Optimierung** der aktuellen Fütterung bzw. für eine bestimmte Phase \n\nnur
+    E-Mail-Betreuung mit angepasstem Fütterungsplan – 120 Euro\n\n\\+ Erstgespräch
+    + 1 Folgegespräch – 230 Euro"
 - title: Welpen & Junghunde
   heading: Der beste Start ins Leben
   image: "/images/katrin-b-playing_puppies-pixabay-com.jpeg"
