@@ -73,7 +73,7 @@ leistungen:
     praktische Umsetzung in eurem Alltag.\n\n**Ernährungsumstellung**: Wenn du auf
     eine Fütterung, die für die Situation deines Hundes optimal ist, umstellen möchtest.
     \ \nErstgespräch + 3 Folgegespräche + individueller Futterplan bei einer Erkrankung,
-    Dauer: 3 Monate – 350 Euro\n\n***\n\n**Optimierung der Fütterung**:Wir nehmen
+    Dauer: 3 Monate – 350 Euro\n\n***\n\n**Optimierung der Fütterung**: Wir nehmen
     Anpassungen, die für die Erkrankung bedeutend sind, vor.\n\n**a)** Erstgespräch
     + 1 Folgegespräch + angepasster Futterplan bei einer Erkrankung – 230 Euro\n\n**b)**
     Auswertung Anamnesebogen + angepasster Futterplan bei einer Erkrankung (nur E-Mail-Beratung,
