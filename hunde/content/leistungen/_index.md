@@ -110,28 +110,21 @@ leistungen:
 - title: Allergie oder Unverträglichkeit
   heading: Optimal versorgt trotz Einschränkung
   image: "/images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg"
-  text: |-
-    In der Beratung zu Allergien und Unverträglichkeiten gibt es unterschiedliche Bausteine – je nachdem, ob das auslösende Lebensmittel bekannt ist oder nicht.
-
-    ***
-
-    Ausschlussdiät bei **unbekanntem Auslöser**,  anschließender Futteraufbau und langfristige Fütterung: Erstgespräch + 4 Folgegespräche + individuelle Futterpläne, Dauer: 6 Monate – 490 Euro
-
-    ***
-
-    Futterumstellung: Der **Auslöser ist bekannt**. Du möchtest das Futter umstellen (z. B. zu selbst zubereitetem Futter, weil dir Diätfutter nicht zusagt) und die Darmgesundheit deines Hundes stärken.
-
-    **a)** Erstgespräch + 2 Folgegespräche + individueller Futterplan bei vorliegender Allergie/Unverträglichkeit – 270 Euro
-
-    **b)** Auswertung Anamnesebogen + individueller Futterplan bei vorliegender Allergie/Unverträglichkeit (nur E-Mail-Beratung) – 130 Euro
-
-    ***
-
-    Optimierung der Fütterung: Der **Auslöser ist bekannt**. Du brauchst Alternativen zu dem zu meidendem Lebensmittel und möchtest die Darmgesundheit deines Hundes stärken.
-
-    **a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan bei vorliegender Allergie/Unverträglichkeit – 220 Euro
-
-    **b)** Auswertung Anamnesebogen + angepasster Futterplan bei vorliegender Allergie/Unverträglichkeit (nur E-Mail-Beratung) – 110 Euro
+  text: "In der Beratung zu Allergien und Unverträglichkeiten gibt es unterschiedliche
+    Bausteine – je nachdem, ob das auslösende Lebensmittel bekannt ist oder nicht.\n\nAusschlussdiät
+    bei **unbekanntem Auslöser**,  anschließender Futteraufbau und langfristige Fütterung:
+    Erstgespräch + 4 Folgegespräche + individuelle Futterpläne, Dauer: 6 Monate   \n–
+    490 Euro\n\n***\n\nFutterumstellung: Der **Auslöser ist bekannt**. Du möchtest
+    das Futter umstellen (z. B. zu selbst zubereitetem Futter, weil dir Diätfutter
+    nicht zusagt) und die Darmgesundheit deines Hundes stärken.\n\n**a)** Erstgespräch
+    + 2 Folgegespräche + individueller Futterplan bei vorliegender Allergie/Unverträglichkeit
+    – 270 Euro\n\n**b)** Auswertung Anamnesebogen + individueller Futterplan bei vorliegender
+    Allergie/Unverträglichkeit (nur E-Mail-Beratung) – 130 Euro\n\n***\n\nOptimierung
+    der Fütterung: Der **Auslöser ist bekannt**. Du brauchst Alternativen zu dem zu
+    meidendem Lebensmittel und möchtest die Darmgesundheit deines Hundes stärken.\n\n**a)**
+    Erstgespräch + 1 Folgegespräch + angepasster Futterplan bei vorliegender Allergie/Unverträglichkeit
+    – 220 Euro\n\n**b)** Auswertung Anamnesebogen + angepasster Futterplan bei vorliegender
+    Allergie/Unverträglichkeit (nur E-Mail-Beratung) – 110 Euro"
 - title: Sport & Arbeit
   heading: Unterstützung bei hohen Ansprüchen
   image: "/images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg"
