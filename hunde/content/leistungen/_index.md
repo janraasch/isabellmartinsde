@@ -166,7 +166,6 @@ menu:
   nav:
     name: Leistungen
     weight: 2
-draft: true
 
 ---
 ## Leistungen
