@@ -32,5 +32,14 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+- name: beratungsablauf
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Beratungsablauf
 pages:
 - hunde/content/leistungen/_index.md
