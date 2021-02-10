@@ -1,10 +1,15 @@
 ---
-title: 'Impressum'
+title: Impressum
 ---
 Betreiber und Kontakt:
 
 Isabell Martins
 Diplom-Ernährungswissenschaftlerin
+
+Percevalstraße 11\
+23564 Lübeck
+
+
 E-Mail: [beratung@isabellmartins.de](mailto:beratung@isabellmartins.de) 
 
 Umsatzsteuer-ID: DE815568394
@@ -15,7 +20,8 @@ Willkommen: www.bigstockphoto.com, © digitalista
 Leistungen: www.bigstockphoto.com, © omgimages
 Betriebliche Gesundheitsförderung: www.bigstockphoto.com, © style-photographs
 
----
+- - -
+
 # Datenschutzerklärung
 
 ##### Datenschutz
