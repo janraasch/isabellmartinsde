@@ -200,7 +200,7 @@ Hier findest du verschiedene **Pakete**, die für eine längere Betreuung geeign
 
 ► [Allergie oder Unverträglichkeit](#allergie-oder-unverträglichkeit): Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit.
 
-► [Verhaltensauffälligkeiten](#verhaltensauffälligkeiten): Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil, lethargisch.
+► [Verhaltensauffälligkeiten](#verhaltensauffälligkeiten): Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil: lethargisch.
 
 ► [Sport & Arbeit](#sport--arbeit): Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport.
 
