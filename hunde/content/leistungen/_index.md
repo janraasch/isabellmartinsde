@@ -186,7 +186,7 @@ Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung*
 
 Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
 
-Hier findest du verschiedene **Pakete**, die für eine längere Betreuung sind und insgesamt als Pauschalpreis günstiger sind.
+Hier findest du verschiedene **Pakete**, die für eine längere Betreuung geeignet sind und insgesamt als Pauschalpreis günstiger sind.
 
 ► [Prävention](#prävention): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, Überprüfung von selbst zubereiteten Rationen
 
