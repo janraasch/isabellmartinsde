@@ -19,11 +19,8 @@ leistungen:
   text: "***\n\n**Ernährungsumstellung**: Wenn du z. B. von Fertigfutter auf selbst
     zubereitete Rationen umstellen möchtest, begleite ich dich dabei. \n\n***\n\n**Optimierung
     der Fütterung**: Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines
-    Hundes.\n\n**a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 200
-    Euro\n\n**b)** Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung)
-    – 100 Euro\n\n***\n\n**Futterplan erstellen**:  \n**a)** Erstgespräch + 1 Folgegespräch
-    + individueller Futterplan – 220 Euro\n\n**b)** Auswertung Anamnesebogen + individueller
-    Futterplan (nur E-Mail-Beratung) – 120 Euro"
+    Hundes.\n\n***\n\n**Futterplan erstellen**: Nach einer ausführlichen Anamnese
+    erstelle ich dir eine individuelle Übersicht zur Fütterung deines Hundes."
 - title: Trächtigkeit & Laktation
   heading: Eine gesunde Hundemama
   image: "/images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg"
