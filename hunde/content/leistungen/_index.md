@@ -204,3 +204,5 @@ Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung*
 Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
 
 Ich erstelle dir auch gerne vergünstigte Pakete für eine längere Betreuung. Welcher Umfang für dich sinnvoll ist, besprechen wir beim Erstgespräch.
+
+[Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
