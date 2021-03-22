@@ -124,13 +124,9 @@ leistungen:
   heading: Unterstützung bei hohen Ansprüchen
   image: "/images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg"
   text: |-
-    Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs aufgrund erhöhter physischer und psychischer Ansprüche.
+    Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs aufgrund erhöhter physischer und psychischer Ansprüche. Dabei unterscheiden wir Leistungs- und Erholungszeiten.
 
     **Optimierung der Fütterung**: Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines Hundes.
-
-    **a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan bei erhöhtem Anspruch – 230 Euro
-
-    **b)** Auswertung Anamnesebogen + angepasster Futterplan bei erhöhtem Anspruch (nur E-Mail-Beratung) – 120 Euro
 
     ***
 
