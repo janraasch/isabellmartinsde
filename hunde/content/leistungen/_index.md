@@ -134,11 +134,7 @@ leistungen:
 
     ***
 
-    **Futterplan erstellen**: Ich erstelle dir einen Futterplan gemäß dem Bedarf deines Hundes und dem an ihn gestellten Ansprühen.
-
-    **a)** Erstgespräch + 1 Folgegespräch + individueller Futterplan bei erhöhtem Anspruch – 260 Euro
-
-    **b)** Auswertung Anamnesebogen + individueller Futterplan bei erhöhtem Anspruch (nur E-Mail-Beratung) – 150 Euro
+    **Futterplan erstellen**: Nach ausführlicher Anamnese erstelle ich dir eine individuelle Übersicht zur Fütterung gemäß dem Bedarf deines Hundes und den an ihn gestellten Ansprüchen.
 - title: Verhaltensauffälligkeiten
   heading: Hyperaktiv, leicht reizbar oder lethargisch?
   image: "/images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg"
