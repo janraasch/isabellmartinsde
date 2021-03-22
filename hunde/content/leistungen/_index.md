@@ -169,7 +169,7 @@ menu:
 ---
 ## Mein Angebot
 
-Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate und wir die Fütterung, die zu deinem Hund und dir am besten passt, finden. Wenn du auf den jeweiligen Link klickst, kommst du zu möglichen Inhalten der Ernährungberatung.
+Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du auf den jeweiligen Link klickst, kommst du zu möglichen Inhalten der Ernährungberatung.
 
 ► [Prävention](#prävention): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, Überprüfung von selbst zubereiteten Rationen
 
