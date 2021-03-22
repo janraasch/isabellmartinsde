@@ -4,7 +4,7 @@ heading: "<div style='display: inline-block; width: 50px;'> <img src='../images/
   width='35' alt='Zitat'/></div>Eure Nahrung sei eure <span>Medizin</span>, und eure
   Medizin sei eure <span>Nahrung</span>."
 scroll_down_button_text: Angebot
-beratungsablauf: "## Wie läuft eine Beratung ab?\n\n## ①\n\n#### Termin für ein Erstgespräch
+beratungsablauf: "## Wie läuft eine Beratung ab?\n\n## ①\n\n##### Termin für ein Erstgespräch
   vereinbaren.\n\n## ②\n\n##### Rechnung für das Erstgespräch zahlen und Fragebogen
   zum Hund ausfüllen und per E-Mail (eingescannt oder abfotografiert) zurücksenden.
   \n\n## ③\n\n##### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund (ausführliche
