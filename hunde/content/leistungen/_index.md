@@ -189,8 +189,6 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 [Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder du nicht das Richtige gefunden hast 😉.
 
-Weiter unten findest du [Details zum Ablauf einer Beratung ⬇️](#beratungsablauf).
-
 ***
 
 ## Preise
