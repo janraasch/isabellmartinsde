@@ -141,12 +141,11 @@ leistungen:
 - title: Futterbewertung
   heading: 'Wie gut ist das Futter für meinen Hund? '
   image: "/images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg"
-  text: "Du schickst mir die Namen (und ggf. Links) von **3 Futtersorten** (z. B.
-    ein Trockenfutter, ein Feuchtfutter und eine Sorte Leckerlies), die du aktuell
-    fütterst oder füttern möchtest. Diese nehme ich unter die Lupe und beurteile sie.
-    Du erfährst, was daran günstig ist und was nicht so günstig und ob du sie durch
-    kleine, einfache Ergänzungen aufwerten kannst.\n\nE-Mail-Beratung mit Beurteilung
-    von   \n3 Futtersorten – 35 Euro"
+  text: Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
+    B. Trockenfutter, Feuchtfutter und/oder Leckerlies), die du aktuell fütterst oder
+    füttern möchtest. Diese nehme ich unter die Lupe und beurteile sie. Du erfährst,
+    was daran günstig ist und was nicht so günstig und ob du sie durch kleine, einfache
+    Ergänzungen aufwerten kannst oder lieber auf ein anderes umstellst.
 menu:
   nav:
     weight: 3
