@@ -10,7 +10,7 @@ beratungsablauf: "## Wie läuft eine Beratung ab?\n\n### ①\n\n### Termin für 
   \n\n### ③\n\n### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund (ausführliche
   Anamnese). \n\n### Wir klären, was bei der Fütterung zu berücksichtigen ist und
   was du dafür brauchst. \n\n### ④ \n\n### Wir vereinbaren ein Folgegespräch und/oder
-  Möglichkeiten der Ernährungsberatung, die für eure Situation sinnvoll sind.\n\nAm
+  Möglichkeiten der Ernährungsberatung, die für eure Situation sinnvoll sind.\n\n***\n\nAm
   besten erreichst du mich per [E-Mail/Kontaktformular](/contact). Du kannst mir aber
   auch gerne auf die [Mailbox](tel:015792351484) sprechen und ich rufe dich zurück.\n\nWir
   können auch einmal telefonieren, damit du mich kennenlernen kannst und wir besprechen,
