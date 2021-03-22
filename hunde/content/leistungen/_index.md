@@ -16,9 +16,8 @@ leistungen:
 - title: Prävention
   heading: Dein gesunder Hund optimal versorgt
   image: "/images/oscar-sutton-unsplash-hund-im-wasser3.jpeg"
-  text: "  \n\n***\n\n**Ernährungsumstellung**: Wenn du z. B. von Fertigfutter auf
-    selbst zubereitete Rationen umstellen möchtest, begleite ich dich dabei. Erstgespräch
-    + 2 Folgegespräche + individueller Futterplan – 250 Euro\n\n***\n\n**Optimierung
+  text: "***\n\n**Ernährungsumstellung**: Wenn du z. B. von Fertigfutter auf selbst
+    zubereitete Rationen umstellen möchtest, begleite ich dich dabei. \n\n***\n\n**Optimierung
     der Fütterung**: Ich überprüfe das Futter und die Rationen gemäß dem Bedarf deines
     Hundes.\n\n**a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan – 200
     Euro\n\n**b)** Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung)
@@ -205,4 +204,4 @@ Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszei
 
 Ich erstelle dir auch gerne vergünstigte Pakete für eine längere Betreuung. Welcher Umfang für dich sinnvoll ist, besprechen wir beim Erstgespräch.
 
-[Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
+→ [Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
