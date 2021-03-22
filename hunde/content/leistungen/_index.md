@@ -20,7 +20,7 @@ beratungsablauf: "## Wie läuft eine Beratung ab?\n\n## ①\n\n#### Termin für 
   zu deinem Hund. Die Rechnung musst du vor dem Termin bezahlen. Sie gilt als Auftragsbestätigung
   und ich mache mich an die Arbeit, sobald auch der ausgefüllte Fragebogen bei mir
   eingegangen ist.\n\nWenn wir einen schriftlichen Auftrag vereinbart haben, erhältst
-  du das Ergebnise etwa eine Woche nach Eingang von Zahlung und ausgefüllten Fragebogen."
+  du das Ergebnise etwa 1-2 Wochen nach Eingang von Zahlung und ausgefüllten Fragebogen."
 leistungen:
 - title: Prävention
   heading: Dein gesunder Hund optimal versorgt
