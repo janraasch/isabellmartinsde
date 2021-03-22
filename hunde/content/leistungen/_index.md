@@ -45,17 +45,18 @@ leistungen:
 - title: Senior
   heading: Fit & gesund bis ins hohe Alter
   image: "/images/alt-2golden-retriever-snowinspired-pixabay.jpg"
-  text: "Hunde durchlaufen im Alter (je nach Größe und Rasse ab 6-10 Jahren) körperliche
-    Veränderungen. Damit dein Hund den körperlichen Alterungsprozess möglichst langsam
-    durchläuft und lange gesund und fit bleibt, kannst du ihn sehr gut über die Ernährung
-    unterstützen.\n\n**Ernährungsumstellung**: Wenn du auf eine andere Fütterung umstellen
-    möchtest.  \nErstgespräch + 2 Folgegespräche + individueller Futterplan gemäß
-    dem Alter und der Veranlagung  – 290 Euro\n\n***\n\n**Optimierung der Fütterung**:
-    Wir nehmen Anpassungen, die für das Alter deines Hundes und seine Veranlagung
-    bedeutend sind, vor.\n\n**a)** Erstgespräch + 1 Folgegespräch + angepasster Futterplan
-    – 220 Euro\n\n**b)** Auswertung Anamnesebogen + angepasster Futterplan (nur E-Mail-Beratung,
-    ohne Schulung) – 110 Euro\n\n***\n\n**Futterplan erstellen**:  \nAuswertung Anamnesebogen
-    + individueller Futterplan (nur E-Mail-Beratung) – 140 Euro"
+  text: |-
+    Hunde durchlaufen im Alter (je nach Größe und Rasse ab 6-10 Jahren) körperliche Veränderungen. Damit dein Hund den körperlichen Alterungsprozess möglichst langsam durchläuft und lange gesund und fit bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.
+
+    **Ernährungsumstellung**: Wenn du auf eine andere Fütterung umstellen möchtest.
+
+    ***
+
+    **Optimierung der Fütterung**: Wir nehmen Anpassungen, die für das Alter deines Hundes und seine Veranlagung bedeutend sind, vor.
+
+    ***
+
+    **Futterplan erstellen**: Übersicht über die  Fütterung deines Hundes mit einem individuellen Plan für 7 Tage nach ausführlicher Anamnese
 - title: Ernährungstherapie
   heading: Begleitend zur ärztlichen Versorgung
   image: "/images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg"
@@ -63,17 +64,12 @@ leistungen:
     Hundes schulen, damit du weißt, was hinsichtlich der Ernährung und des Lebensstils
     wichtig ist, zu beachten. Neben der Theorie thematisieren wir natürlich auch die
     praktische Umsetzung in eurem Alltag.\n\n**Ernährungsumstellung**: Wenn du auf
-    eine Fütterung, die für die Situation deines Hundes optimal ist, umstellen möchtest.
-    \ \nErstgespräch + 3 Folgegespräche + individueller Futterplan bei einer Erkrankung,
-    \  \nDauer: 3 Monate – 350 Euro\n\n***\n\n**Optimierung der Fütterung**: Wir nehmen
-    Anpassungen, die für die Erkrankung bedeutend sind, vor.\n\n**a)** Erstgespräch
-    + 1 Folgegespräch + angepasster Futterplan bei einer Erkrankung   \n– 230 Euro\n\n**b)**
-    Auswertung Anamnesebogen + angepasster Futterplan bei einer Erkrankung (nur E-Mail-Beratung,
-    ohne Schulung) – 120 Euro\n\n***\n\n**Futterplan erstellen**:  \n**a)** Erstgespräch
-    + 1 Folgegespräch + individueller Futterplan bei einer Erkrankung   \n– 260 Euro\n\n**b)**
-    Auswertung Anamnesebogen + individueller Futterplan bei einer Erkranung (nur E-Mail-Beratung,
-    ohne Schulung) – 150 Euro\n\n***\n\nNur **Schulung** (Theorie und Umsetzung) ohne
-    Futterplan: 1 Erstgespräch + 2 Folgegespräche   \n– 170 Euro"
+    eine Fütterung, die für die Situation deines Hundes optimal ist, umstellen möchtest.\n\n***\n\n**Optimierung
+    der Fütterung**: Wir nehmen Anpassungen, die für die Erkrankung bedeutend sind,
+    vor.\n\n***\n\n**Futterplan erstellen**: Nach einer ausführlichen Anamnese erstelle
+    ich dir eine individuelle Übersicht zur Fütterung deines Hundes, mit 7-Tages-Plan.\n\n***\n\nNur
+    **Schulung** (Theorie und Umsetzung) ohne Futterplan: 1 Erstgespräch + 2 Folgegespräche
+    \ \n– 170 Euro"
 - title: Krankheiten
   heading: Wenn die Ernährung ganz besonders wichtig ist
   image: "/images/ccf052cb-a328-4ef3-8879-6d63038f92d0_1_105_c.jpeg"
