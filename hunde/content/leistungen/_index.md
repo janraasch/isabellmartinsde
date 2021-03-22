@@ -3,7 +3,7 @@ title: Angebot
 heading: "<div style='display: inline-block; width: 50px;'> <img src='../images/quotes.svg'
   width='35' alt='Zitat'/></div>Eure Nahrung sei eure <span>Medizin</span>, und eure
   Medizin sei eure <span>Nahrung</span>."
-scroll_down_button_text: Leistungen & Preise
+scroll_down_button_text: Angebot
 beratungsablauf: |-
   ## Wie läuft eine Beratung ab?
 
@@ -168,7 +168,7 @@ menu:
     weight: 3
 
 ---
-## Leistungen
+## Mein Angebot
 
 Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar – die Ernährung spielt jedoch **begleitend** therapeutisch eine wichtige Rolle. Schließlich sind es die **Nahrungsmittel**, die  das enthalten, was der **Körper** benötigt, um gesund zu werden und gesund zu bleiben.
 
