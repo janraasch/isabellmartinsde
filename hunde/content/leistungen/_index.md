@@ -201,3 +201,7 @@ Eine Beratung kann auch schriftlich erfolgen, z. B. erstelle ich dir nach einer 
 Ich erstelle dir auch gerne vergünstigte Pakete für eine längere Betreuung. Welcher Umfang für dich sinnvoll ist, besprechen wir beim Erstgespräch.
 
 → [Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
+
+***
+
+Die organisatorischen Informationen zum Ablauf einer Beratung findest du unten auf dieser Seite. ⬇️
