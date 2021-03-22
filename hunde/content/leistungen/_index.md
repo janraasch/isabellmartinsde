@@ -5,12 +5,12 @@ heading: "<div style='display: inline-block; width: 50px;'> <img src='../images/
   Medizin sei eure <span>Nahrung</span>."
 scroll_down_button_text: Angebot
 beratungsablauf: "## Wie läuft eine Beratung ab?\n\n## ①\n\n#### Termin für ein Erstgespräch
-  vereinbaren.\n\n  \n\n## ②\n\n#### Rechnung für das Erstgespräch zahlen und Fragebogen
+  vereinbaren.\n\n## ②\n\n##### Rechnung für das Erstgespräch zahlen und Fragebogen
   zum Hund ausfüllen und per E-Mail (eingescannt oder abfotografiert) zurücksenden.
-  \n\n  \n\n## ③\n\n#### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund
-  (ausführliche Anamnese). \n\n#### Wir klären, was bei der Fütterung zu berücksichtigen
-  ist und was du dafür brauchst. \n\n## ④ \n\n#### Wir vereinbaren ein Folgegespräch
-  und/oder Möglichkeiten der Ernährungsberatung, die für eure Situation sinnvoll sind.\n\n***\n\nAm
+  \n\n## ③\n\n##### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund (ausführliche
+  Anamnese). \n\n##### Wir klären, was bei der Fütterung zu berücksichtigen ist und
+  was du dafür brauchst. \n\n## ④ \n\n##### Wir vereinbaren ein Folgegespräch und/oder
+  Möglichkeiten der Ernährungsberatung, die für eure Situation sinnvoll sind.\n\n***\n\nAm
   besten erreichst du mich per [E-Mail/Kontaktformular](/contact). Du kannst mir aber
   auch gerne auf die [Mailbox](tel:015792351484) sprechen und ich rufe dich zurück.\n\nWir
   können auch einmal telefonieren, damit du mich kennenlernen kannst und wir besprechen,
