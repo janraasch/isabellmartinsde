@@ -164,7 +164,6 @@ leistungen:
     von   \n3 Futtersorten – 35 Euro"
 menu:
   nav:
-    name: Leistungen
     weight: 3
 
 ---
