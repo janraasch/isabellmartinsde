@@ -5,22 +5,23 @@ heading: "<div style='display: inline-block; width: 50px;'> <img src='../images/
   Medizin sei eure <span>Nahrung</span>."
 scroll_down_button_text: Angebot
 beratungsablauf: "## Wie läuft eine Beratung ab?\n\n## ①❶①①①①\n\n#### Termin für ein
-  Erstgespräch vereinbaren.\n\n## ②\n\n#### Rechnung für das Erstgespräch zahlen und
-  Fragebogen zum Hund ausfüllen und per E-Mail (eingescannt oder abfotografiert) zurücksenden.
-  \n\n### ③\n\n### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund (ausführliche
-  Anamnese). \n\n### Wir klären, was bei der Fütterung zu berücksichtigen ist und
-  was du dafür brauchst. \n\n### ④ \n\n### Wir vereinbaren ein Folgegespräch und/oder
-  Möglichkeiten der Ernährungsberatung, die für eure Situation sinnvoll sind.\n\n***\n\nAm
-  besten erreichst du mich per [E-Mail/Kontaktformular](/contact). Du kannst mir aber
-  auch gerne auf die [Mailbox](tel:015792351484) sprechen und ich rufe dich zurück.\n\nWir
-  können auch einmal telefonieren, damit du mich kennenlernen kannst und wir besprechen,
-  wie ich dir helfen kann. Solltest du mich nicht erreichen, teile mir bitte mit,
-  wann du gut erreichbar bist und ich melde mich zeitnah bei dir.\n\nWir vereinbaren
-  einen Termin für ein Erstgespräch und du erhältst eine Rechnung und einen Fragebogen
-  zu deinem Hund. Die Rechnung musst du vor dem Termin bezahlen. Sie gilt als Auftragsbestätigung
-  und ich mache mich an die Arbeit, sobald auch der ausgefüllte Fragebogen bei mir
-  eingegangen ist.\n\nWenn wir einen schriftlichen Auftrag vereinbart haben, erhältst
-  du das Ergebnise etwa eine Woche nach Eingang von Zahlung und ausgefüllten Fragebogen."
+  Erstgespräch vereinbaren.\n\n↓\n\n## ②\n\n#### Rechnung für das Erstgespräch zahlen
+  und Fragebogen zum Hund ausfüllen und per E-Mail (eingescannt oder abfotografiert)
+  zurücksenden. \n\n### ③\n\n### Im Erstgespräch besprechen wir alles Wichtige zu
+  deinem Hund (ausführliche Anamnese). \n\n### Wir klären, was bei der Fütterung zu
+  berücksichtigen ist und was du dafür brauchst. \n\n### ④ \n\n### Wir vereinbaren
+  ein Folgegespräch und/oder Möglichkeiten der Ernährungsberatung, die für eure Situation
+  sinnvoll sind.\n\n***\n\nAm besten erreichst du mich per [E-Mail/Kontaktformular](/contact).
+  Du kannst mir aber auch gerne auf die [Mailbox](tel:015792351484) sprechen und ich
+  rufe dich zurück.\n\nWir können auch einmal telefonieren, damit du mich kennenlernen
+  kannst und wir besprechen, wie ich dir helfen kann. Solltest du mich nicht erreichen,
+  teile mir bitte mit, wann du gut erreichbar bist und ich melde mich zeitnah bei
+  dir.\n\nWir vereinbaren einen Termin für ein Erstgespräch und du erhältst eine Rechnung
+  und einen Fragebogen zu deinem Hund. Die Rechnung musst du vor dem Termin bezahlen.
+  Sie gilt als Auftragsbestätigung und ich mache mich an die Arbeit, sobald auch der
+  ausgefüllte Fragebogen bei mir eingegangen ist.\n\nWenn wir einen schriftlichen
+  Auftrag vereinbart haben, erhältst du das Ergebnise etwa eine Woche nach Eingang
+  von Zahlung und ausgefüllten Fragebogen."
 leistungen:
 - title: Prävention
   heading: Dein gesunder Hund optimal versorgt
