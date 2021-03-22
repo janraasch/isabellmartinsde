@@ -169,23 +169,7 @@ menu:
 ---
 ## Mein Angebot
 
-Ich berate dich gerne zu allen **gesundheitlichen** Themen rund um deinen Hund – die meisten davon können durch die Ernährung beeinflusst werden. Natürlich sind bereits vorliegende Erkrankungen selten durch eine Ernährungsumstellung heilbar – die Ernährung spielt jedoch **begleitend** therapeutisch eine wichtige Rolle. Schließlich sind es die **Nahrungsmittel**, die  das enthalten, was der **Körper** benötigt, um gesund zu werden und gesund zu bleiben.
-
-Optimal ist es, wenn du deinen Hund bereits mit einer **gesunden Ernährung** versorgst, solange er gesund ist. So beugst du vielen Krankheiten vor und unterstützt ihn bei einem **langen, gesunden und fitten Leben** ([Prävention](#prävention)).
-
-Oft rüttelt uns aber eine **Erkrankung** erst wach, sodass wir uns dann so richtig um die normalerweise selbstverständlichen Themen, die für die Gesundheit wichtig sind, kümmern. Deshalb ist kein Zeitpunkt der falsche – **lieber spät als nie**!
-
-## Preise
-
-_"Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte."_ (John Ruskin)
-
-Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
-
-> Ein **Erstgespräch** kostet 80,00 Euro und beinhaltet 45 Minuten Gesprächszeit (Inhalte: Anamnese, Auswertung eines zuvor ausgefüllten Fragebogens zum Hund, Abklärung des Ziels der Ernährungsberatung, erste Empfehlungen).
-
-Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
-
-Hier findest du verschiedene **Pakete**, die für eine längere Betreuung geeignet sind und insgesamt als Pauschalpreis günstiger sind.
+Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate und wir die Fütterung, die zu deinem Hund und dir am besten passt, finden. 
 
 ► [Prävention](#prävention): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, Überprüfung von selbst zubereiteten Rationen
 
@@ -210,3 +194,15 @@ Hier findest du verschiedene **Pakete**, die für eine längere Betreuung geeign
 [Frag gerne nach](https://hunde.isabellmartins.de/contact "Kontakt"), wenn du unsicher bist oder du nicht das Richtige gefunden hast 😉.
 
 Weiter unten findest du [Details zum Ablauf einer Beratung ⬇️](#beratungsablauf).
+
+## Preise
+
+_"Es gibt kaum etwas auf dieser Welt, das nicht irgend jemand ein wenig schlechter machen und etwas billiger verkaufen könnte."_ (John Ruskin)
+
+Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
+
+> Ein **Erstgespräch** kostet 80,00 Euro und beinhaltet 45 Minuten Gesprächszeit (Inhalte: Anamnese, Auswertung eines zuvor ausgefüllten Fragebogens zum Hund, Abklärung des Ziels der Ernährungsberatung, erste Empfehlungen).
+
+Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
+
+Hier findest du verschiedene **Pakete**, die für eine längere Betreuung geeignet sind und insgesamt als Pauschalpreis günstiger sind.
