@@ -141,11 +141,11 @@ leistungen:
 - title: Futterbewertung
   heading: 'Wie gut ist das Futter für meinen Hund? '
   image: "/images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg"
-  text: Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
+  text: "Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
     B. Trockenfutter, Feuchtfutter und/oder Leckerlies), die du aktuell fütterst oder
-    füttern möchtest. Diese nehme ich unter die Lupe und beurteile sie. Du erfährst,
+    füttern möchtest. \n\nDiese nehme ich unter die Lupe und beurteile sie. Du erfährst,
     was daran günstig ist und was nicht so günstig und ob du sie durch kleine, einfache
-    Ergänzungen aufwerten kannst oder lieber auf ein anderes umstellst.
+    Ergänzungen aufwerten kannst oder lieber auf ein anderes umstellst."
 menu:
   nav:
     weight: 3
@@ -186,6 +186,8 @@ Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung*
 > Ein **Erstgespräch** kostet 80,00 Euro und beinhaltet 45 Minuten Gesprächszeit (Inhalte: Anamnese, Auswertung eines zuvor ausgefüllten Fragebogens zum Hund, Abklärung des Ziels der Ernährungsberatung, erste Empfehlungen).
 
 Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
+
+Eine Beratung kann auch schriftlich erfolgen, z. B. erstelle ich dir nach einer ausführlichen schriftlichen Anamnese zu deinem Hund einen individuellen Ernährungsplan.
 
 Ich erstelle dir auch gerne vergünstigte Pakete für eine längere Betreuung. Welcher Umfang für dich sinnvoll ist, besprechen wir beim Erstgespräch.
 
