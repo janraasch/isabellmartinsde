@@ -1,5 +1,5 @@
 ---
-title: Leistungen & Preise
+title: Angebot
 heading: "<div style='display: inline-block; width: 50px;'> <img src='../images/quotes.svg'
   width='35' alt='Zitat'/></div>Eure Nahrung sei eure <span>Medizin</span>, und eure
   Medizin sei eure <span>Nahrung</span>."
