@@ -204,4 +204,4 @@ Ich erstelle dir auch gerne vergünstigte Pakete für eine längere Betreuung. W
 
 ***
 
-Die organisatorischen Informationen zum Ablauf einer Beratung findest du unten auf dieser Seite [⬇️](#beratungsablauf "Ablauf")
+Die organisatorischen Informationen zum [Ablauf einer Beratung](#beratungsablauf "Ablauf") findest du unten auf dieser Seite [⬇️](#beratungsablauf "Ablauf")
