@@ -7,10 +7,10 @@ fields:
   label: Der Titel des Eintrags
 - type: file
   name: image
-  label: Bild
+  label: Bild auf Übersicht
 - type: file
   name: feature_image
-  label: Bild auf Übersicht
+  label: Bild
 - type: text
   name: summary
   label: Zusammenfassung
