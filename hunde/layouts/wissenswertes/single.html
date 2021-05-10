@@ -6,7 +6,7 @@
       <div class="col-lg-8">
         <article class="site-wissenswertes-details">
           <h2 class="site-wissenswertes-title">{{ .Title }}</h2>
-          <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="wisssite-wissenswertes-feature-image">
+          <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="{{ .Title }}">
           {{ .Content }}
         </article>
       </div>
