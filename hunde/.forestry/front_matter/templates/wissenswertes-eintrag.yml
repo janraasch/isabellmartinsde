@@ -4,13 +4,13 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Der Titel des Eintrags
 - type: file
   name: image
-  label: image
+  label: Bild
 - type: file
   name: feature_image
-  label: feature_image
+  label: Bild auf Übersicht
 - type: text
   name: summary
-  label: summary
+  label: Zusammenfassung
