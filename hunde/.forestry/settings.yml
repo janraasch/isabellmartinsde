@@ -47,6 +47,8 @@ sections:
   create: documents
   match: "**/*"
   exclude: _index.md
+  templates:
+  - wissenswertes-eintrag
 - type: heading
   label: Anamnesebogen
 - type: document
