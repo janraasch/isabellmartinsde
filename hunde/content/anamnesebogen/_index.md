@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Anamnesebogen ausfüllen
 heading: '<i class="fa fa-lg fa-pencil-square-o" aria-hidden="true"></i> Fülle den <span>Anamnese&shy;bogen</span> aus'
 form_heading: INFORMATIONEN
