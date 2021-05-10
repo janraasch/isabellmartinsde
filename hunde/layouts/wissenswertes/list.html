@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<section class="site-wissenswertes-header">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h1>{{ .Title }}</h1>
+        <p>
+          {{ .Params.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-wissenswertes">
+  <div class="container">
+    <div class="row">
+      {{ range .Pages }}
+      <div class="col-lg-6">
+        <article class="site-wissenswertes-post">
+          {{ with .Params.image }}
+          <div class="site-wissenswertes-post-thumb">
+            <img src="{{ . | absURL }}" alt="post-thumb">
+          </div>
+          {{ end }}
+          <div class="site-wissenswertes-post-content">
+            {{ with.PublishDate }}<span>{{ .Format "January 2, 2006" }}</span>{{ end }}
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p>
+              {{ .Summary }} ...
+            </p>
+            <a href="{{ .Permalink }}" class="read-more">Mehr erfahren</a>
+          </div>
+        </article>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

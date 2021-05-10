@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<section class="site-wissenswertes details">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <article class="site-wissenswertes-details">
+          <h2 class="site-wissenswertes-title">{{ .Title }}</h2>
+          <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="wisssite-wissenswertes-feature-image">
+          {{ .Content }}
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}
