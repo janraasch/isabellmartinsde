@@ -1,9 +1,10 @@
 ---
-draft: true
 title: FAQ
-image: images/blog/blog-post-04.jpg
+image: "/images/596d5d0c-562d-4431-828a-0e6a9b5363a1_1_105_c.jpeg"
 feature_image: images/blog/blog-details-image.jpg
 summary: Wie läuft eine Beratung ab?
+draft: true
+
 ---
 ## Wie läuft eine Beratung ab?
 
