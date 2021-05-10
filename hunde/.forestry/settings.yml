@@ -38,11 +38,16 @@ sections:
   label: Kontaktformular
 - type: heading
   label: Wissenswertes
+- type: document
+  path: hunde/content/wissenswertes/_index.md
+  label: Übersicht
+  match: "**/*"
 - type: directory
   path: hunde/content/wissenswertes
-  label: Wissenswertes
+  label: Einträge
   create: documents
   match: "**/*"
+  exclude: _index.md
 - type: heading
   label: Anamnesebogen
 - type: document
