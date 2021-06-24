@@ -12,4 +12,4 @@ In meiner Diplomarbeit beschäftigte ich mich mit dem Essverhalten von Frauen ü
 
 
 
-Seit 2015 bin ich selbstständig tätig, erst in Hamburg und seit 2017 in Lübeck. Aktuell arbeite ich hauptsächlich im Bereich der Ernährungstherapie.
+Seit 2015 bin ich selbstständig tätig, erst in Hamburg und seit 2017 in Lübeck. Aktuell arbeite ich hauptsächlich im Bereich der Ernährungstherapie. Meine Schwerpunkte sind u. a. der Darm, Adipositas, Essstörungen, Reflux, chronisch entzündliche Erkrankungen und Erkrankungen der Leber und Nieren. Im präventiven und therapeutischen Bereich berate ich sehr gerne zu vegetarischer und veganer Ernährung.
