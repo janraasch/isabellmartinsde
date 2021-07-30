@@ -1,5 +1,5 @@
 ---
-title: Ernährungsberatung in Lübeck vor Ort, online & telefonisch
+title: Ernährungsberatung online & telefonisch
 weight: 1
 side_menu_title: Willkommen
 ---
