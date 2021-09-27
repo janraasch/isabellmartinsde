@@ -209,6 +209,8 @@ Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung*
 
 Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
 
+Ernährungsberatung **Basic**: Beinhaltet ein 1-stündiges Gespräch mit Anamnese, Empfehlungen und Besprechung von Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als Dokument. Außerdem kontrolliere ich einmal die Nährstoffabdeckung des Futters deines Hundes. Die Ernährungsberatung Basic eignet sich für weniger umfangreiche Themen und kostet 130 Euro.
+
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
 Eine Beratung kann auch schriftlich erfolgen, z. B. erstelle ich dir nach einer ausführlichen schriftlichen Anamnese zu deinem Hund einen individuellen Ernährungsplan.
