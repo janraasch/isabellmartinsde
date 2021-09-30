@@ -205,11 +205,11 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
 
-Ernährungsberatung **Basic**: Beinhaltet ein 1-stündiges Gespräch mit Anamnese, Empfehlungen und Besprechung von Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als Dokument. Außerdem kontrolliere ich einmal die Nährstoffabdeckung des Futters deines Hundes. Die Ernährungsberatung Basic eignet sich für weniger umfangreiche Themen und kostet 130 Euro.
+Ernährungsberatung **Basic**: Beinhaltet ein **1-stündiges Gespräch** mit Anamnese, Empfehlungen und Besprechung von Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als **Dokument**. Außerdem kontrolliere ich einmal die **Nährstoffabdeckung** des Futters deines Hundes. Die Ernährungsberatung Basic eignet sich für weniger umfangreiche Themen und kostet **130 Euro**.
 
-Für eine längere Betreuung biete ich dir gerne eine Auswahl an Paketen an, worunter du wählen kannst. 
+Für eine längere Betreuung biete ich dir gerne eine Auswahl an **Paketen** an, worunter du wählen kannst. 
 
-Es ist natürlich auch möglich, dass wir einzelne Gespräche nach und nach planen, wenn wir anfangs nicht absehen können, was du brauchst und wie sich das Thema deines Hundes entwickelt.
+Es ist natürlich auch möglich, dass wir **einzelne Gespräche** nach und nach planen, wenn wir anfangs nicht absehen können, was du brauchst und wie sich das Thema deines Hundes entwickelt.
 
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
