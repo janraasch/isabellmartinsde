@@ -205,17 +205,13 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
 
-> Ein **Erstgespräch** kostet 90,00 Euro und beinhaltet 45 Minuten Gesprächszeit (Inhalte: Anamnese, Auswertung eines zuvor ausgefüllten Fragebogens zum Hund, Abklärung des Ziels der Ernährungsberatung, erste Empfehlungen).
-
-Ein **Folgegespräch** kostet 50,00 Euro und beinhaltet 30 Minuten Gesprächszeit.
-
 Ernährungsberatung **Basic**: Beinhaltet ein 1-stündiges Gespräch mit Anamnese, Empfehlungen und Besprechung von Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als Dokument. Außerdem kontrolliere ich einmal die Nährstoffabdeckung des Futters deines Hundes. Die Ernährungsberatung Basic eignet sich für weniger umfangreiche Themen und kostet 130 Euro.
 
+Für eine längere Betreuung biete ich dir gerne eine Auswahl an Paketen an, worunter du wählen kannst. 
+
+Es ist natürlich auch möglich, dass wir einzelne Gespräche nach und nach planen, wenn wir anfangs nicht absehen können, was du brauchst und wie sich das Thema deines Hundes entwickelt.
+
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
-
-Eine Beratung kann auch schriftlich erfolgen, z. B. erstelle ich dir nach einer ausführlichen schriftlichen Anamnese zu deinem Hund einen individuellen Ernährungsplan.
-
-Ich erstelle dir auch gerne vergünstigte Pakete für eine längere Betreuung. Welcher Umfang für dich sinnvoll ist, besprechen wir beim Erstgespräch.
 
 → [Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
 
