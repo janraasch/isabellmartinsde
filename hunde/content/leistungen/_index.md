@@ -209,7 +209,7 @@ Ernährungsberatung **Basic**: Beinhaltet ein **1-stündiges Gespräch** mit Ana
 
 Für eine längere Betreuung biete ich dir gerne eine Auswahl an **Paketen** an, worunter du wählen kannst.
 
-Es ist natürlich auch möglich, dass wir **einzelne Gespräche** (Erstgespräch: 45 Min. 95 Euro, je Folgegespräch: 30 Min. 60 Euro) nach und nach planen, wenn wir anfangs nicht absehen können, was du brauchst und wie sich das Thema deines Hundes entwickelt.
+Es ist natürlich auch möglich, dass wir **einzelne Gespräche** (Erstgespräch: 45 Min. 90 Euro, je Folgegespräch: 30 Min. 60 Euro) nach und nach planen, wenn wir anfangs nicht absehen können, was du brauchst und wie sich das Thema deines Hundes entwickelt.
 
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
