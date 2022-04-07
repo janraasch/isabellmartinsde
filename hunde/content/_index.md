@@ -8,4 +8,4 @@ Ich freue mich, dass du dich mit der Ernährung deines Hundes beschäftigst und 
 
 Ich gestalte meine Beratung **ganzheitlich**, denn oft spielt nicht nur die Ernährung eine wichtige Rolle. Auch weitere Einflüsse können dazu führen, dass es unserem Hund nicht gut geht und beeinflussen die Gesundheit.
 
-Für die Beratung treffen wir uns online, telefonisch, bei dir zu Hause (je nach Entfernung) oder draußen im Schulgarten (wenn das Wetter mitspielt, 01.04.-31.10. geöffnet) – je nachdem, was für dich und mich am besten funktioniert. Damit möchte ich dir und mir ermöglichen, **ortsungebunden** und **zeitlich flexibel** eine professionelle Ernährungsberatung anzubieten.
+Für die Beratung treffen wir uns online, telefonisch, in Lübeck bei dir zu Hause (je nach Entfernung) oder draußen im Schulgarten Lübeck (wenn das Wetter mitspielt, 01.04.-31.10. geöffnet) – je nachdem, was für dich und mich am besten funktioniert. Damit möchte ich dir und mir ermöglichen, **ortsungebunden** und **zeitlich flexibel** eine professionelle Ernährungsberatung anzubieten.
