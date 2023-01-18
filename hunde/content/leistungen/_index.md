@@ -211,7 +211,7 @@ Manchmal reicht das Erstgespräch schon aus, wenn dein Anliegen nicht so umfangr
 
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
-→ [Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
+→ [Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen") 
 
 ***
 
