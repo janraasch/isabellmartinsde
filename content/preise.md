@@ -1,7 +1,7 @@
 ---
 title: Preise
 ---
-Ernährungsberatung & Ernährungstherapie: 
+Ernährungsberatung (zzgl. Umsatzsteuer) & Ernährungstherapie: 
 
 * Erstgespräch: 140 Euro (inklusive Vor- und Nachbereitung, 60 Minuten) – Anamnese und erste Infos bzw. Umsetzungen
 * Folgegespräch: 70 Euro (inklusive Vor- und Nachbereitung, 30 Minuten) – Schritt für Schritt zum Ziel
