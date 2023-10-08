@@ -43,8 +43,10 @@ In der Ernährungstherapie begleite ich die Behandlung von unter anderem folgend
 
 * Allergien und Intoleranzen
 * Adipositas
+* Autoimmunerkrankungen
 * Bluthochdruck
 * Diabetes mellitus
+* Endometriose
 * Essstörungen
 * Fettstoffwechselstörungen
 * Gicht
