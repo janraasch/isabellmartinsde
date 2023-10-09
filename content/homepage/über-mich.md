@@ -3,7 +3,7 @@ title: Über mich
 weight: 3
 header_menu: true
 ---
-![Isabell Martins](/images/foto-praxis-2.jpg)
+![Isabell Martins](/images/foto-praxis-zuschnitt.png)
 
 ##### Studium, Weiterbildung & Beruf
 
