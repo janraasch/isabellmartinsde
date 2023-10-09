@@ -205,9 +205,9 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
 
-Ein **Erstgespräch** beinhaltet ein **Gespräch** (60 Minuten, per Telefon oder Video) mit Anamnese und Besprechung von ersten Empfehlungen und Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als **Dokument**. Außerdem kontrolliere ich einmal grob die **Nährstoffabdeckung** des Futters deines Hundes. Das Erstgespräch kostet **160 Euro**.
+Ein **Erstgespräch** beinhaltet ein **Gespräch** (60 Minuten, per Telefon oder Video) mit Anamnese und Besprechung von ersten Empfehlungen und Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als **Dokument**. Außerdem kontrolliere ich einmal grob die **Nährstoffabdeckung** des Futters deines Hundes. Das Erstgespräch kostet **180 Euro**.
 
-Manchmal reicht das Erstgespräch schon aus, wenn dein Anliegen nicht so umfangreich ist. Danach können wir ein **Folgegespräch** (30 Min., 60 Euro) vereinbaren oder für eine längere Betreuung biete ich dir gerne eine Auswahl an **Paketen** an, worunter du wählen kannst.
+Manchmal reicht das Erstgespräch schon aus, wenn dein Anliegen nicht so umfangreich ist. Danach können wir ein **Folgegespräch** (30 Min., 80 Euro) vereinbaren oder für eine längere Betreuung biete ich dir gerne eine Auswahl an **Paketen** an, worunter du wählen kannst.
 
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
