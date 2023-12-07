@@ -1,0 +1,20 @@
+{
+  "name": "hunde",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This is the source code of [https://hunde.isabellmartins.de](https://hunde.isabellmartins.de).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^1.5.28"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.39",
+    "@types/node": "^20.10.4"
+  }
+}
