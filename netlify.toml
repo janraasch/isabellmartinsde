@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify && hugo --gc --minify --source hunde --destination ../public/hunde"
+command = "npx tinacms build && hugo --gc --minify && hugo --gc --minify --source hunde --destination ../public/hunde"
 
 [context.production.environment]
 HUGO_VERSION = "0.73.0"
@@ -15,13 +15,13 @@ HUGO_VERSION = "0.73.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL && hugo --gc --minify --source hunde --baseURL $DEPLOY_PRIME_URL/hunde --destination ../public/hunde"
+command = "npx tinacms build && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL && hugo --gc --minify --source hunde --baseURL $DEPLOY_PRIME_URL/hunde --destination ../public/hunde"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.73.0"
 
 [context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL  && hugo --gc --minify --source hunde --baseURL $DEPLOY_PRIME_URL/hunde --destination ../public/hunde"
+command = "npx tinacms build && hugo --gc --minify -b $DEPLOY_PRIME_URL  && hugo --gc --minify --source hunde --baseURL $DEPLOY_PRIME_URL/hunde --destination ../public/hunde"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.73.0"
