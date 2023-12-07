@@ -1,11 +1,11 @@
 ---
-title: FAQ
-image: "/images/596d5d0c-562d-4431-828a-0e6a9b5363a1_1_105_c.jpeg"
-feature_image: images/blog/blog-details-image.jpg
-summary: Wie läuft eine Beratung ab?
 draft: true
-
+title: FAQ
+image: /images/596d5d0c-562d-4431-828a-0e6a9b5363a1_1_105_c.jpeg
+feature_image: /imagesimages/blog/blog-details-image.jpg
+summary: Wie läuft eine Beratung ab?
 ---
+
 ## Wie läuft eine Beratung ab?
 
 ## ①
@@ -15,15 +15,14 @@ draft: true
 ## ②
 
 ##### Rechnung für das Erstgespräch zahlen und Fragebogen zum Hund ausfüllen und per E-Mail (eingescannt oder abfotografiert) zurücksenden.
-  
 
 ## ③
 
-##### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund (ausführliche Anamnese). 
+##### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund (ausführliche Anamnese).
 
-##### Wir klären, was bei der Fütterung zu berücksichtigen ist und was du dafür brauchst. 
+##### Wir klären, was bei der Fütterung zu berücksichtigen ist und was du dafür brauchst.
 
-## ④ 
+## ④
 
 ##### Wir vereinbaren ein Folgegespräch und/oder Möglichkeiten der Ernährungsberatung, die für eure Situation sinnvoll sind.
 
@@ -41,7 +40,7 @@ Wenn wir einen schriftlichen Auftrag vereinbart haben, erhältst du das Ergebnis
 
 So sieht dann ein Bild aus:
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+![blog-details-image-02](/imageshttps://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
 
 ***
 
@@ -65,4 +64,3 @@ Und hier eine nummerierte Liste:
 3. LMK means Let me know.
 4. ILY means I love you.
 5. YOLO means You only live once.
-6. SMH means Shaking my head.
