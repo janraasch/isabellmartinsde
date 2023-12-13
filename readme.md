@@ -4,7 +4,7 @@ This is the source code of [https://www.isabellmartins.de](https://www.isabellma
 
 -----
 
-The site is powered by [Hugo](https://gohugo.io/) & [Netlify CMS](https://www.netlifycms.org/).
+The site is powered by [Netlify](https://www.netlify.com), [Hugo](https://gohugo.io/), [Netlify CMS](https://www.netlifycms.org/) and [Tina](https://tina.io).
 
 The designs are based on [Hugo Scroll](https://themes.gohugo.io/hugo-scroll/) and [Roxo Hugo](https://themes.gohugo.io/roxo-hugo/).
 
