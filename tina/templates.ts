@@ -399,13 +399,17 @@ export function teambereichFields() {
     {
       type: "string",
       name: "tagline",
-      label: "Tagline Paragraph",
+      label: "Tagline",
     },
     {
       type: "object",
       name: "team_member",
-      label: "Teammitglied",
+      label: "Teammitglieder",
+      description: "Zwei Einträge sind optimal",
       list: true,
+      ui: {
+        itemProps: (item) => ({ label: `${item.title} - ${item.text}` }),
+      },
       fields: [
         {
           type: "string",
@@ -421,6 +425,7 @@ export function teambereichFields() {
           type: "string",
           name: "text",
           label: "Text",
+          description: "Markdown erlaubt (z.B. für Links)",
           ui: {
             component: "textarea",
           },
@@ -472,10 +477,7 @@ export function zahlen_for_funFields() {
       description: "Drei Einträge sind optimal",
       list: true,
       ui: {
-        itemProps: (item) => {
-          // Field values are accessed by item?.<Field name>
-          return { label: `${item.title} - ${item.number}` };
-        },
+        itemProps: (item) => ({ label: `${item.title} - ${item.number}` }),
       },
       fields: [
         {

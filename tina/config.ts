@@ -106,49 +106,7 @@ export default defineConfig({
         match: {
           include: "team",
         },
-        fields: [
-          {
-            type: "boolean",
-            name: "enable",
-            label: "Team anzeigen?",
-          },
-          {
-            type: "string",
-            name: "heading",
-            label: "Überschrift",
-          },
-          {
-            type: "string",
-            name: "tagline",
-            label: "Tagline Paragraph",
-          },
-          {
-            type: "object",
-            name: "team_member",
-            label: "Teammitglied",
-            list: true,
-            fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Titel",
-              },
-              {
-                type: "image",
-                name: "image",
-                label: "Bild",
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Text",
-                ui: {
-                  component: "textarea",
-                },
-              },
-            ],
-          },
-        ],
+        fields: [...teambereichFields()],
       },
       {
         format: "yml",

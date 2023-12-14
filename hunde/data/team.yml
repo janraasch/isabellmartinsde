@@ -1,27 +1,49 @@
----
 enable: true
 heading: TEAM
 tagline: Ein Hund + Ein Mensch = Ein Team
 team_member:
-- title: Isabell Martins
-  image: "/images/jule-isi-strand-ruhig-2-hochkant-min.jpg"
-  text: |-
-    Mit der Ernährungsberatung für Hunde vereine ich meine berufliche Leidenschaft der Ernährungswissenschaft mit meiner großen Freude am Lebewesen Hund. Ich abeite hauptberuflich bereits seit 2015 als freiberufliche Ernährungsberaterin (für Menschen). Im Jahr 2020 ist nach zwei Abschlüssen im Bereich der Hundeernährungsberatung dies mein zweiter Arbeitsbereich.
+  - title: Isabell Martins
+    image: /images/jule-isi-strand-ruhig-2-hochkant-min.jpg
+    text: >-
+      Mit der Ernährungsberatung für Hunde vereine ich meine berufliche
+      Leidenschaft der Ernährungswissenschaft mit meiner großen Freude am
+      Lebewesen Hund. Ich abeite hauptberuflich bereits seit 2015 als
+      freiberufliche Ernährungsberaterin (für Menschen). Im Jahr 2020 ist nach
+      zwei Abschlüssen im Bereich der Hundeernährungsberatung dies mein zweiter
+      Arbeitsbereich.
 
-    Meine Abschlüsse:
 
-    Seit September 2020 – zertifizierte Ernährungsberaterin für Hunde nach Clean Feeding.
+      Meine Abschlüsse:
 
-    Seit Mai 2020 – zertifizierte Ernährungsberaterin für Hunde (bei der Rolf-Schneider-Akademie).
 
-    Seit 2016 – zertifizierte Ernährungsberaterin/DGE (Deutsche Gesellschaft für Ernährung e. V.).
+      Seit September 2020 – zertifizierte Ernährungsberaterin für Hunde nach
+      Clean Feeding.
 
-    Seit 2014 – Diplom-Ernährungswissenschaftlerin (Friedrich-Schiller-Universität Jena).
 
-    Meine Zertifikate findest du [hier](https://hunde.isabellmartins.de/qualifikationen "Qualifikationen").
-- title: Jule
-  image: "/images/img_4447.jpeg"
-  text: |-
-    Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie möglichst gesund und artgerecht zu füttern.
+      Seit Mai 2020 – zertifizierte Ernährungsberaterin für Hunde (bei der
+      Rolf-Schneider-Akademie).
 
-    Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter eine vegetarische Mahlzeit erhält. Ab und zu (z. B. im Urlaub, unterwegs oder bei Zeitmangel) gibt es auch aufgepepptes Fertigfutter.
+
+      Seit 2016 – zertifizierte Ernährungsberaterin/DGE (Deutsche Gesellschaft
+      für Ernährung e. V.).
+
+
+      Seit 2014 – Diplom-Ernährungswissenschaftlerin
+      (Friedrich-Schiller-Universität Jena).
+
+
+      Meine Zertifikate findest du
+      [hier](https://hunde.isabellmartins.de/qualifikationen "Qualifikationen").
+  - title: Jule
+    image: /images/img_4447.jpeg
+    text: >-
+      Unsere Hündin Jule lebt seit 2019 bei uns. Durch sie habe ich mir (anfangs
+      eigenständig) den Bereich der Hundeernährung erarbeitet, um auch sie
+      möglichst gesund und artgerecht zu füttern.
+
+
+      Jule erhält hauptsächlich selbstgekochtes – teilweise frisches, teilweise
+      vorbeitetes – Futter. Bei unseren persönlichen Vorlieben und Ansprüchen
+      ans Essen spielt auch die Nachhaltigkeit eine Rolle, sodass Jule öfter
+      eine vegetarische Mahlzeit erhält. Ab und zu (z. B. im Urlaub, unterwegs
+      oder bei Zeitmangel) gibt es auch aufgepepptes Fertigfutter.
