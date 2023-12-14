@@ -123,33 +123,7 @@ export default defineConfig({
         match: {
           include: "call_to_action",
         },
-        fields: [
-          {
-            type: "boolean",
-            name: "enable",
-            label: "»Call To Action« Bereich anzeigen?",
-          },
-          {
-            type: "image",
-            name: "background_image",
-            label: "Hintergrund Bild",
-          },
-          {
-            type: "string",
-            name: "title",
-            label: "Überschrift",
-          },
-          {
-            type: "string",
-            name: "primary_button",
-            label: "Button Text",
-          },
-          {
-            type: "string",
-            name: "primary_button_url",
-            label: "Button Link",
-          },
-        ],
+        fields: [...call_to_actionFields()],
       },
       {
         format: "md",

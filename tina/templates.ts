@@ -4,7 +4,7 @@ export function call_to_actionFields() {
     {
       type: "boolean",
       name: "enable",
-      label: "»Call To Action« Bereich anzeigen?",
+      label: "Call To Action anzeigen?",
     },
     {
       type: "image",
