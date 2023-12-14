@@ -129,12 +129,14 @@ export function heroFields() {
     {
       type: "string",
       name: "heading_line_1",
-      label: "Erste Zeile der Überschrift (HTML erlaubt)",
+      label: "Erste Zeile der Überschrift",
+      description: "HTML erlaubt",
     },
     {
       type: "string",
       name: "heading_line_2",
-      label: "Zweite Zeile der Überschrift (HTML erlaubt)",
+      label: "Zweite Zeile der Überschrift",
+      description: "HTML erlaubt",
     },
     {
       type: "string",
