@@ -302,8 +302,11 @@ export function leistungenFields() {
     {
       type: "object",
       name: "leistungen",
-      label: "Leistung",
+      label: "Leistungen",
       list: true,
+      ui: {
+        itemProps: (item) => ({ label: `${item.title} - ${item.heading}` }),
+      },
       fields: [
         {
           type: "string",
@@ -321,12 +324,10 @@ export function leistungenFields() {
           label: "Bild",
         },
         {
-          type: "string",
+          type: "rich-text",
           name: "text",
           label: "Text",
-          ui: {
-            component: "textarea",
-          },
+          isBody: false,
         },
       ],
     },
