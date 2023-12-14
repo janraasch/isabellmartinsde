@@ -127,7 +127,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Leistungen",
+        label: "Leistungen - Seite",
         name: "leistungen",
         path: "hunde/content/leistungen",
         frontmatterFormat: "yaml",
@@ -144,7 +144,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Qualifikationen",
+        label: "Qualifikationen - Seite",
         name: "qualifikationen",
         path: "hunde/content/qualifikationen",
         frontmatterFormat: "yaml",
@@ -157,54 +157,7 @@ export default defineConfig({
         match: {
           include: "_index",
         },
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "title",
-          },
-          {
-            type: "string",
-            name: "heading",
-            label: "heading",
-          },
-          {
-            type: "string",
-            name: "scroll_down_button_text",
-            label: "scroll_down_button_text",
-          },
-          {
-            type: "object",
-            name: "qualifications",
-            label: "qualifications",
-            list: true,
-            fields: [
-              {
-                type: "string",
-                name: "institute",
-                label: "institute",
-              },
-              {
-                type: "string",
-                name: "title",
-                label: "title",
-              },
-              {
-                type: "image",
-                name: "image",
-                label: "image",
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "text",
-                ui: {
-                  component: "textarea",
-                },
-              },
-            ],
-          },
-        ],
+        fields: [...qualifikationenFields()],
       },
       {
         format: "md",

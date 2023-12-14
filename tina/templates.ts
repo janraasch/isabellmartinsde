@@ -283,7 +283,8 @@ export function leistungenFields() {
     {
       type: "string",
       name: "heading",
-      label: "Grosse Überschrift",
+      label: "Überschrift",
+      description: "HTML erlaubt",
       ui: {
         component: "textarea",
       },
@@ -344,43 +345,48 @@ export function qualifikationenFields() {
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Titel der Seite",
     },
     {
       type: "string",
       name: "heading",
-      label: "heading",
+      label: "Überschrift",
+      description: "HTML erlaubt",
     },
     {
       type: "string",
       name: "scroll_down_button_text",
-      label: "scroll_down_button_text",
+      label: "»Scroll Down«-Button Text",
     },
     {
       type: "object",
       name: "qualifications",
-      label: "qualifications",
+      label: "Qualifikationen",
       list: true,
+      ui: {
+        itemProps: (item) => ({ label: `${item.title} - ${item.institute}` }),
+      },
       fields: [
         {
           type: "string",
           name: "institute",
-          label: "institute",
+          label: "Institut",
         },
         {
           type: "string",
           name: "title",
-          label: "title",
+          label: "Titel",
+          description: "HTML erlaubt",
         },
         {
           type: "image",
           name: "image",
-          label: "image",
+          label: "Bild",
         },
         {
           type: "string",
           name: "text",
-          label: "text",
+          label: "Text",
           ui: {
             component: "textarea",
           },
