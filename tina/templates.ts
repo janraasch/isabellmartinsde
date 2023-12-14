@@ -426,7 +426,7 @@ export function teambereichFields() {
       description: "Zwei Einträge sind optimal",
       list: true,
       ui: {
-        itemProps: (item) => ({ label: `${item.title} - ${item.text}` }),
+        itemProps: (item) => ({ label: `${item.title}` }),
       },
       fields: [
         {
@@ -440,7 +440,7 @@ export function teambereichFields() {
           label: "Bild",
         },
         {
-          type: "string",
+          type: "rich-text",
           name: "text",
           label: "Text",
           description: "Markdown erlaubt (z.B. für Links)",

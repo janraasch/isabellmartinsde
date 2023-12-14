@@ -40,40 +40,6 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        format: "yml",
-        label: "Hero",
-        name: "hero",
-        path: "hunde/data",
-        frontmatterFormat: "yaml",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "hero",
-        },
-        fields: [...heroFields()],
-      },
-      {
-        format: "yml",
-        label: "Zahlen for Fun",
-        name: "zahlen_for_fun",
-        path: "hunde/data",
-        frontmatterFormat: "yaml",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "counter",
-        },
-        fields: [...zahlen_for_funFields()],
-      },
-      {
         format: "md",
         label: "Willkommen - Seite",
         name: "willkommen",
@@ -89,40 +55,6 @@ export default defineConfig({
           include: "_index",
         },
         fields: [...willkommenFields()],
-      },
-      {
-        format: "yml",
-        label: "Team",
-        name: "team",
-        path: "hunde/data",
-        frontmatterFormat: "yaml",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "team",
-        },
-        fields: [...teambereichFields()],
-      },
-      {
-        format: "yml",
-        label: "Call To Action",
-        name: "call_to_action",
-        path: "hunde/data",
-        frontmatterFormat: "yaml",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "call_to_action",
-        },
-        fields: [...call_to_actionFields()],
       },
       {
         format: "md",
@@ -177,7 +109,75 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Footer",
+        label: "Hero - Bereich",
+        name: "hero",
+        path: "hunde/data",
+        frontmatterFormat: "yaml",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "hero",
+        },
+        fields: [...heroFields()],
+      },
+      {
+        format: "yml",
+        label: "Zahlen for Fun - Bereich",
+        name: "zahlen_for_fun",
+        path: "hunde/data",
+        frontmatterFormat: "yaml",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "counter",
+        },
+        fields: [...zahlen_for_funFields()],
+      },
+      {
+        format: "yml",
+        label: "Team - Bereich",
+        name: "team",
+        path: "hunde/data",
+        frontmatterFormat: "yaml",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "team",
+        },
+        fields: [...teambereichFields()],
+      },
+      {
+        format: "yml",
+        label: "Call To Action - Bereich",
+        name: "call_to_action",
+        path: "hunde/data",
+        frontmatterFormat: "yaml",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "call_to_action",
+        },
+        fields: [...call_to_actionFields()],
+      },
+      {
+        format: "yml",
+        label: "Footer - Bereich",
         name: "footer",
         path: "hunde/data",
         frontmatterFormat: "yaml",
