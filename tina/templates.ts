@@ -278,7 +278,7 @@ export function leistungenFields() {
     {
       type: "string",
       name: "title",
-      label: "Titel",
+      label: "Titel der Seite",
     },
     {
       type: "string",
@@ -292,6 +292,12 @@ export function leistungenFields() {
       type: "string",
       name: "scroll_down_button_text",
       label: "»Scroll Down«-Button Text",
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Text",
+      isBody: true,
     },
     {
       type: "object",
@@ -325,12 +331,10 @@ export function leistungenFields() {
       ],
     },
     {
-      type: "string",
+      type: "rich-text",
       name: "beratungsablauf",
       label: "Beratungsablauf",
-      ui: {
-        component: "textarea",
-      },
+      isBody: false,
     },
   ] as TinaField[];
 }

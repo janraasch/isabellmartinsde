@@ -140,72 +140,7 @@ export default defineConfig({
         match: {
           include: "_index",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          {
-            type: "string",
-            name: "title",
-            label: "Titel",
-          },
-          {
-            type: "string",
-            name: "heading",
-            label: "Grosse Überschrift",
-            ui: {
-              component: "textarea",
-            },
-          },
-          {
-            type: "string",
-            name: "scroll_down_button_text",
-            label: "»Scroll Down«-Button Text",
-          },
-          {
-            type: "object",
-            name: "leistungen",
-            label: "Leistung",
-            list: true,
-            fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Titel",
-              },
-              {
-                type: "string",
-                name: "heading",
-                label: "Überschrift",
-              },
-              {
-                type: "image",
-                name: "image",
-                label: "Bild",
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Text",
-                ui: {
-                  component: "textarea",
-                },
-              },
-            ],
-          },
-          {
-            type: "string",
-            name: "beratungsablauf",
-            label: "Beratungsablauf",
-            ui: {
-              component: "textarea",
-            },
-          },
-        ],
+        fields: [...leistungenFields()],
       },
       {
         format: "md",
