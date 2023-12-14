@@ -1,10 +1,9 @@
----
 enable: true
 heading: Die Gesundheit liegt im Napf!
 counter_item:
-- title: Mahlzeiten im Jahr
-  number: 730+
-- title: Futtermenge pro Jahr (20-kg-Hund)
-  number: 219 kg
-- title: Leckerlies pro Jahr
-  number: '7.300'
+  - title: Mahlzeiten im Jahr
+    number: 730+
+  - title: Futtermenge pro Jahr (20-kg-Hund)
+    number: 219 kg
+  - title: Leckerlies pro Jahr
+    number: '7.300'

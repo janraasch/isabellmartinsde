@@ -72,36 +72,7 @@ export default defineConfig({
         match: {
           include: "counter",
         },
-        fields: [
-          {
-            type: "boolean",
-            name: "enable",
-            label: "Zahlen for Fun anzeigen?",
-          },
-          {
-            type: "string",
-            name: "heading",
-            label: "Überschrift",
-          },
-          {
-            type: "object",
-            name: "counter_item",
-            label: "Zahlen",
-            list: true,
-            fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Titel",
-              },
-              {
-                type: "string",
-                name: "number",
-                label: "Anzahl",
-              },
-            ],
-          },
-        ],
+        fields: [...zahlen_for_funFields()],
       },
       {
         format: "md",

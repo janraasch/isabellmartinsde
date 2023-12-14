@@ -463,7 +463,14 @@ export function zahlen_for_funFields() {
       type: "object",
       name: "counter_item",
       label: "Zahlen",
+      description: "Drei Einträge sind optimal",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          // Field values are accessed by item?.<Field name>
+          return { label: `${item.title} - ${item.number}` };
+        },
+      },
       fields: [
         {
           type: "string",
