@@ -161,7 +161,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Kontaktformular",
+        label: "Kontakt - Seite",
         name: "kontaktformular",
         path: "hunde/content/contact",
         frontmatterFormat: "yaml",
@@ -174,114 +174,7 @@ export default defineConfig({
         match: {
           include: "_index",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          {
-            type: "string",
-            name: "title",
-            label: "Titel",
-          },
-          {
-            type: "string",
-            name: "heading",
-            label: "Große Überschrift",
-            ui: {
-              component: "textarea",
-            },
-            required: true,
-          },
-          {
-            type: "string",
-            name: "form_heading",
-            label: "Kleine Überschrift",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "form_name",
-            label: "Name des Formulars",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "form_field_email_placeholder",
-            label: "Formular: E-Mail-Adresse Platzhalter",
-            required: true,
-          },
-          {
-            type: "boolean",
-            name: "form_field_email_required",
-            label: "Formular: E-Mail-Adresse Notwendig?",
-          },
-          {
-            type: "string",
-            name: "form_field_lastname_placeholder",
-            label: "Formular: Nachname Platzhalter",
-            required: true,
-          },
-          {
-            type: "boolean",
-            name: "form_field_lastname_required",
-            label: "Formular: Nachname Notwendig?",
-          },
-          {
-            type: "string",
-            name: "form_field_name_placeholder",
-            label: "Formular: Vorname Platzhalter",
-            required: true,
-          },
-          {
-            type: "boolean",
-            name: "form_field_name_required",
-            label: "Formular: Vorname Notwendig?",
-          },
-          {
-            type: "string",
-            name: "form_field_tel_placeholder",
-            label: "Formular: Telefon Platzhalter",
-            required: true,
-          },
-          {
-            type: "boolean",
-            name: "form_field_tel_required",
-            label: "Formular: Telefon Notwendig?",
-          },
-          {
-            type: "string",
-            name: "form_field_text_placeholder",
-            label: "Formular: Text Platzhalter",
-            required: true,
-          },
-          {
-            type: "boolean",
-            name: "form_field_text_required",
-            label: "Formular: Text Notwendig?",
-          },
-          {
-            type: "string",
-            name: "form_submit_button_text",
-            label: "Formular: Button",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "form_submit_success_text",
-            label: "Formular: Success-Message",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "form_submit_error_text",
-            label: "Formular: Error-Message",
-            required: true,
-          },
-        ],
+        fields: [...kontaktformularFields()],
       },
       {
         format: "md",

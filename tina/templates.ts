@@ -175,21 +175,21 @@ export function kontaktformularFields() {
     {
       type: "string",
       name: "title",
-      label: "Titel",
+      label: "Titel der Seite",
     },
     {
       type: "string",
       name: "heading",
-      label: "Große Überschrift",
+      label: "Überschrift",
+      description: "HTML erlaubt",
       ui: {
         component: "textarea",
       },
-      required: true,
     },
     {
       type: "string",
       name: "form_heading",
-      label: "Kleine Überschrift",
+      label: "Kleine Überschrift über dem Formular",
       required: true,
     },
     {
@@ -256,7 +256,7 @@ export function kontaktformularFields() {
     {
       type: "string",
       name: "form_submit_button_text",
-      label: "Formular: Button",
+      label: "Formular: Button Text",
       required: true,
     },
     {
