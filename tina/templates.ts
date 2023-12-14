@@ -122,11 +122,6 @@ export function footerFields() {
 export function heroFields() {
   return [
     {
-      type: "boolean",
-      name: "enable",
-      label: "Hero Anzeigen?",
-    },
-    {
       type: "image",
       name: "background_image",
       label: "Hintergrund Bild",
@@ -134,12 +129,12 @@ export function heroFields() {
     {
       type: "string",
       name: "heading_line_1",
-      label: "Erste Zeile der Überschrift",
+      label: "Erste Zeile der Überschrift (HTML erlaubt)",
     },
     {
       type: "string",
       name: "heading_line_2",
-      label: "Zweite Zeile der Überschrift",
+      label: "Zweite Zeile der Überschrift (HTML erlaubt)",
     },
     {
       type: "string",

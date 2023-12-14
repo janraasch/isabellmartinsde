@@ -1,6 +1,4 @@
----
-enable: true
-background_image: "/images/hero-background.jpg"
+background_image: /images/hero-background.jpg
 heading_line_1: Ernährungs&shy;beratung
 heading_line_2: für Hunde
 tagline: professionell & persönlich

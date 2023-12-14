@@ -1,5 +1,4 @@
 {{ with .Site.Data.hero }}
-  {{ if .enable }}
   <section class="site-hero" style="background-image: url('{{ .background_image }}');">
     <div class="container site-hero-container">
       <div class="row">
@@ -30,5 +29,4 @@
       <img src="images/arrow-down.svg" alt="arrow-down">
     </a>
   </section>
-  {{ end }}
 {{ end }}

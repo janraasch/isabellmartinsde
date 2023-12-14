@@ -55,43 +55,7 @@ export default defineConfig({
         match: {
           include: "hero",
         },
-        fields: [
-          {
-            type: "boolean",
-            name: "enable",
-            label: "Hero Anzeigen?",
-          },
-          {
-            type: "image",
-            name: "background_image",
-            label: "Hintergrund Bild",
-          },
-          {
-            type: "string",
-            name: "heading_line_1",
-            label: "Erste Zeile der Überschrift",
-          },
-          {
-            type: "string",
-            name: "heading_line_2",
-            label: "Zweite Zeile der Überschrift",
-          },
-          {
-            type: "string",
-            name: "tagline",
-            label: "Tagline",
-          },
-          {
-            type: "string",
-            name: "button",
-            label: "Button Text",
-          },
-          {
-            type: "string",
-            name: "button_url",
-            label: "Button Link",
-          },
-        ],
+        fields: [...heroFields()],
       },
       {
         format: "yml",
