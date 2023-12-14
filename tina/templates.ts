@@ -67,6 +67,9 @@ export function footerFields() {
           name: "link",
           label: "Links",
           list: true,
+          ui: {
+            itemProps: (item) => ({ label: `${item.name} - ${item.url}` }),
+          },
           fields: [
             {
               type: "string",
@@ -97,6 +100,9 @@ export function footerFields() {
           name: "link",
           label: "Links",
           list: true,
+          ui: {
+            itemProps: (item) => ({ label: `${item.name} - ${item.url}` }),
+          },
           fields: [
             {
               type: "string",
@@ -116,6 +122,7 @@ export function footerFields() {
       type: "string",
       name: "back_to_top_button_text",
       label: "Zurück nach oben - Text",
+      description: "HTML erlaubt",
     },
   ] as TinaField[];
 }
@@ -442,30 +449,6 @@ export function teambereichFields() {
           },
         },
       ],
-    },
-  ] as TinaField[];
-}
-export function wissenswertes___eintragFields() {
-  return [
-    {
-      type: "string",
-      name: "title",
-      label: "Der Titel des Eintrags",
-    },
-    {
-      type: "image",
-      name: "image",
-      label: "Bild auf Übersicht",
-    },
-    {
-      type: "image",
-      name: "feature_image",
-      label: "Bild",
-    },
-    {
-      type: "string",
-      name: "summary",
-      label: "Zusammenfassung",
     },
   ] as TinaField[];
 }
