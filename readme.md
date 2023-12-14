@@ -8,6 +8,14 @@ The site is powered by [Netlify](https://www.netlify.com), [Hugo](https://gohugo
 
 The designs are based on [Hugo Scroll](https://themes.gohugo.io/hugo-scroll/) and [Roxo Hugo](https://themes.gohugo.io/roxo-hugo/).
 
+## DEVELOPMENT
+
+### 🐾
+
+```
+npx tinacms dev -c "hugo server -D --source hunde"
+```
+
 ## LICENSE
 
 The »content« is owned by [Isabell Martins](https://www.isabellmartins.de).
