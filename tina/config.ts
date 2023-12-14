@@ -3,7 +3,7 @@ import { defineConfig } from "tinacms";
 import { call_to_actionFields } from "./templates";
 import { footerFields } from "./templates";
 import { heroFields } from "./templates";
-import { homepageFields } from "./templates";
+import { willkommenFields } from "./templates";
 import { kontaktformularFields } from "./templates";
 import { leistungenFields } from "./templates";
 import { qualifikationenFields } from "./templates";
@@ -76,7 +76,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Willkommen",
+        label: "Willkommen - Seite",
         name: "willkommen",
         path: "hunde/content",
         frontmatterFormat: "yaml",
@@ -89,20 +89,7 @@ export default defineConfig({
         match: {
           include: "_index",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          {
-            type: "string",
-            name: "title",
-            label: "Titel",
-          },
-        ],
+        fields: [...willkommenFields()],
       },
       {
         format: "yml",

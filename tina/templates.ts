@@ -155,12 +155,18 @@ export function heroFields() {
     },
   ] as TinaField[];
 }
-export function homepageFields() {
+export function willkommenFields() {
   return [
     {
       type: "string",
       name: "title",
-      label: "Titel",
+      label: "Titel der Seite",
+    },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Text",
+      isBody: true,
     },
   ] as TinaField[];
 }
