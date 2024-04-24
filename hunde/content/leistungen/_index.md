@@ -12,7 +12,7 @@ leistungen:
   - title: Prävention
     heading: Dein gesunder Hund optimal versorgt
     image: /images/oscar-sutton-unsplash-hund-im-wasser3.jpeg
-    text: >-
+    text: >
       **Ernährungsumstellung**: Wenn du z. B. von Fertigfutter auf selbst
       zubereitete Rationen umstellen möchtest, begleite ich dich dabei.
 
@@ -32,7 +32,7 @@ leistungen:
   - title: Trächtigkeit & Laktation
     heading: Eine gesunde Hundemama
     image: /images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg
-    text: >-
+    text: >
       Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr
       Bedarf an Kalorien und Nährstoffen sehr unterschiedlich und teilweise
       deutlich erhöht ist.
@@ -41,7 +41,7 @@ leistungen:
       **Komplett-Betreuung** während der Trächtigkeit und Laktation: Optimierung
       der Fütterung vor dem Belegen, Anpassungen gemäß dem Bedarf während
       Trächtigkeit und Laktation bis zum Absetzen der Welpen, Dauer: ca. 4
-      Monate  
+      Monate\
 
       – z. B. mit Erstgespräch, Folgegesprächen, Futterplänen und
       E-Mail-Betreuung
@@ -61,7 +61,7 @@ leistungen:
   - title: Welpen & Junghunde
     heading: Der beste Start ins Leben
     image: /images/katrin-b-playing_puppies-pixabay-com.jpeg
-    text: >-
+    text: >
       **Welpe** (2.-4. Monat): Beratung, Begleitung und/oder individuelle
       Futterpläne während der Welpenzeit
 
@@ -88,7 +88,7 @@ leistungen:
   - title: Senior
     heading: Fit & gesund bis ins hohe Alter
     image: /images/alt-2golden-retriever-snowinspired-pixabay.jpg
-    text: >-
+    text: >
       Hunde durchlaufen im Alter (je nach Größe und Rasse ab 6-10 Jahren)
       körperliche Veränderungen. Damit dein Hund den körperlichen
       Alterungsprozess möglichst langsam durchläuft und lange gesund und fit
@@ -114,7 +114,7 @@ leistungen:
   - title: Ernährungstherapie
     heading: Begleitend zur ärztlichen Versorgung
     image: /images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg
-    text: >-
+    text: >
       In einer Ernährungstherapie möchte ich dich bezüglich der Krankheit deines
       Hundes schulen, damit du weißt, was hinsichtlich der Ernährung und des
       Lebensstils wichtig ist, zu beachten. Neben der Theorie thematisieren wir
@@ -147,7 +147,7 @@ leistungen:
   - title: Krankheiten
     heading: Wenn die Ernährung ganz besonders wichtig ist
     image: /images/ccf052cb-a328-4ef3-8879-6d63038f92d0_1_105_c.jpeg
-    text: >-
+    text: >
       Bei diesen Krankheiten und Symptomen spielt die Ernährung eine besonders
       wichtige Rolle:
 
@@ -193,7 +193,7 @@ leistungen:
   - title: Allergie oder Unverträglichkeit
     heading: Optimal versorgt trotz Einschränkung
     image: /images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg
-    text: >-
+    text: >
       In der Beratung zu Allergien und Unverträglichkeiten gibt es
       unterschiedliche Bausteine – je nachdem, ob das auslösende Lebensmittel
       bekannt ist oder nicht.
@@ -208,7 +208,7 @@ leistungen:
 
       Futterumstellung: Der **Auslöser ist bekannt**. Du möchtest das Futter
       umstellen (z. B. zu selbst zubereitetem Futter, weil dir Diätfutter nicht
-      zusagt) und die Darmgesundheit* deines Hundes stärken.
+      zusagt) und die Darmgesundheit\* deines Hundes stärken.
 
 
       ***
@@ -216,7 +216,7 @@ leistungen:
 
       Optimierung der Fütterung: Der **Auslöser ist bekannt**. Du brauchst
       Alternativen zu dem zu meidendem Lebensmittel und möchtest die
-      Darmgesundheit* deines Hundes stärken.
+      Darmgesundheit\* deines Hundes stärken.
 
 
       ***
@@ -228,7 +228,7 @@ leistungen:
   - title: Sport & Arbeit
     heading: Unterstützung bei hohen Ansprüchen
     image: /images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg
-    text: >-
+    text: >
       Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
       aufgrund erhöhter physischer und psychischer Ansprüche. Dabei
       unterscheiden wir Leistungs- und Erholungszeiten.
@@ -247,7 +247,7 @@ leistungen:
   - title: Verhaltensauffälligkeiten
     heading: 'Hyperaktiv, leicht reizbar oder lethargisch?'
     image: /images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg
-    text: >-
+    text: >
       Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob
       **einzelne Bestandteile oder die Zusammensetzung** das Verhalten deines
       Hundes ungünstig beeinflussen kann.
@@ -259,10 +259,10 @@ leistungen:
   - title: Futterbewertung
     heading: 'Wie gut ist das Futter für meinen Hund? '
     image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
-    text: >-
+    text: >
       Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
       B. Trockenfutter, Feuchtfutter und/oder Leckerlies), die du aktuell
-      fütterst oder füttern möchtest. 
+      fütterst oder füttern möchtest.
 
 
       Diese nehme ich unter die Lupe und beurteile sie. Du erfährst, was daran
@@ -359,7 +359,7 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
 
-Ein **Erstgespräch** beinhaltet ein **Gespräch** (45 Minuten, per Telefon oder Video) mit Anamnese und Besprechung von ersten Empfehlungen und Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als **Dokument**. Außerdem kontrolliere ich einmal grob die **Nährstoffabdeckung** des Futters deines Hundes. Das Erstgespräch kostet **160 Euro**.
+Ein **Erstgespräch** beinhaltet ein **Gespräch** (45 Minuten, per Telefon oder Video) mit Anamnese und Besprechung von ersten Empfehlungen und Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als **Dokument**. Außerdem kontrolliere ich einmal grob die **Nährstoffabdeckung** des Futters deines Hundes. Das Erstgespräch kostet **210 Euro**.
 
 Manchmal reicht das Erstgespräch schon aus, wenn dein Anliegen nicht so umfangreich ist. Danach können wir ein **Folgegespräch** (30 Min., 70 Euro) vereinbaren oder für eine längere Betreuung biete ich dir gerne eine Auswahl an **Paketen** an, worunter du wählen kannst.
 
