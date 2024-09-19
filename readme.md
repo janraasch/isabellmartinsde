@@ -12,7 +12,7 @@ The designs are based on [Hugo Scroll](https://themes.gohugo.io/hugo-scroll/) an
 
 ### 🐾
 
-```
+```bash
 npx tinacms dev -c "hugo server -D --source hunde"
 ```
 
