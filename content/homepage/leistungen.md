@@ -11,7 +11,6 @@ Egal, ob du
 
 * jung oder alt bist,
 * dich zu dick oder zu dünn fühlst,
-* schwanger bist oder stillst,
 * krank oder gesund bist,
 
 jeder hat die Möglichkeit, etwas zu ändern, wenn er es will. Da das für die meisten von uns jedoch alleine schwer im Alltag zu schaffen ist, möchte ich dich unterstützen!
