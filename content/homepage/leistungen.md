@@ -41,37 +41,15 @@ In der Therapie geht es darum, mithilfe der Ernährung Erkrankungen zu lindern o
 
 In der Ernährungstherapie begleite ich die Behandlung von unter anderem folgenden Erkrankungen:
 
-* Allergien und Intoleranzen
-* Adipositas
-* Autoimmunerkrankungen
+* Adipositas/Übergewicht
 * Bluthochdruck
+* Chronisch entzündliche Erkrankungen
 * Diabetes mellitus
 * Endometriose
-* Essstörungen
-* Fettstoffwechselstörungen
-* Gicht
-* Herz- und Gefäßkrankheiten (Arteriosklerose)
-* Krebserkrankungen
-* Lebererkrankungen
 * Magen- und Darmerkrankungen
-* Neurodermitis
-* Nierenerkrankungen
-* Osteoporose
-* Rheuma
+* Nahrungsmittelunverträglichkeiten
 * Zöliakie
-* ...
-
-- - -
-
-### Betriebliche Gesundheitsförderung
-
-![Fitte Mitarbeiter](/images/Frau_Buero-1431966120240.jpg)
-
-Ich komme zu dir in die Firma und coache deine Mitarbeiter einzeln oder in der Gruppe zum Thema Ernährung. Das Programm erstelle ich individuell anhand des Bedarfs deiner Belegschaft und deinen Wünschen.
-
-Ziel ist es, das Wohlbefinden, die Motivation und die Leistungsfähigkeit deiner Mitarbeiter dauerhaft zu stärken.
-
-Weitere Informationen zur betrieblichen Gesundheitsförderung findest du [hier](/betriebliche-gesundheitsfoerderung).
+* Zyklus – Ernährung im Einklang mit dem Zyklus und eventuellen Beschwerden
 
 - - -
 
