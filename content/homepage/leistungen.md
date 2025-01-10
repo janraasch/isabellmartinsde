@@ -10,7 +10,7 @@ Jeder Mensch ist einzigartig. So individuell wie die Ernährung und der Lebensst
 Egal, ob du
 
 * jung oder alt bist,
-* ich zu dick oder zu dünn fühlst,
+* dich zu dick oder zu dünn fühlst,
 * schwanger bist oder stillst,
 * krank oder gesund bist,
 
