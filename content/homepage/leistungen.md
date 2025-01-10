@@ -25,12 +25,11 @@ Die Ernährungsberatung ist für jeden etwas. Wir schauen uns deine Essgewohnhei
 
 Die Beratung kann unter anderem folgende Punkte beinhalten:
 
-* Grundlagen zu Kohlenhydraten, Fetten, Eiweißen, Vitaminen und Mineralstoffen
+* Grundlagen zu einer gesunden Ernährung
+* Schulungen zu krankheitsspezifischen Themen
 * Analyse deines Essverhaltens
-* Unterstützung bei einer Ernährungsumstellung
-* Gemeinsames Einkaufen
-* Gemeinsam Essen zubereiten
-* Prävention bei Risikogruppen
+* individuelle Anpassungen deines Essverhaltens und Sicherstellung der Nachhaltigkeit
+* Planung der Gestaltung deines Tages und deiner Mahlzeiten
 
 - - -
 
