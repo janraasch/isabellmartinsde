@@ -359,11 +359,11 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 ## Preise
 
-Unser erster Termin ist ein **Anamnesegespräch**. Ich lerne deinen Hund/deine Hündin, den Alltag, den Gesundheitszustand und alles drumherum möglich genau kennen, um meine Beratung **individuell** abzustimmen. Wir besprechen deine **Ziele** und **Erwartungen** und unser gemeinsames Vorgehen. Bei diesem ersten Gespräch gebe ich dir schon ein paar **Empfehlungen** auf den Weg, die mir bei der Anamnese auffallen und die du sofort umsetzen kannst. Das Gespräch dauert etwa **60 Minuten** und kostet **120 Euro**. 
+Unser erster Termin ist ein **Anamnesegespräch**. Ich lerne deinen Hund/deine Hündin, den Alltag, den Gesundheitszustand und alles drumherum möglichst genau kennen, um meine Beratung **individuell** abzustimmen. Wir besprechen deine **Ziele** und **Erwartungen** und unser gemeinsames Vorgehen. Bei diesem ersten Gespräch gebe ich dir schon ein paar **Empfehlungen** mit auf den Weg, die mir bei der Anamnese auffallen und die du sofort umsetzen kannst. Das Gespräch dauert etwa **60 Minuten** und kostet **120 Euro**. 
 
 Meine Termine finden **online** per Video statt.
 
-Manchmal reicht die Erstberatung schon aus, wenn dein Anliegen nicht so umfangreich ist. Danach können wir eine **Folgebeartung** (30 Min. Gesprächszeit, 80 Euro) vereinbaren oder für eine längere Betreuung biete ich dir gerne ein individuelles **Paket** an.
+Danach starten wir mit der Umsetzung der besprochenen Planung. Ich werte unser Anamnesegespräch aus und bereite alle Inhalte für unser besprochenes Vorgehen individuell vor. Wir treffen uns in einem **Folgetermin** (30 Min. Gesprächszeit, 80 Euro).
 
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
