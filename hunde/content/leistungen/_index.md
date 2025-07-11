@@ -275,14 +275,16 @@ beratungsablauf: >
   ## ①
 
 
-  ##### Termin für ein Erstgespräch vereinbaren.
+  ##### Termin für ein Erstgespräch vereinbaren. Du bekommst daraufhin ein
+  Anmeldeformular, das du mir per E-Mail (eingescannt oder abfotografiert)
+  zurücksendest. 
 
 
   ## ②
 
 
-  ##### Rechnung für das Erstgespräch zahlen und Fragebogen zum Hund ausfüllen
-  und per E-Mail (eingescannt oder abfotografiert) zurücksenden.
+  ##### Ich schicke dir die Rechnung und die Login-Daten für unseren
+  Online-Termin.
 
 
   ## ③
@@ -357,9 +359,9 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 ## Preise
 
-Es ist mir sehr wichtig, für jeden Hund  die **individuell optimale Ernährung** zu ergründen und zusammenzustellen – zusätzlich angepasst auf **deine Vorlieben und Möglichkeiten.** Meine Preise beinhalten eine intensive und individuelle **Vorbereitung und Nachbereitung** für jede Beratung.
+Unser erster Termin ist ein **Anamnesegespräch**. Ich lerne deinen Hund/deine Hündin, den Alltag, den Gesundheitszustand und alles drumherum möglich genau kennen, um meine Beratung **individuell** abzustimmen. Wir besprechen deine **Ziele** und **Erwartungen** und unser gemeinsames Vorgehen. Bei diesem ersten Gespräch gebe ich dir schon ein paar **Empfehlungen** auf den Weg, die mir bei der Anamnese auffallen und die du sofort umsetzen kannst. Das Gespräch dauert etwa **60 Minuten** und kostet **120 Euro**. 
 
-Eine **Erstberatung** beinhaltet ein **Gespräch** (60 Minuten, online per Video) mit Anamnese und Besprechung von ersten Empfehlungen und Anpassungen in der Fütterung. Zusätzlich erhältst du die individuell besprochenen Empfehlungen und Anpassungen schriftlich als **Dokument**. Außerdem kontrolliere ich einmal grob die **Nährstoffabdeckung** des Futters deines Hundes. Die Erstberatung kostet **290 Euro**.
+Meine Termine finden **online** per Video statt.
 
 Manchmal reicht die Erstberatung schon aus, wenn dein Anliegen nicht so umfangreich ist. Danach können wir eine **Folgebeartung** (30 Min. Gesprächszeit, 80 Euro) vereinbaren oder für eine längere Betreuung biete ich dir gerne ein individuelles **Paket** an.
 
