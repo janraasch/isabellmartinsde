@@ -17,14 +17,8 @@ leistungen:
       zubereitete Rationen umstellen möchtest.
 
 
-      ***
-
-
       **Optimierung der Fütterung**: Ich überprüfe das Futter und die Rationen
       gemäß dem Bedarf deines Hundes.
-
-
-      ***
 
 
       **Futterplan erstellen**: Nach einer ausführlichen Anamnese erstelle ich
