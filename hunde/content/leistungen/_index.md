@@ -45,19 +45,6 @@ leistungen:
 
       – z. B. mit Erstgespräch, Folgegesprächen, Futterplänen und
       E-Mail-Betreuung
-
-
-      ***
-
-
-      **individueller Futterplan** (7-Tage-Übersicht) für eine bestimmte Phase
-
-
-      ***
-
-
-      Überprüfung und **Optimierung** der aktuellen Fütterung bzw. der Fütterung
-      für eine bestimmte Phase
   - title: Welpen & Junghunde
     heading: Der beste Start ins Leben
     image: /images/katrin-b-playing_puppies-pixabay-com.jpeg
@@ -305,8 +292,7 @@ beratungsablauf: >
   ##### Ich werte das Anamnesegespräch aus und erarbeite die Inhalte für unser
   Vorgehen individuell. Die Ergebnisse besprechen wir in einem Folgegespräch, in
   dem du genau erfährst, wie du vorgehst. &#xA;Wenn du möchtest, erstelle ich
-  dir dazu eine Fütterungsübersicht, wo alles Besprochene noch einmal
-  drinsteht. 
+  dir dazu eine Fütterungsübersicht, wo alles Besprochene noch einmal drinsteht.
 
 
   ***
@@ -356,7 +342,7 @@ Der erste Termin ist ein **Anamnesegespräch**. Ich lerne deinen Hund/deine Hün
 
 Meine Termine finden **online** per Video statt.
 
-Danach starten wir mit der **Umsetzung** der besprochenen Planung. Ich werte das Anamnesegespräch aus und bereite alle Inhalte für unser besprochenes Vorgehen individuell vor. Wir treffen uns in einem **Folgetermin** , in dem ich dir alles genau erkläre, was für die Fütterung deiner Hündin/deines Hundes wichtig ist. 
+Danach starten wir mit der **Umsetzung** der besprochenen Planung. Ich werte das Anamnesegespräch aus und bereite alle Inhalte für unser besprochenes Vorgehen individuell vor. Wir treffen uns in einem **Folgetermin** , in dem ich dir alles genau erkläre, was für die Fütterung deiner Hündin/deines Hundes wichtig ist.
 Dieser Termin beinhltet die **Auswertung der Anamnese**, die **individuelle Planung**, **30 Min. Gesprächszeit** und ggf. die Erstellung einer **Fütterungsübersicht**. Er kostet **80-120 Euro**, je nach Umfang und individuell erstellten Dokumenten.
 
 Wir können gerne ein **Infogespräch** zum Kennenlernen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
