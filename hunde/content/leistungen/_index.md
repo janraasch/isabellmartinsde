@@ -366,7 +366,7 @@ Meine Termine finden **online** per Video statt.
 Danach starten wir mit der **Umsetzung** der besprochenen Planung. Ich werte das Anamnesegespräch aus und bereite alle Inhalte für unser besprochenes Vorgehen individuell vor. Wir treffen uns in einem **Folgetermin** , in dem ich dir alles genau erkläre, was für die Fütterung deiner Hündin/deines Hundes wichtig ist. 
 Dieser Termin beinhltet die **Auswertung der Anamnese**, die **individuelle Planung**, **30 Min. Gesprächszeit** und ggf. die Erstellung einer **Fütterungsübersicht**. Er kostet **80-120 Euro**, je nach Umfang und individuell erstellten Dokumenten.
 
-Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
+Wir können gerne ein **Infogespräch** zum Kennenlernen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
 → [Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
 
