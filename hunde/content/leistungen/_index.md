@@ -30,8 +30,6 @@ leistungen:
       Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr
       Bedarf an Kalorien und Nährstoffen sehr unterschiedlich und teilweise
       deutlich erhöht ist.
-
-        
   - title: Welpen & Junghunde
     heading: Für einen optimalen Start ins Leben
     image: /images/katrin-b-playing_puppies-pixabay-com.jpeg
@@ -60,6 +58,8 @@ leistungen:
       körperliche Veränderungen. Damit dein Hund den körperlichen
       Alterungsprozess möglichst langsam durchläuft und lange gesund und fit
       bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.
+
+        
   - title: Krankheiten
     heading: Wenn die Ernährung ganz besonders wichtig ist
     image: /images/ccf052cb-a328-4ef3-8879-6d63038f92d0_1_105_c.jpeg
