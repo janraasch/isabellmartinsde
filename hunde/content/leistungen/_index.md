@@ -58,39 +58,6 @@ leistungen:
       körperliche Veränderungen. Damit dein Hund den körperlichen
       Alterungsprozess möglichst langsam durchläuft und lange gesund und fit
       bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.
-  - title: Ernährungstherapie
-    heading: Begleitend zur ärztlichen Versorgung
-    image: /images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg
-    text: >
-      In einer Ernährungstherapie möchte ich dich bezüglich der Krankheit deines
-      Hundes schulen, damit du weißt, was hinsichtlich der Ernährung und des
-      Lebensstils wichtig ist zu beachten. Neben der Theorie thematisieren wir
-      natürlich auch die praktische Umsetzung in eurem Alltag.
-
-
-      **Ernährungsumstellung**: Wenn du auf eine Fütterung, die für die
-      Situation deines Hundes optimal ist, umstellen möchtest.
-
-
-      ***
-
-
-      **Optimierung der Fütterung**: Wir nehmen Anpassungen, die für die
-      Erkrankung bedeutend sind, vor.
-
-
-      ***
-
-
-      **Futterplan erstellen**: Nach einer ausführlichen Anamnese erstelle ich
-      dir eine individuelle Übersicht zur Fütterung deines Hundes, mit
-      7-Tages-Plan.
-
-
-      ***
-
-
-      nur **Schulung** (Theorie und Umsetzung)
   - title: Krankheiten
     heading: Wenn die Ernährung ganz besonders wichtig ist
     image: /images/ccf052cb-a328-4ef3-8879-6d63038f92d0_1_105_c.jpeg
