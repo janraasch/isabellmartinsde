@@ -318,8 +318,8 @@ beratungsablauf: >
 
 
   \*Die Rechnung musst du vor dem Termin bezahlen. Sie gilt als
-  Auftragsbestätigung und ich mache mich an die Arbeit, sobald auch der
-  ausgefüllte Fragebogen bei mir eingegangen ist.
+  Auftragsbestätigung und ich mache mich an die Arbeit (Vorbereitung/Auswertung
+  der Anamnese).
 ---
 
 ## Mein Angebot
