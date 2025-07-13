@@ -30,15 +30,6 @@ leistungen:
       Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr
       Bedarf an Kalorien und Nährstoffen sehr unterschiedlich und teilweise
       deutlich erhöht ist.
-
-
-      **Komplett-Betreuung** während der Trächtigkeit und Laktation: Optimierung
-      der Fütterung vor dem Belegen, Anpassungen gemäß dem Bedarf während
-      Trächtigkeit und Laktation bis zum Absetzen der Welpen, Dauer: ca. 4
-      Monate\
-
-      – z. B. mit Erstgespräch, Folgegesprächen, Futterplänen und
-      E-Mail-Betreuung
   - title: Welpen & Junghunde
     heading: Für einen optimalen Start ins Leben
     image: /images/katrin-b-playing_puppies-pixabay-com.jpeg
