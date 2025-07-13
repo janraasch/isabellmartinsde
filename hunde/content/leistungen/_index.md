@@ -30,6 +30,8 @@ leistungen:
       Eine trächtige und laktierende Hündin durchläuft Phasen, in denen ihr
       Bedarf an Kalorien und Nährstoffen sehr unterschiedlich und teilweise
       deutlich erhöht ist.
+
+        
   - title: Welpen & Junghunde
     heading: Für einen optimalen Start ins Leben
     image: /images/katrin-b-playing_puppies-pixabay-com.jpeg
@@ -142,8 +144,6 @@ leistungen:
       Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
       aufgrund erhöhter physischer und psychischer Ansprüche. Dabei
       unterscheiden wir Leistungs- und Erholungszeiten.
-
-        
   - title: Futterbewertung
     heading: 'Wie gut ist das Futter für meinen Hund? '
     image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
