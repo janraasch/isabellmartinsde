@@ -224,21 +224,21 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 ► [Prävention](#prävention): z. B. Futterumstellung, umweltfreundliche(re) Fütterung, Überprüfung von selbst zubereiteten Rationen
 
+► [Futterbewertung](#futterbewertung) (von Trocken- und Feuchtfutter)
+
+► [Allergie oder Unverträglichkeit](#allergie-oder-unverträglichkeit): Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit.
+
+► [Verhaltensauffälligkeiten](#verhaltensauffälligkeiten): Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil: lethargisch.
+
 ► [Trächtigkeit & Laktation](#trächtigkeit--laktation): Deine Hündin ist oder wird trächtig oder hat bereits Welpen.
 
 ► [Welpen & Junghunde](#welpen--junghunde)
 
 ► [Senior](#senior): Dein Hund ist schon älter und du möchtest über die Fütterung unterstützen, dass er lange gesund und fit bleibt.
 
-► [Ernährungstherapie](#ernährungstherapie): Dein Hund ist krank – du musst deswegen bei der Fütterung auf bestimmte Dinge achten oder möchtest den Körper beim Gesundwerden unterstützen bzw. ermöglichen, dass die chronische Erkrankung mild verläuft oder möglichst langsam voranschreitet.
-
-► [Allergie oder Unverträglichkeit](#allergie-oder-unverträglichkeit): Dein Hund hat Symptome einer Unverträglichkeit/Allergie und du möchtest herausfinden, was er nicht verträgt oder du hast Schwierigkeiten bei der Fütterung bei einer Bestehenden Unverträglichkeit.
-
-► [Verhaltensauffälligkeiten](#verhaltensauffälligkeiten): Dein Hund ist sehr schnell reizbar, wirkt hyperaktiv oder ganz im Gegenteil: lethargisch.
-
 ► [Sport & Arbeit](#sport--arbeit): Dein Hund begleitet dich oder jemand anderes beruflich oder du betreibst engagiert Hundesport.
 
-► [Futterbewertung](#futterbewertung) (von Trocken- und Feuchtfutter)
+► [Ernährungstherapie](#ernährungstherapie): Dein Hund ist krank – du musst deswegen bei der Fütterung auf bestimmte Dinge achten oder möchtest den Körper beim Gesundwerden unterstützen bzw. ermöglichen, dass die chronische Erkrankung mild verläuft oder möglichst langsam voranschreitet.
 
 ***
 
