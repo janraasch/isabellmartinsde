@@ -129,12 +129,12 @@ leistungen:
     text: >
       Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob
       **einzelne Bestandteile oder die Zusammensetzung** das Verhalten deines
-      Hundes ungünstig beeinflussen kann.
+      Hundes ungünstig beeinflussen.
 
 
-      Wir testen **alternatives Futter**, das **individuell geeigneter** ist,
-      aus und beobachten, ob es sich günstig auf das Verhalten deines Hundes
-      auswirkt. Auch Ergänzungen können helfen.
+      Wir testen **alternatives Futter**, das **individuell geeigneter** ist und
+      beobachten, ob es sich günstig auf das Verhalten deines Hundes auswirkt.
+      Auch Ergänzungen können helfen.
   - title: Sport & Arbeit
     heading: Unterstützung bei hohen Ansprüchen
     image: /images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg
