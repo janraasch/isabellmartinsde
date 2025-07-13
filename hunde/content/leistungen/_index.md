@@ -58,24 +58,6 @@ leistungen:
       körperliche Veränderungen. Damit dein Hund den körperlichen
       Alterungsprozess möglichst langsam durchläuft und lange gesund und fit
       bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.
-
-
-      **Ernährungsumstellung**: Wenn du auf eine andere Fütterung umstellen
-      möchtest.
-
-
-      ***
-
-
-      **Optimierung der Fütterung**: Wir nehmen Anpassungen, die für das Alter
-      deines Hundes und seine Veranlagung bedeutend sind, vor.
-
-
-      ***
-
-
-      **Futterplan erstellen**: Übersicht über die  Fütterung deines Hundes mit
-      einem individuellen Plan für 7 Tage nach ausführlicher Anamnese
   - title: Ernährungstherapie
     heading: Begleitend zur ärztlichen Versorgung
     image: /images/0af4dfe4-618c-4678-9e42-c85b56c92f4f_1_105_c.jpeg
