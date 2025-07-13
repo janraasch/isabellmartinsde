@@ -61,6 +61,9 @@ leistungen:
       körperliche Veränderungen. Damit dein Hund den körperlichen
       Alterungsprozess möglichst langsam durchläuft und lange gesund und fit
       bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.
+
+
+      ***
   - title: Sport & Arbeit
     heading: Unterstützung bei hohen Ansprüchen
     image: /images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg
