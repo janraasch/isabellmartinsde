@@ -14,7 +14,7 @@ leistungen:
     image: /images/oscar-sutton-unsplash-hund-im-wasser3.jpeg
     text: >
       **Ernährungsumstellung**: Wenn du z. B. von Fertigfutter auf selbst
-      zubereitete Rationen umstellen möchtest, begleite ich dich dabei.
+      zubereitete Rationen umstellen möchtest.
 
 
       ***
