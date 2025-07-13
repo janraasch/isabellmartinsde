@@ -206,13 +206,16 @@ beratungsablauf: >
   ***
 
 
+  \*Die Rechnung musst du vor dem Termin bezahlen. Sie gilt als
+  Auftragsbestätigung und für mich als Start für die Vorbereitung.
+
+
+  ***
+
+
   Am besten erreichst du mich per [E-Mail/Kontaktformular](/contact). Du kannst
   mir aber auch gerne auf die [Mailbox](tel:015792351484) sprechen und ich rufe
   dich zurück.
-
-
-  \*Die Rechnung musst du vor dem Termin bezahlen. Sie gilt als
-  Auftragsbestätigung und für mich als Start für die Vorbereitung.
 ---
 
 ## Mein Angebot
