@@ -363,7 +363,7 @@ Der erste Termin ist ein **Anamnesegespräch**. Ich lerne deinen Hund/deine Hün
 
 Meine Termine finden **online** per Video statt.
 
-Danach starten wir mit der Umsetzung der besprochenen Planung. Ich werte unser Anamnesegespräch aus und bereite alle Inhalte für unser besprochenes Vorgehen individuell vor. Wir treffen uns in einem **Folgetermin** (30 Min. Gesprächszeit, 80 Euro).
+Danach starten wir mit der **Umsetzung** der besprochenen Planung. Ich werte unser Anamnesegespräch aus und bereite alle Inhalte für unser besprochenes Vorgehen individuell vor. Wir treffen uns in einem **Folgetermin** (30 Min. Gesprächszeit, 80 Euro), wo ich dir alles genau erkläre.
 
 Wir können gerne ein telefonisches **Infogespräch** zum Kennenlernen und Vorgehen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
