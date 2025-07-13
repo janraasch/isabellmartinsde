@@ -64,7 +64,7 @@ leistungen:
     text: >
       In einer Ernährungstherapie möchte ich dich bezüglich der Krankheit deines
       Hundes schulen, damit du weißt, was hinsichtlich der Ernährung und des
-      Lebensstils wichtig ist, zu beachten. Neben der Theorie thematisieren wir
+      Lebensstils wichtig ist zu beachten. Neben der Theorie thematisieren wir
       natürlich auch die praktische Umsetzung in eurem Alltag.
 
 
