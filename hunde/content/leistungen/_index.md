@@ -71,6 +71,9 @@ leistungen:
       Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
       aufgrund erhöhter physischer und psychischer Ansprüche. Dabei
       unterscheiden wir Leistungs- und Erholungszeiten.
+
+
+      ***
   - title: Allergie oder Unverträglichkeit
     heading: Optimal versorgt trotz Einschränkung
     image: /images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg
