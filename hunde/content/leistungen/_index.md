@@ -291,18 +291,22 @@ beratungsablauf: >
 
 
   ##### Im Erstgespräch besprechen wir alles Wichtige zu deinem Hund
-  (ausführliche Anamnese).
+  (ausführliche Anamnese) und unser gemeinsames Vorgehen. Du bekommst eine erste
+  Rückmeldung und Empfehlungen von mir, was für deine Hündin/deinen Hund wichtig
+  ist.
 
 
-  ##### Wir klären, was bei der Fütterung zu berücksichtigen ist und was du
-  dafür brauchst.
+  ##### Wir verainbaren einen Folgetermin für die Umsetzung.
 
 
   ## ④
 
 
-  ##### Wir vereinbaren ein Folgegespräch und/oder Möglichkeiten der
-  Ernährungsberatung, die für eure Situation sinnvoll sind.
+  ##### Ich werte das Anamnesegespräch aus und erarbeite die Inhalte für unser
+  Vorgehen individuell. Die Ergebnisse besprechen wir in einem Folgegespräch, in
+  dem du genau erfährst, wie du vorgehst. &#xA;Wenn du möchtest, erstelle ich
+  dir dazu eine Fütterungsübersicht, wo alles Besprochene noch einmal
+  drinsteht. 
 
 
   ***
