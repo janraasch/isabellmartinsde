@@ -23,6 +23,18 @@ leistungen:
 
       **Futterplan erstellen**: Nach einer ausführlichen Anamnese erstelle ich
       dir eine individuelle Übersicht zur Fütterung deines Hundes.
+  - title: Futterbewertung
+    heading: 'Wie gut ist das Futter für meinen Hund? '
+    image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
+    text: >
+      Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
+      B. Trockenfutter, Feuchtfutter und/oder Leckerlies), die du aktuell
+      fütterst oder füttern möchtest.
+
+
+      Diese nehme ich unter die Lupe und beurteile sie. Du erfährst, was daran
+      günstig ist und was nicht so günstig und ob du sie durch kleine, einfache
+      Ergänzungen aufwerten kannst oder lieber auf ein anderes umstellst.
   - title: Allergie oder Unverträglichkeit
     heading: Optimal versorgt trotz Einschränkung
     image: /images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg
@@ -54,18 +66,6 @@ leistungen:
       Wir testen **alternatives Futter**, das **individuell geeigneter** ist und
       beobachten, ob es sich günstig auf das Verhalten deines Hundes auswirkt.
       Auch Ergänzungen können helfen.
-  - title: Futterbewertung
-    heading: 'Wie gut ist das Futter für meinen Hund? '
-    image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
-    text: >
-      Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
-      B. Trockenfutter, Feuchtfutter und/oder Leckerlies), die du aktuell
-      fütterst oder füttern möchtest.
-
-
-      Diese nehme ich unter die Lupe und beurteile sie. Du erfährst, was daran
-      günstig ist und was nicht so günstig und ob du sie durch kleine, einfache
-      Ergänzungen aufwerten kannst oder lieber auf ein anderes umstellst.
   - title: Trächtigkeit & Laktation
     heading: Eine gesunde Hundemama
     image: /images/4ff9467d-ce2c-4082-a429-995fa7ad9766_1_105_c.jpeg
