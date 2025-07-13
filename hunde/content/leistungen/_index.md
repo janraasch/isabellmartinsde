@@ -142,18 +142,6 @@ leistungen:
       Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
       aufgrund erhöhter physischer und psychischer Ansprüche. Dabei
       unterscheiden wir Leistungs- und Erholungszeiten.
-
-
-      **Optimierung der Fütterung**: Ich überprüfe das Futter und die Rationen
-      gemäß dem Bedarf deines Hundes.
-
-
-      ***
-
-
-      **Futterplan erstellen**: Nach ausführlicher Anamnese erstelle ich dir
-      eine individuelle Übersicht zur Fütterung gemäß dem Bedarf deines Hundes
-      und den an ihn gestellten Ansprüchen.
   - title: Futterbewertung
     heading: 'Wie gut ist das Futter für meinen Hund? '
     image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
