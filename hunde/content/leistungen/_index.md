@@ -277,7 +277,7 @@ beratungsablauf: >
 
   ##### Termin für ein Erstgespräch vereinbaren. Du bekommst daraufhin ein
   Anmeldeformular, das du mir per E-Mail (eingescannt oder abfotografiert)
-  zurücksendest. 
+  zurücksendest.
 
 
   ## ②
@@ -359,7 +359,7 @@ Hier findest du die wichtigsten Themen, zu denen ich dich gerne berate. Wenn du 
 
 ## Preise
 
-Unser erster Termin ist ein **Anamnesegespräch**. Ich lerne deinen Hund/deine Hündin, den Alltag, den Gesundheitszustand und alles drumherum möglichst genau kennen, um meine Beratung **individuell** abzustimmen. Wir besprechen deine **Ziele** und **Erwartungen** und unser gemeinsames Vorgehen. Bei diesem ersten Gespräch gebe ich dir schon ein paar **Empfehlungen** mit auf den Weg, die mir bei der Anamnese auffallen und die du sofort umsetzen kannst. Das Gespräch dauert etwa **60 Minuten** und kostet **120 Euro**. 
+Der erste Termin ist ein **Anamnesegespräch**. Ich lerne deinen Hund/deine Hündin, den Alltag, den Gesundheitszustand und alles drumherum möglichst genau kennen, um meine Beratung **individuell** abzustimmen. Wir besprechen deine **Ziele** und **Erwartungen** und unser gemeinsames Vorgehen. Bei diesem ersten Gespräch gebe ich dir schon ein paar **Empfehlungen** mit auf den Weg, die mir bei der Anamnese auffallen und die du sofort umsetzen kannst. Das Gespräch dauert etwa **60 Minuten** und kostet **120 Euro**.
 
 Meine Termine finden **online** per Video statt.
 
