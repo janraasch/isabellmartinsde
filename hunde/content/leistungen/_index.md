@@ -102,8 +102,8 @@ leistungen:
 
 
       Ist dein Hund krank und du bist nicht sicher, ob die Ernährung darauf
-      Einfluss haben kann, melde dich gerne – ich versuche, dir eine
-      realistische Einschätzung zu eurer individuellen Siatuation zu geben.
+      Einfluss haben kann? Melde dich gerne bei mir – ich versuche, dir eine
+      realistische Einschätzung zu eurer individuellen Situation zu geben.
   - title: Allergie oder Unverträglichkeit
     heading: Optimal versorgt trotz Einschränkung
     image: /images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg
@@ -139,6 +139,18 @@ leistungen:
       \*Die Darmgesundheit spielt bei Allergien und Unverträglichkeiten eine
       sehr wichtige Rolle, da eine angegriffene Darmschleimhaut und/oder ein
       verändertes Darmmikrobiom Auslöser oder Verstärker sein können.
+  - title: Verhaltensauffälligkeiten
+    heading: 'Hyperaktiv, leicht reizbar oder lethargisch?'
+    image: /images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg
+    text: >
+      Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob
+      **einzelne Bestandteile oder die Zusammensetzung** das Verhalten deines
+      Hundes ungünstig beeinflussen kann.
+
+
+      Wir testen **alternatives Futter**, das **individuell geeigneter** ist,
+      aus und beobachten, ob es sich günstig auf das Verhalten deines Hundes
+      auswirkt. Auch Ergänzungen können helfen.
   - title: Sport & Arbeit
     heading: Unterstützung bei hohen Ansprüchen
     image: /images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg
@@ -158,18 +170,6 @@ leistungen:
       **Futterplan erstellen**: Nach ausführlicher Anamnese erstelle ich dir
       eine individuelle Übersicht zur Fütterung gemäß dem Bedarf deines Hundes
       und den an ihn gestellten Ansprüchen.
-  - title: Verhaltensauffälligkeiten
-    heading: 'Hyperaktiv, leicht reizbar oder lethargisch?'
-    image: /images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg
-    text: >
-      Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob
-      **einzelne Bestandteile oder die Zusammensetzung** das Verhalten deines
-      Hundes ungünstig beeinflussen kann.
-
-
-      Wir testen **alternatives Futter**, das **individuell geeigneter** ist,
-      aus und beobachten, ob es sich günstig auf das Verhalten deines Hundes
-      auswirkt. Auch Ergänzungen können helfen.
   - title: Futterbewertung
     heading: 'Wie gut ist das Futter für meinen Hund? '
     image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
