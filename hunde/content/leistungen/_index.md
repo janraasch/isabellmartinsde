@@ -110,35 +110,19 @@ leistungen:
     text: >
       In der Beratung zu Allergien und Unverträglichkeiten gibt es
       unterschiedliche Bausteine – je nachdem, ob das auslösende Lebensmittel
-      bekannt ist oder nicht.
+      bekannt ist oder nicht. Beispiele:
 
 
-      Ausschlussdiät bei **unbekanntem Auslöser**,  anschließender Futteraufbau
-      und langfristige Fütterung
+      * Ausschlussdiät bei **unbekanntem Auslöser**,  anschließender
+      Futteraufbau und langfristige Fütterung
 
-
-      ***
-
-
-      Futterumstellung: Der **Auslöser ist bekannt**. Du möchtest das Futter
+      * Futterumstellung: Der **Auslöser ist bekannt**. Du möchtest das Futter
       umstellen (z. B. zu selbst zubereitetem Futter, weil dir Diätfutter nicht
-      zusagt) und die Darmgesundheit\* deines Hundes stärken.
+      zusagt) und die Darmgesundheit deines Hundes stärken.
 
-
-      ***
-
-
-      Optimierung der Fütterung: Der **Auslöser ist bekannt**. Du brauchst
+      * Optimierung der Fütterung: Der **Auslöser ist bekannt**. Du brauchst
       Alternativen zu dem zu meidendem Lebensmittel und möchtest die
-      Darmgesundheit\* deines Hundes stärken.
-
-
-      ***
-
-
-      \*Die Darmgesundheit spielt bei Allergien und Unverträglichkeiten eine
-      sehr wichtige Rolle, da eine angegriffene Darmschleimhaut und/oder ein
-      verändertes Darmmikrobiom Auslöser oder Verstärker sein können.
+      Darmgesundheit deines Hundes stärken.
   - title: Verhaltensauffälligkeiten
     heading: 'Hyperaktiv, leicht reizbar oder lethargisch?'
     image: /images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg
