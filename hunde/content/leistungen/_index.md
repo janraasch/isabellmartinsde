@@ -254,6 +254,8 @@ Dieser Termin beinhltet die **Auswertung der Anamnese**, die **individuelle Plan
 
 Wir können gerne ein **Infogespräch** zum Kennenlernen vereinbaren. Das ist natürlich kostenlos. [Infogespräch anfragen ☎️](https://hunde.isabellmartins.de/contact "Kontaktformular")
 
+***
+
 → [Termin vereinbaren](https://hunde.isabellmartins.de/contact "Kontakt aufnehmen")
 
 ***
