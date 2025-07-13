@@ -283,7 +283,7 @@ beratungsablauf: >
   ## ②
 
 
-  ##### Ich schicke dir die Rechnung und die Login-Daten für unseren
+  ##### Ich schicke dir die Rechnung\* und die Login-Daten für unseren
   Online-Termin.
 
 
@@ -317,20 +317,9 @@ beratungsablauf: >
   dich zurück.
 
 
-  Wir können auch einmal telefonieren, damit du mich kennenlernen kannst und wir
-  besprechen, wie ich dir helfen kann. Solltest du mich nicht erreichen, teile
-  mir bitte mit, wann du gut erreichbar bist und ich melde mich zeitnah bei dir.
-
-
-  Wir vereinbaren einen Termin für ein Erstgespräch und du erhältst eine
-  Rechnung und einen Fragebogen zu deinem Hund. Die Rechnung musst du vor dem
-  Termin bezahlen. Sie gilt als Auftragsbestätigung und ich mache mich an die
-  Arbeit, sobald auch der ausgefüllte Fragebogen bei mir eingegangen ist.
-
-
-  Wenn wir einen schriftlichen Auftrag vereinbart haben, erhältst du das
-  Ergebnise etwa 1-2 Wochen nach Eingang von Zahlung und ausgefüllten
-  Fragebogen.
+  \*Die Rechnung musst du vor dem Termin bezahlen. Sie gilt als
+  Auftragsbestätigung und ich mache mich an die Arbeit, sobald auch der
+  ausgefüllte Fragebogen bei mir eingegangen ist.
 ---
 
 ## Mein Angebot
