@@ -58,8 +58,56 @@ leistungen:
       körperliche Veränderungen. Damit dein Hund den körperlichen
       Alterungsprozess möglichst langsam durchläuft und lange gesund und fit
       bleibt, kannst du ihn sehr gut über die Ernährung unterstützen.
+  - title: Sport & Arbeit
+    heading: Unterstützung bei hohen Ansprüchen
+    image: /images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg
+    text: >
+      Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
+      aufgrund erhöhter physischer und psychischer Ansprüche. Dabei
+      unterscheiden wir Leistungs- und Erholungszeiten.
+  - title: Allergie oder Unverträglichkeit
+    heading: Optimal versorgt trotz Einschränkung
+    image: /images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg
+    text: >
+      In der Beratung zu Allergien und Unverträglichkeiten gibt es
+      unterschiedliche Bausteine – je nachdem, ob das auslösende Lebensmittel
+      bekannt ist oder nicht. Beispiele:
 
-        
+
+      * Ausschlussdiät bei **unbekanntem Auslöser**,  anschließender
+      Futteraufbau und langfristige Fütterung
+
+      * Futterumstellung: Der **Auslöser ist bekannt**. Du möchtest das Futter
+      umstellen (z. B. zu selbst zubereitetem Futter, weil dir Diätfutter nicht
+      zusagt) und die Darmgesundheit deines Hundes stärken.
+
+      * Optimierung der Fütterung: Der **Auslöser ist bekannt**. Du brauchst
+      Alternativen zu dem zu meidendem Lebensmittel und möchtest die
+      Darmgesundheit deines Hundes stärken.
+  - title: Verhaltensauffälligkeiten
+    heading: 'Hyperaktiv, leicht reizbar oder lethargisch?'
+    image: /images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg
+    text: >
+      Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob
+      **einzelne Bestandteile oder die Zusammensetzung** das Verhalten deines
+      Hundes ungünstig beeinflussen.
+
+
+      Wir testen **alternatives Futter**, das **individuell geeigneter** ist und
+      beobachten, ob es sich günstig auf das Verhalten deines Hundes auswirkt.
+      Auch Ergänzungen können helfen.
+  - title: Futterbewertung
+    heading: 'Wie gut ist das Futter für meinen Hund? '
+    image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
+    text: >
+      Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
+      B. Trockenfutter, Feuchtfutter und/oder Leckerlies), die du aktuell
+      fütterst oder füttern möchtest.
+
+
+      Diese nehme ich unter die Lupe und beurteile sie. Du erfährst, was daran
+      günstig ist und was nicht so günstig und ob du sie durch kleine, einfache
+      Ergänzungen aufwerten kannst oder lieber auf ein anderes umstellst.
   - title: Krankheiten
     heading: Wenn die Ernährung ganz besonders wichtig ist
     image: /images/ccf052cb-a328-4ef3-8879-6d63038f92d0_1_105_c.jpeg
@@ -106,56 +154,6 @@ leistungen:
       Ist dein Hund krank und du bist nicht sicher, ob die Ernährung darauf
       Einfluss haben kann? Melde dich gerne bei mir – ich versuche, dir eine
       realistische Einschätzung zu eurer individuellen Situation zu geben.
-  - title: Allergie oder Unverträglichkeit
-    heading: Optimal versorgt trotz Einschränkung
-    image: /images/0cb8c41b-2177-4aa3-9dff-3f5a6ca36a0b_1_105_c.jpeg
-    text: >
-      In der Beratung zu Allergien und Unverträglichkeiten gibt es
-      unterschiedliche Bausteine – je nachdem, ob das auslösende Lebensmittel
-      bekannt ist oder nicht. Beispiele:
-
-
-      * Ausschlussdiät bei **unbekanntem Auslöser**,  anschließender
-      Futteraufbau und langfristige Fütterung
-
-      * Futterumstellung: Der **Auslöser ist bekannt**. Du möchtest das Futter
-      umstellen (z. B. zu selbst zubereitetem Futter, weil dir Diätfutter nicht
-      zusagt) und die Darmgesundheit deines Hundes stärken.
-
-      * Optimierung der Fütterung: Der **Auslöser ist bekannt**. Du brauchst
-      Alternativen zu dem zu meidendem Lebensmittel und möchtest die
-      Darmgesundheit deines Hundes stärken.
-  - title: Verhaltensauffälligkeiten
-    heading: 'Hyperaktiv, leicht reizbar oder lethargisch?'
-    image: /images/6ec07551-5f78-456a-b5b5-0aecfb0c757b_1_105_c.jpeg
-    text: >
-      Hier nehmen wir das Futter deines Hundes unter die Lupe und schauen, ob
-      **einzelne Bestandteile oder die Zusammensetzung** das Verhalten deines
-      Hundes ungünstig beeinflussen.
-
-
-      Wir testen **alternatives Futter**, das **individuell geeigneter** ist und
-      beobachten, ob es sich günstig auf das Verhalten deines Hundes auswirkt.
-      Auch Ergänzungen können helfen.
-  - title: Sport & Arbeit
-    heading: Unterstützung bei hohen Ansprüchen
-    image: /images/358a07d2-09a6-461b-82eb-4a21b81e3608_1_201_a.jpeg
-    text: >
-      Wir gestalten die Fütterung deines Hundes gemäß seines erhöhten Bedarfs
-      aufgrund erhöhter physischer und psychischer Ansprüche. Dabei
-      unterscheiden wir Leistungs- und Erholungszeiten.
-  - title: Futterbewertung
-    heading: 'Wie gut ist das Futter für meinen Hund? '
-    image: /images/a21f2084-4d2f-45e2-9071-e697b519be9b_1_201_a.jpeg
-    text: >
-      Du schickst mir die Namen (und ggf. Links) von **deinen Futtersorten** (z.
-      B. Trockenfutter, Feuchtfutter und/oder Leckerlies), die du aktuell
-      fütterst oder füttern möchtest.
-
-
-      Diese nehme ich unter die Lupe und beurteile sie. Du erfährst, was daran
-      günstig ist und was nicht so günstig und ob du sie durch kleine, einfache
-      Ergänzungen aufwerten kannst oder lieber auf ein anderes umstellst.
 beratungsablauf: >
   ## Wie läuft eine Beratung ab?
 
