@@ -46,7 +46,7 @@ leistungen:
       – z. B. mit Erstgespräch, Folgegesprächen, Futterplänen und
       E-Mail-Betreuung
   - title: Welpen & Junghunde
-    heading: Der beste Start ins Leben
+    heading: Für einen optimalen Start ins Leben
     image: /images/katrin-b-playing_puppies-pixabay-com.jpeg
     text: >
       **Welpe** (2.-4. Monat): Beratung, Begleitung und/oder individuelle
@@ -65,13 +65,6 @@ leistungen:
 
       **Welpe & Junghund** (2.-12. Monat): Beratung, Begleitung und/oder
       individuelle Futterpläne über die gesamte Zeit des Wachstums
-
-
-      ***
-
-
-      individueller Futterplan für das **aktuelle Alter und Gewicht** für 7 Tage
-      nach ausführlicher Anamnese
   - title: Senior
     heading: Fit & gesund bis ins hohe Alter
     image: /images/alt-2golden-retriever-snowinspired-pixabay.jpg
