@@ -14,7 +14,7 @@
     "tinacms": "^2.8.3"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.10.3",
+    "@tinacms/cli": "^1.11.0",
     "@types/node": "^22.15.30"
   }
 }
